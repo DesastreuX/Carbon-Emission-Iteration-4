@@ -1,0 +1,10201 @@
+ID,Waste Bag Size,Waste Bag Weekly Count
+1,large,4
+2,extra large,3
+3,small,1
+4,medium,3
+5,large,1
+6,large,1
+7,medium,4
+8,extra large,3
+9,medium,3
+10,extra large,1
+11,extra large,4
+12,medium,5
+13,large,3
+14,large,6
+15,small,6
+16,small,6
+17,extra large,4
+18,large,6
+19,medium,2
+20,small,4
+21,large,6
+22,large,1
+23,small,3
+24,small,4
+25,medium,1
+26,medium,6
+27,large,4
+28,large,3
+29,small,2
+30,small,2
+31,medium,4
+32,large,5
+33,medium,4
+34,small,5
+35,medium,6
+36,large,2
+37,medium,2
+38,medium,5
+39,small,6
+40,small,1
+41,extra large,1
+42,medium,2
+43,medium,7
+44,small,5
+45,small,5
+46,large,4
+47,large,2
+48,extra large,5
+49,large,7
+50,medium,3
+51,medium,6
+52,extra large,4
+53,medium,5
+54,large,1
+55,medium,7
+56,large,2
+57,extra large,3
+58,extra large,1
+59,small,4
+60,extra large,5
+61,extra large,3
+62,large,1
+63,large,4
+64,extra large,1
+65,large,5
+66,large,1
+67,small,6
+68,large,6
+69,medium,1
+70,small,1
+71,small,3
+72,large,2
+73,large,5
+74,small,4
+75,small,1
+76,small,1
+77,extra large,4
+78,small,7
+79,large,3
+80,small,5
+81,small,5
+82,extra large,4
+83,medium,5
+84,extra large,6
+85,large,7
+86,small,3
+87,medium,1
+88,medium,3
+89,medium,1
+90,extra large,2
+91,large,1
+92,large,4
+93,medium,1
+94,medium,7
+95,extra large,1
+96,medium,3
+97,small,2
+98,medium,7
+99,large,6
+100,medium,1
+101,extra large,3
+102,large,2
+103,small,5
+104,extra large,2
+105,small,6
+106,large,6
+107,extra large,1
+108,small,3
+109,medium,4
+110,extra large,1
+111,large,4
+112,extra large,3
+113,small,1
+114,medium,3
+115,large,1
+116,large,1
+117,medium,4
+118,extra large,3
+119,medium,3
+120,extra large,1
+121,extra large,4
+122,medium,5
+123,large,3
+124,large,6
+125,small,6
+126,small,6
+127,extra large,4
+128,large,6
+129,medium,2
+130,small,4
+131,large,6
+132,large,1
+133,small,3
+134,small,4
+135,medium,20
+136,medium,20
+137,large,21
+138,large,45
+139,small,2
+140,small,2
+141,medium,4
+142,large,5
+143,medium,4
+144,small,5
+145,medium,6
+146,large,2
+147,,2
+148,,5
+149,,6
+150,small,1
+151,extra large,1
+152,medium,2
+153,medium,7
+154,small,5
+155,small,5
+156,large,4
+157,large,2
+158,extra large,5
+159,large,7
+160,medium,3
+161,medium,6
+162,extra large,4
+163,medium,5
+164,large,14
+165,medium,7
+166,large,2
+167,extra large,3
+168,extra large,1
+169,small,4
+170,extra large,5
+171,extra large,3
+172,large,1
+173,large,4
+174,extra large,1
+175,large,5
+176,large,1
+177,small,6
+178,large,6
+179,medium,1
+180,small,1
+181,small,3
+182,large,51
+183,large,5
+184,small,4
+185,small,1
+186,small,1
+187,extra large,16
+188,small,7
+189,large,3
+190,small,5
+191,small,5
+192,extra large,4
+193,medium,5
+194,extra large,6
+195,large,32
+196,small,3
+197,medium,1
+198,medium,3
+199,medium,1
+200,extra large,2
+201,large,1
+202,large,4
+203,medium,62
+204,medium,7
+205,extra large,1
+206,medium,3
+207,small,2
+208,medium,7
+209,large,6
+210,medium,1
+211,extra large,3
+212,large,2
+213,small,5
+214,extra large,75
+215,small,6
+216,large,6
+217,extra large,1
+218,small,3
+219,medium,4
+220,extra large,1
+221,,5
+222,,7
+223,,21
+224,medium,3
+225,small,5
+226,extra large,1
+227,large,3
+228,extra large,3
+229,large,7
+230,large,4
+231,small,6
+232,medium,7
+233,large,233
+234,small,2
+235,extra large,1
+236,medium,5
+237,medium,2
+238,large,1
+239,small,3
+240,medium,1
+241,small,2
+242,large,6
+243,large,6
+244,medium,3
+245,extra large,2
+246,large,1
+247,large,7
+248,extra large,3
+249,extra large,5
+250,extra large,4
+251,medium,1
+252,small,6
+253,small,1
+254,extra large,2
+255,large,5
+256,extra large,2
+257,small,6
+258,extra large,6
+259,medium,1
+260,small,3
+261,small,3
+262,extra large,3
+263,large,64
+264,extra large,2
+265,extra large,6
+266,extra large,1
+267,medium,6
+268,large,7
+269,small,7
+270,small,4
+271,large,7
+272,extra large,3
+273,medium,4
+274,medium,2
+275,extra large,4
+276,small,4
+277,small,2
+278,extra large,1
+279,extra large,7
+280,medium,7
+281,large,7
+282,small,4
+283,extra large,4
+284,small,1
+285,extra large,5
+286,small,3
+287,small,1
+288,large,3
+289,medium,87
+290,extra large,2
+291,small,7
+292,extra large,4
+293,large,4
+294,small,6
+295,small,3
+296,medium,1
+297,large,2
+298,large,1
+299,small,1
+300,small,4
+301,medium,3
+302,extra large,4
+303,small,2
+304,large,2
+305,medium,4
+306,large,6
+307,extra large,23
+308,medium,4
+309,medium,3
+310,large,5
+311,small,7
+312,small,3
+313,medium,3
+314,small,5
+315,extra large,1
+316,large,3
+317,extra large,3
+318,large,7
+319,large,4
+320,small,6
+321,medium,7
+322,large,1
+323,small,2
+324,extra large,1
+325,medium,5
+326,medium,2
+327,large,1
+328,small,3
+329,medium,1
+330,small,2
+331,large,6
+332,large,6
+333,medium,3
+334,extra large,2
+335,large,1
+336,large,7
+337,extra large,3
+338,extra large,5
+339,extra large,4
+340,medium,1
+341,small,6
+342,small,1
+343,extra large,2
+344,large,5
+345,extra large,2
+346,small,6
+347,extra large,6
+348,medium,1
+349,small,3
+350,small,3
+351,extra large,3
+352,large,3
+353,extra large,2
+354,extra large,6
+355,extra large,1
+356,medium,6
+357,large,7
+358,small,7
+359,small,4
+360,large,7
+361,extra large,3
+362,medium,4
+363,medium,2
+364,extra large,4
+365,small,4
+366,small,2
+367,extra large,1
+368,extra large,7
+369,medium,7
+370,large,7
+371,small,4
+372,extra large,4
+373,small,1
+374,extra large,5
+375,small,3
+376,small,1
+377,large,3
+378,medium,7
+379,extra large,2
+380,small,7
+381,extra large,4
+382,large,4
+383,small,6
+384,small,3
+385,medium,1
+386,large,2
+387,large,1
+388,small,1
+389,small,4
+390,medium,3
+391,extra large,4
+392,small,2
+393,large,2
+394,medium,4
+395,large,6
+396,extra large,3
+397,medium,4
+398,medium,3
+399,small,3
+400,medium,1
+401,medium,2
+402,extra large,3
+403,small,3
+404,small,6
+405,medium,6
+406,large,4
+407,small,7
+408,extra large,7
+409,extra large,1
+410,small,1
+411,extra large,4
+412,small,7
+413,medium,5
+414,small,2
+415,extra large,7
+416,small,6
+417,medium,3
+418,small,3
+419,extra large,7
+420,large,7
+421,medium,5
+422,large,1
+423,small,5
+424,medium,6
+425,small,6
+426,medium,3
+427,large,1
+428,extra large,7
+429,small,3
+430,medium,1
+431,small,3
+432,large,6
+433,medium,5
+434,large,3
+435,small,7
+436,large,1
+437,small,1
+438,extra large,6
+439,small,6
+440,extra large,1
+441,small,2
+442,large,2
+443,small,7
+444,extra large,4
+445,small,1
+446,medium,6
+447,extra large,7
+448,medium,5
+449,large,7
+450,small,2
+451,medium,1
+452,medium,1
+453,medium,7
+454,medium,4
+455,small,5
+456,large,1
+457,extra large,1
+458,medium,1
+459,extra large,2
+460,medium,4
+461,medium,4
+462,medium,4
+463,medium,6
+464,large,4
+465,extra large,4
+466,small,5
+467,large,4
+468,medium,1
+469,small,6
+470,large,2
+471,extra large,1
+472,large,3
+473,medium,3
+474,small,1
+475,medium,7
+476,small,2
+477,small,2
+478,small,1
+479,extra large,7
+480,extra large,5
+481,small,7
+482,medium,6
+483,small,2
+484,medium,4
+485,small,4
+486,large,2
+487,extra large,5
+488,large,4
+489,medium,3
+490,extra large,6
+491,large,7
+492,medium,2
+493,extra large,5
+494,medium,7
+495,small,2
+496,medium,2
+497,large,6
+498,medium,6
+499,large,1
+500,extra large,5
+501,small,3
+502,extra large,5
+503,small,1
+504,small,2
+505,small,4
+506,large,6
+507,small,6
+508,small,4
+509,medium,6
+510,large,7
+511,large,3
+512,large,6
+513,extra large,4
+514,large,2
+515,small,6
+516,medium,6
+517,extra large,2
+518,large,2
+519,small,1
+520,medium,3
+521,large,6
+522,large,3
+523,small,5
+524,small,6
+525,extra large,2
+526,small,7
+527,large,6
+528,large,2
+529,large,3
+530,medium,4
+531,large,7
+532,extra large,7
+533,extra large,2
+534,large,2
+535,medium,2
+536,small,4
+537,extra large,2
+538,extra large,5
+539,large,2
+540,extra large,3
+541,small,4
+542,medium,5
+543,large,5
+544,large,2
+545,large,4
+546,medium,3
+547,large,3
+548,medium,3
+549,small,2
+550,medium,1
+551,large,5
+552,small,3
+553,large,2
+554,medium,5
+555,small,3
+556,large,3
+557,extra large,6
+558,small,2
+559,medium,7
+560,extra large,4
+561,small,4
+562,large,1
+563,extra large,7
+564,medium,7
+565,large,5
+566,extra large,4
+567,extra large,1
+568,extra large,5
+569,medium,7
+570,extra large,4
+571,small,6
+572,small,4
+573,extra large,3
+574,medium,5
+575,small,2
+576,small,1
+577,extra large,7
+578,extra large,2
+579,extra large,7
+580,medium,3
+581,extra large,7
+582,medium,6
+583,small,2
+584,small,3
+585,small,4
+586,large,6
+587,large,5
+588,medium,2
+589,small,1
+590,large,6
+591,extra large,4
+592,extra large,7
+593,extra large,4
+594,extra large,5
+595,small,3
+596,extra large,4
+597,extra large,4
+598,large,1
+599,large,7
+600,small,3
+601,small,7
+602,extra large,4
+603,extra large,5
+604,extra large,6
+605,large,7
+606,medium,6
+607,small,6
+608,extra large,5
+609,medium,5
+610,large,6
+611,medium,3
+612,extra large,5
+613,large,4
+614,extra large,7
+615,extra large,7
+616,large,3
+617,large,6
+618,large,1
+619,medium,3
+620,large,5
+621,medium,7
+622,large,5
+623,large,6
+624,large,5
+625,extra large,2
+626,extra large,1
+627,small,7
+628,large,4
+629,small,3
+630,small,2
+631,large,4
+632,extra large,3
+633,small,5
+634,medium,4
+635,small,4
+636,small,1
+637,extra large,1
+638,extra large,6
+639,large,5
+640,small,6
+641,medium,4
+642,extra large,6
+643,small,1
+644,extra large,5
+645,medium,5
+646,small,4
+647,small,4
+648,medium,5
+649,extra large,1
+650,large,6
+651,large,7
+652,medium,7
+653,large,5
+654,medium,7
+655,extra large,4
+656,large,7
+657,medium,6
+658,large,2
+659,large,6
+660,small,4
+661,extra large,3
+662,medium,7
+663,extra large,2
+664,medium,4
+665,extra large,2
+666,large,2
+667,medium,4
+668,small,6
+669,large,5
+670,extra large,2
+671,medium,6
+672,small,2
+673,medium,6
+674,medium,5
+675,large,6
+676,medium,7
+677,small,3
+678,large,4
+679,medium,5
+680,large,7
+681,extra large,3
+682,medium,6
+683,large,6
+684,extra large,6
+685,extra large,5
+686,extra large,4
+687,large,5
+688,small,7
+689,extra large,5
+690,extra large,1
+691,extra large,7
+692,large,2
+693,large,4
+694,small,5
+695,large,2
+696,small,6
+697,small,3
+698,small,5
+699,small,7
+700,small,4
+701,extra large,4
+702,large,4
+703,large,2
+704,large,5
+705,large,3
+706,extra large,5
+707,medium,5
+708,extra large,4
+709,large,2
+710,extra large,3
+711,extra large,5
+712,extra large,2
+713,small,7
+714,medium,2
+715,large,4
+716,large,6
+717,medium,3
+718,medium,7
+719,small,7
+720,large,4
+721,large,6
+722,medium,5
+723,large,2
+724,extra large,5
+725,extra large,1
+726,medium,5
+727,small,3
+728,small,3
+729,small,7
+730,extra large,2
+731,small,1
+732,medium,7
+733,extra large,2
+734,small,5
+735,large,2
+736,small,1
+737,extra large,7
+738,medium,7
+739,small,4
+740,medium,2
+741,medium,5
+742,extra large,7
+743,small,1
+744,small,4
+745,medium,5
+746,medium,5
+747,medium,6
+748,large,6
+749,large,2
+750,extra large,6
+751,large,2
+752,medium,7
+753,medium,3
+754,extra large,3
+755,large,3
+756,small,7
+757,medium,5
+758,large,2
+759,large,3
+760,small,3
+761,medium,3
+762,extra large,3
+763,small,4
+764,small,1
+765,extra large,2
+766,large,7
+767,small,1
+768,small,6
+769,extra large,4
+770,small,6
+771,large,3
+772,small,5
+773,small,7
+774,small,4
+775,small,3
+776,medium,3
+777,small,1
+778,extra large,4
+779,extra large,7
+780,medium,3
+781,extra large,4
+782,large,2
+783,large,5
+784,medium,5
+785,small,3
+786,large,4
+787,large,4
+788,medium,1
+789,large,1
+790,large,7
+791,small,3
+792,extra large,5
+793,large,4
+794,medium,6
+795,medium,1
+796,medium,5
+797,large,7
+798,large,6
+799,small,7
+800,medium,4
+801,large,7
+802,large,7
+803,extra large,7
+804,extra large,2
+805,extra large,2
+806,medium,6
+807,large,4
+808,small,7
+809,large,3
+810,extra large,7
+811,medium,3
+812,extra large,2
+813,small,3
+814,large,5
+815,extra large,7
+816,small,4
+817,extra large,1
+818,large,2
+819,extra large,7
+820,extra large,7
+821,small,1
+822,medium,2
+823,medium,1
+824,medium,1
+825,medium,5
+826,medium,5
+827,large,3
+828,extra large,7
+829,medium,5
+830,small,6
+831,extra large,5
+832,extra large,1
+833,extra large,2
+834,small,7
+835,extra large,7
+836,small,4
+837,extra large,7
+838,large,3
+839,small,2
+840,small,6
+841,large,1
+842,medium,3
+843,small,4
+844,small,7
+845,large,4
+846,extra large,2
+847,small,3
+848,large,3
+849,extra large,4
+850,large,3
+851,large,2
+852,large,2
+853,medium,1
+854,medium,7
+855,extra large,2
+856,small,6
+857,small,3
+858,medium,2
+859,small,1
+860,large,3
+861,large,6
+862,medium,5
+863,medium,5
+864,large,1
+865,extra large,1
+866,extra large,7
+867,extra large,1
+868,extra large,7
+869,large,1
+870,large,5
+871,large,3
+872,large,2
+873,medium,7
+874,medium,3
+875,small,7
+876,medium,7
+877,extra large,4
+878,small,6
+879,extra large,7
+880,medium,4
+881,large,4
+882,small,2
+883,small,1
+884,extra large,4
+885,extra large,3
+886,large,7
+887,small,5
+888,large,6
+889,small,3
+890,medium,2
+891,small,6
+892,small,7
+893,large,3
+894,medium,3
+895,small,5
+896,extra large,4
+897,medium,3
+898,medium,3
+899,extra large,1
+900,medium,2
+901,large,6
+902,small,4
+903,extra large,6
+904,extra large,3
+905,large,2
+906,medium,6
+907,large,3
+908,small,2
+909,small,5
+910,large,6
+911,medium,7
+912,medium,3
+913,medium,1
+914,medium,4
+915,large,5
+916,extra large,3
+917,small,6
+918,small,4
+919,small,4
+920,extra large,3
+921,small,3
+922,large,6
+923,medium,3
+924,large,6
+925,large,1
+926,extra large,2
+927,small,6
+928,small,6
+929,small,5
+930,extra large,3
+931,small,5
+932,medium,4
+933,extra large,7
+934,extra large,6
+935,medium,6
+936,medium,5
+937,large,6
+938,large,1
+939,medium,3
+940,extra large,7
+941,extra large,1
+942,extra large,4
+943,large,6
+944,large,5
+945,medium,4
+946,medium,4
+947,medium,4
+948,large,3
+949,medium,3
+950,medium,1
+951,small,5
+952,large,7
+953,medium,3
+954,extra large,1
+955,large,3
+956,large,2
+957,small,6
+958,extra large,5
+959,small,3
+960,medium,7
+961,medium,6
+962,large,5
+963,large,6
+964,medium,7
+965,large,4
+966,extra large,3
+967,medium,3
+968,medium,5
+969,large,7
+970,small,4
+971,extra large,4
+972,extra large,4
+973,small,6
+974,extra large,2
+975,extra large,3
+976,medium,4
+977,large,4
+978,medium,4
+979,small,5
+980,extra large,4
+981,extra large,5
+982,medium,6
+983,large,7
+984,extra large,4
+985,small,5
+986,small,4
+987,extra large,6
+988,extra large,6
+989,medium,7
+990,medium,6
+991,medium,5
+992,large,1
+993,medium,4
+994,medium,4
+995,extra large,2
+996,extra large,6
+997,small,7
+998,extra large,1
+999,extra large,3
+1000,small,1
+1001,extra large,4
+1002,medium,1
+1003,large,3
+1004,extra large,7
+1005,medium,6
+1006,medium,2
+1007,medium,4
+1008,extra large,6
+1009,extra large,7
+1010,small,6
+1011,small,6
+1012,small,5
+1013,large,1
+1014,large,2
+1015,large,5
+1016,medium,6
+1017,small,7
+1018,large,3
+1019,large,2
+1020,small,1
+1021,small,2
+1022,small,6
+1023,small,6
+1024,small,1
+1025,extra large,6
+1026,small,4
+1027,large,6
+1028,small,5
+1029,large,5
+1030,extra large,6
+1031,medium,3
+1032,medium,7
+1033,large,2
+1034,large,3
+1035,extra large,6
+1036,large,5
+1037,large,7
+1038,small,4
+1039,small,4
+1040,small,2
+1041,extra large,7
+1042,extra large,3
+1043,medium,7
+1044,small,7
+1045,medium,6
+1046,medium,5
+1047,extra large,7
+1048,medium,4
+1049,large,4
+1050,large,4
+1051,large,2
+1052,small,7
+1053,medium,7
+1054,large,4
+1055,medium,1
+1056,medium,3
+1057,large,5
+1058,medium,6
+1059,extra large,7
+1060,extra large,4
+1061,medium,6
+1062,small,3
+1063,extra large,1
+1064,small,2
+1065,small,5
+1066,small,3
+1067,extra large,5
+1068,small,2
+1069,small,4
+1070,large,5
+1071,medium,1
+1072,medium,5
+1073,small,7
+1074,small,1
+1075,large,7
+1076,medium,1
+1077,large,4
+1078,medium,4
+1079,extra large,2
+1080,large,2
+1081,medium,5
+1082,medium,2
+1083,medium,1
+1084,medium,4
+1085,large,6
+1086,small,6
+1087,extra large,5
+1088,large,4
+1089,medium,5
+1090,small,1
+1091,small,6
+1092,extra large,4
+1093,large,2
+1094,medium,1
+1095,small,6
+1096,small,6
+1097,medium,4
+1098,extra large,1
+1099,large,6
+1100,medium,2
+1101,small,5
+1102,extra large,4
+1103,medium,5
+1104,medium,3
+1105,small,7
+1106,small,4
+1107,small,5
+1108,large,6
+1109,medium,7
+1110,extra large,1
+1111,small,3
+1112,small,3
+1113,medium,2
+1114,extra large,7
+1115,extra large,6
+1116,medium,4
+1117,extra large,2
+1118,extra large,7
+1119,extra large,1
+1120,extra large,4
+1121,extra large,4
+1122,large,1
+1123,small,4
+1124,small,3
+1125,extra large,2
+1126,small,1
+1127,medium,4
+1128,large,5
+1129,large,7
+1130,extra large,7
+1131,extra large,4
+1132,medium,2
+1133,extra large,7
+1134,medium,3
+1135,small,6
+1136,small,4
+1137,extra large,7
+1138,extra large,5
+1139,extra large,5
+1140,medium,2
+1141,large,2
+1142,large,5
+1143,large,3
+1144,extra large,4
+1145,small,3
+1146,extra large,2
+1147,large,6
+1148,large,3
+1149,medium,6
+1150,medium,4
+1151,small,3
+1152,medium,1
+1153,large,2
+1154,medium,4
+1155,large,5
+1156,large,5
+1157,medium,7
+1158,large,1
+1159,extra large,6
+1160,large,5
+1161,extra large,5
+1162,large,5
+1163,medium,5
+1164,extra large,6
+1165,medium,6
+1166,large,6
+1167,medium,2
+1168,small,3
+1169,extra large,5
+1170,extra large,6
+1171,medium,7
+1172,medium,1
+1173,small,4
+1174,large,5
+1175,large,3
+1176,small,4
+1177,small,3
+1178,large,2
+1179,small,4
+1180,small,4
+1181,large,4
+1182,medium,6
+1183,medium,2
+1184,extra large,2
+1185,small,5
+1186,large,6
+1187,medium,7
+1188,medium,6
+1189,medium,4
+1190,medium,3
+1191,small,2
+1192,medium,2
+1193,large,7
+1194,small,4
+1195,extra large,6
+1196,large,6
+1197,extra large,3
+1198,medium,5
+1199,large,3
+1200,extra large,3
+1201,extra large,5
+1202,large,4
+1203,medium,6
+1204,large,7
+1205,medium,3
+1206,medium,3
+1207,extra large,2
+1208,extra large,7
+1209,extra large,3
+1210,small,5
+1211,large,4
+1212,large,1
+1213,small,7
+1214,medium,1
+1215,medium,1
+1216,medium,1
+1217,extra large,6
+1218,medium,1
+1219,extra large,5
+1220,extra large,6
+1221,large,6
+1222,medium,2
+1223,extra large,5
+1224,large,2
+1225,large,4
+1226,medium,2
+1227,small,3
+1228,extra large,2
+1229,large,6
+1230,large,6
+1231,extra large,4
+1232,extra large,7
+1233,small,7
+1234,large,3
+1235,medium,3
+1236,large,3
+1237,medium,7
+1238,large,5
+1239,extra large,4
+1240,extra large,1
+1241,large,3
+1242,medium,1
+1243,medium,3
+1244,extra large,1
+1245,medium,3
+1246,medium,1
+1247,extra large,5
+1248,large,4
+1249,small,4
+1250,extra large,5
+1251,extra large,6
+1252,small,5
+1253,large,2
+1254,small,1
+1255,small,7
+1256,small,7
+1257,extra large,6
+1258,small,6
+1259,medium,5
+1260,extra large,7
+1261,small,1
+1262,medium,6
+1263,small,4
+1264,small,4
+1265,medium,1
+1266,large,3
+1267,large,3
+1268,medium,5
+1269,small,7
+1270,large,7
+1271,medium,1
+1272,extra large,1
+1273,small,6
+1274,small,7
+1275,medium,3
+1276,medium,6
+1277,extra large,7
+1278,extra large,6
+1279,small,7
+1280,medium,4
+1281,extra large,1
+1282,medium,2
+1283,medium,1
+1284,small,1
+1285,extra large,3
+1286,extra large,2
+1287,small,5
+1288,large,4
+1289,medium,4
+1290,small,4
+1291,medium,1
+1292,large,7
+1293,large,4
+1294,large,7
+1295,extra large,7
+1296,large,2
+1297,medium,3
+1298,small,7
+1299,large,4
+1300,small,3
+1301,extra large,3
+1302,small,2
+1303,small,6
+1304,large,3
+1305,small,6
+1306,extra large,3
+1307,small,6
+1308,large,3
+1309,large,5
+1310,extra large,6
+1311,large,1
+1312,medium,3
+1313,medium,4
+1314,medium,7
+1315,small,2
+1316,large,2
+1317,small,1
+1318,large,6
+1319,small,1
+1320,extra large,7
+1321,large,5
+1322,small,5
+1323,small,1
+1324,small,2
+1325,small,5
+1326,large,4
+1327,large,7
+1328,large,2
+1329,small,6
+1330,small,5
+1331,extra large,4
+1332,large,5
+1333,medium,7
+1334,extra large,4
+1335,extra large,1
+1336,extra large,1
+1337,large,4
+1338,small,6
+1339,medium,4
+1340,small,1
+1341,small,7
+1342,large,1
+1343,extra large,5
+1344,small,4
+1345,large,5
+1346,medium,5
+1347,medium,7
+1348,small,1
+1349,small,3
+1350,extra large,3
+1351,extra large,1
+1352,medium,6
+1353,extra large,1
+1354,medium,5
+1355,large,3
+1356,extra large,5
+1357,large,6
+1358,large,4
+1359,extra large,5
+1360,large,4
+1361,large,4
+1362,small,2
+1363,large,3
+1364,extra large,6
+1365,medium,1
+1366,large,5
+1367,small,5
+1368,medium,2
+1369,large,4
+1370,large,4
+1371,large,6
+1372,extra large,1
+1373,extra large,2
+1374,small,5
+1375,large,1
+1376,large,6
+1377,extra large,1
+1378,large,6
+1379,medium,2
+1380,small,1
+1381,medium,2
+1382,medium,6
+1383,extra large,1
+1384,extra large,5
+1385,large,4
+1386,extra large,1
+1387,extra large,5
+1388,small,2
+1389,medium,1
+1390,medium,3
+1391,extra large,2
+1392,small,3
+1393,extra large,1
+1394,small,5
+1395,extra large,1
+1396,medium,1
+1397,large,2
+1398,large,2
+1399,medium,4
+1400,small,4
+1401,large,3
+1402,large,1
+1403,extra large,4
+1404,large,4
+1405,large,4
+1406,medium,4
+1407,small,4
+1408,medium,7
+1409,large,7
+1410,large,6
+1411,medium,3
+1412,extra large,7
+1413,large,1
+1414,small,4
+1415,large,2
+1416,large,2
+1417,large,4
+1418,small,2
+1419,extra large,6
+1420,extra large,4
+1421,small,1
+1422,medium,2
+1423,small,3
+1424,medium,2
+1425,large,4
+1426,large,4
+1427,medium,3
+1428,medium,4
+1429,extra large,1
+1430,large,6
+1431,extra large,6
+1432,medium,2
+1433,extra large,2
+1434,small,1
+1435,extra large,1
+1436,medium,5
+1437,medium,7
+1438,small,1
+1439,medium,2
+1440,medium,7
+1441,small,4
+1442,small,3
+1443,medium,1
+1444,extra large,3
+1445,extra large,2
+1446,extra large,1
+1447,extra large,7
+1448,large,2
+1449,large,3
+1450,small,1
+1451,medium,7
+1452,medium,5
+1453,small,3
+1454,large,2
+1455,medium,1
+1456,small,3
+1457,extra large,4
+1458,extra large,1
+1459,small,2
+1460,extra large,1
+1461,extra large,2
+1462,small,6
+1463,medium,7
+1464,large,1
+1465,large,6
+1466,small,6
+1467,small,6
+1468,extra large,5
+1469,large,4
+1470,extra large,3
+1471,medium,6
+1472,small,4
+1473,medium,5
+1474,extra large,2
+1475,medium,1
+1476,large,1
+1477,extra large,6
+1478,small,1
+1479,large,5
+1480,extra large,1
+1481,large,6
+1482,extra large,6
+1483,medium,2
+1484,medium,5
+1485,large,5
+1486,large,6
+1487,medium,6
+1488,small,2
+1489,small,4
+1490,medium,5
+1491,small,2
+1492,small,5
+1493,large,4
+1494,extra large,2
+1495,large,4
+1496,medium,7
+1497,medium,3
+1498,medium,3
+1499,medium,3
+1500,large,7
+1501,large,7
+1502,small,4
+1503,extra large,2
+1504,small,5
+1505,extra large,6
+1506,small,3
+1507,large,5
+1508,small,1
+1509,small,2
+1510,extra large,6
+1511,extra large,1
+1512,small,7
+1513,extra large,4
+1514,extra large,2
+1515,medium,7
+1516,large,3
+1517,large,6
+1518,extra large,4
+1519,small,2
+1520,medium,4
+1521,medium,6
+1522,medium,1
+1523,extra large,2
+1524,medium,6
+1525,large,5
+1526,large,1
+1527,small,6
+1528,medium,7
+1529,medium,5
+1530,small,7
+1531,large,7
+1532,large,4
+1533,extra large,4
+1534,medium,2
+1535,small,7
+1536,extra large,3
+1537,small,1
+1538,large,6
+1539,medium,6
+1540,extra large,1
+1541,large,6
+1542,small,5
+1543,small,5
+1544,small,1
+1545,medium,4
+1546,small,4
+1547,large,1
+1548,small,2
+1549,large,5
+1550,extra large,2
+1551,extra large,5
+1552,extra large,7
+1553,large,2
+1554,extra large,7
+1555,extra large,7
+1556,large,7
+1557,extra large,1
+1558,extra large,7
+1559,small,7
+1560,medium,2
+1561,large,5
+1562,small,7
+1563,extra large,3
+1564,small,1
+1565,extra large,7
+1566,small,6
+1567,small,4
+1568,medium,7
+1569,extra large,2
+1570,medium,1
+1571,large,2
+1572,extra large,4
+1573,medium,5
+1574,extra large,3
+1575,extra large,5
+1576,medium,4
+1577,extra large,3
+1578,medium,6
+1579,extra large,3
+1580,small,6
+1581,extra large,3
+1582,large,4
+1583,medium,6
+1584,medium,1
+1585,small,7
+1586,medium,6
+1587,medium,5
+1588,large,6
+1589,large,2
+1590,medium,4
+1591,extra large,4
+1592,large,2
+1593,extra large,6
+1594,large,2
+1595,medium,5
+1596,extra large,5
+1597,extra large,3
+1598,medium,3
+1599,large,5
+1600,large,4
+1601,medium,6
+1602,extra large,1
+1603,large,6
+1604,large,2
+1605,medium,7
+1606,extra large,6
+1607,small,6
+1608,medium,6
+1609,small,2
+1610,medium,6
+1611,medium,3
+1612,medium,3
+1613,large,1
+1614,large,7
+1615,extra large,6
+1616,extra large,1
+1617,small,2
+1618,small,6
+1619,small,4
+1620,small,4
+1621,extra large,2
+1622,medium,6
+1623,small,7
+1624,extra large,1
+1625,medium,5
+1626,medium,7
+1627,small,6
+1628,large,1
+1629,small,7
+1630,small,4
+1631,small,3
+1632,large,2
+1633,small,6
+1634,medium,2
+1635,small,1
+1636,large,6
+1637,small,6
+1638,small,6
+1639,large,4
+1640,medium,7
+1641,extra large,1
+1642,medium,3
+1643,extra large,4
+1644,extra large,5
+1645,small,3
+1646,extra large,2
+1647,small,3
+1648,large,6
+1649,small,4
+1650,small,4
+1651,small,4
+1652,small,4
+1653,extra large,3
+1654,small,1
+1655,large,2
+1656,medium,6
+1657,medium,3
+1658,large,7
+1659,extra large,1
+1660,medium,3
+1661,medium,7
+1662,small,1
+1663,large,1
+1664,extra large,6
+1665,large,5
+1666,large,4
+1667,medium,4
+1668,extra large,7
+1669,extra large,5
+1670,medium,4
+1671,medium,5
+1672,large,7
+1673,extra large,3
+1674,small,7
+1675,small,6
+1676,large,5
+1677,large,1
+1678,medium,4
+1679,large,3
+1680,extra large,2
+1681,large,7
+1682,large,4
+1683,small,1
+1684,extra large,7
+1685,extra large,6
+1686,medium,3
+1687,small,5
+1688,extra large,4
+1689,medium,7
+1690,small,1
+1691,small,1
+1692,large,2
+1693,large,7
+1694,large,6
+1695,small,6
+1696,large,7
+1697,small,7
+1698,small,5
+1699,large,4
+1700,small,2
+1701,extra large,3
+1702,large,4
+1703,extra large,4
+1704,small,3
+1705,medium,7
+1706,medium,3
+1707,extra large,1
+1708,small,7
+1709,large,7
+1710,medium,4
+1711,large,2
+1712,large,7
+1713,large,6
+1714,medium,4
+1715,medium,5
+1716,medium,5
+1717,small,4
+1718,medium,6
+1719,extra large,5
+1720,medium,4
+1721,extra large,7
+1722,large,3
+1723,large,3
+1724,small,5
+1725,large,3
+1726,medium,5
+1727,large,7
+1728,small,3
+1729,extra large,2
+1730,large,1
+1731,extra large,4
+1732,large,3
+1733,small,1
+1734,large,6
+1735,small,3
+1736,medium,1
+1737,extra large,7
+1738,large,4
+1739,medium,2
+1740,extra large,6
+1741,small,4
+1742,small,2
+1743,extra large,3
+1744,small,5
+1745,extra large,4
+1746,large,6
+1747,extra large,1
+1748,large,3
+1749,medium,4
+1750,large,7
+1751,extra large,3
+1752,small,2
+1753,medium,1
+1754,medium,5
+1755,extra large,5
+1756,extra large,5
+1757,extra large,6
+1758,large,7
+1759,large,2
+1760,extra large,4
+1761,extra large,7
+1762,small,4
+1763,extra large,3
+1764,small,6
+1765,extra large,5
+1766,extra large,3
+1767,large,2
+1768,small,5
+1769,extra large,7
+1770,medium,4
+1771,large,3
+1772,extra large,6
+1773,medium,4
+1774,large,6
+1775,small,3
+1776,large,1
+1777,small,1
+1778,large,7
+1779,large,6
+1780,extra large,2
+1781,small,5
+1782,large,1
+1783,medium,4
+1784,medium,5
+1785,large,6
+1786,small,4
+1787,medium,2
+1788,extra large,7
+1789,medium,7
+1790,small,1
+1791,large,4
+1792,medium,1
+1793,extra large,6
+1794,small,5
+1795,extra large,7
+1796,small,7
+1797,large,2
+1798,large,5
+1799,large,3
+1800,large,6
+1801,large,5
+1802,large,6
+1803,extra large,7
+1804,small,4
+1805,small,2
+1806,large,5
+1807,medium,1
+1808,extra large,1
+1809,medium,2
+1810,small,4
+1811,large,1
+1812,large,2
+1813,small,3
+1814,medium,1
+1815,extra large,5
+1816,small,6
+1817,medium,7
+1818,large,3
+1819,extra large,1
+1820,medium,7
+1821,large,4
+1822,extra large,5
+1823,medium,3
+1824,extra large,7
+1825,large,3
+1826,small,2
+1827,small,5
+1828,medium,4
+1829,medium,3
+1830,large,7
+1831,small,6
+1832,extra large,7
+1833,extra large,5
+1834,small,2
+1835,medium,5
+1836,large,7
+1837,medium,7
+1838,small,7
+1839,large,3
+1840,small,1
+1841,medium,3
+1842,extra large,6
+1843,medium,5
+1844,extra large,6
+1845,small,5
+1846,medium,5
+1847,medium,1
+1848,extra large,3
+1849,small,2
+1850,medium,2
+1851,large,5
+1852,large,2
+1853,medium,4
+1854,small,6
+1855,medium,2
+1856,extra large,4
+1857,medium,7
+1858,small,6
+1859,small,7
+1860,extra large,2
+1861,small,5
+1862,large,5
+1863,extra large,7
+1864,small,4
+1865,small,7
+1866,extra large,6
+1867,large,2
+1868,extra large,6
+1869,large,2
+1870,medium,2
+1871,medium,7
+1872,small,2
+1873,large,2
+1874,medium,2
+1875,extra large,6
+1876,small,6
+1877,medium,2
+1878,extra large,3
+1879,large,7
+1880,small,5
+1881,extra large,5
+1882,medium,3
+1883,extra large,1
+1884,extra large,4
+1885,large,1
+1886,medium,4
+1887,medium,2
+1888,medium,5
+1889,extra large,2
+1890,extra large,7
+1891,large,5
+1892,extra large,1
+1893,extra large,1
+1894,large,6
+1895,medium,4
+1896,medium,7
+1897,medium,2
+1898,medium,1
+1899,medium,2
+1900,small,7
+1901,small,1
+1902,small,6
+1903,extra large,4
+1904,small,7
+1905,medium,1
+1906,small,4
+1907,small,4
+1908,small,3
+1909,large,4
+1910,small,1
+1911,small,7
+1912,medium,3
+1913,extra large,2
+1914,medium,3
+1915,large,3
+1916,extra large,6
+1917,medium,7
+1918,small,4
+1919,large,3
+1920,large,3
+1921,small,5
+1922,extra large,3
+1923,small,6
+1924,extra large,7
+1925,medium,7
+1926,large,5
+1927,medium,7
+1928,extra large,4
+1929,small,4
+1930,medium,7
+1931,extra large,4
+1932,small,6
+1933,extra large,6
+1934,small,7
+1935,small,6
+1936,large,6
+1937,medium,7
+1938,large,2
+1939,large,3
+1940,large,7
+1941,large,2
+1942,small,1
+1943,extra large,6
+1944,small,4
+1945,small,6
+1946,medium,4
+1947,large,1
+1948,small,4
+1949,large,5
+1950,extra large,4
+1951,extra large,5
+1952,small,6
+1953,small,5
+1954,extra large,6
+1955,extra large,6
+1956,medium,3
+1957,large,2
+1958,medium,1
+1959,large,3
+1960,large,7
+1961,extra large,3
+1962,small,2
+1963,medium,2
+1964,medium,5
+1965,small,7
+1966,extra large,2
+1967,small,4
+1968,small,7
+1969,large,3
+1970,extra large,5
+1971,medium,2
+1972,extra large,3
+1973,large,3
+1974,small,2
+1975,small,4
+1976,extra large,7
+1977,large,4
+1978,medium,3
+1979,large,3
+1980,extra large,6
+1981,small,4
+1982,medium,1
+1983,medium,2
+1984,large,1
+1985,extra large,4
+1986,extra large,1
+1987,medium,1
+1988,large,1
+1989,medium,3
+1990,medium,2
+1991,extra large,3
+1992,small,4
+1993,large,6
+1994,large,2
+1995,small,5
+1996,small,2
+1997,small,3
+1998,large,7
+1999,small,2
+2000,small,2
+2001,extra large,3
+2002,small,6
+2003,medium,2
+2004,large,6
+2005,extra large,5
+2006,small,6
+2007,extra large,2
+2008,large,1
+2009,medium,7
+2010,extra large,5
+2011,extra large,5
+2012,large,5
+2013,extra large,1
+2014,small,4
+2015,small,4
+2016,large,7
+2017,large,3
+2018,small,3
+2019,medium,5
+2020,small,6
+2021,small,7
+2022,extra large,3
+2023,small,1
+2024,extra large,5
+2025,medium,2
+2026,medium,4
+2027,extra large,6
+2028,extra large,5
+2029,medium,3
+2030,large,2
+2031,medium,3
+2032,medium,3
+2033,large,4
+2034,extra large,1
+2035,small,2
+2036,large,1
+2037,small,4
+2038,medium,1
+2039,extra large,5
+2040,small,5
+2041,extra large,4
+2042,small,4
+2043,medium,2
+2044,small,1
+2045,extra large,7
+2046,extra large,6
+2047,extra large,7
+2048,extra large,1
+2049,large,3
+2050,small,4
+2051,small,4
+2052,extra large,6
+2053,medium,2
+2054,small,4
+2055,medium,4
+2056,small,1
+2057,extra large,6
+2058,small,2
+2059,large,7
+2060,medium,4
+2061,large,2
+2062,extra large,2
+2063,large,6
+2064,medium,5
+2065,small,2
+2066,medium,1
+2067,extra large,5
+2068,medium,4
+2069,medium,5
+2070,small,1
+2071,small,3
+2072,small,2
+2073,small,3
+2074,extra large,3
+2075,small,4
+2076,small,7
+2077,large,3
+2078,small,1
+2079,medium,4
+2080,extra large,3
+2081,extra large,1
+2082,large,4
+2083,large,7
+2084,medium,4
+2085,large,7
+2086,medium,6
+2087,medium,7
+2088,medium,4
+2089,small,3
+2090,extra large,7
+2091,extra large,7
+2092,extra large,4
+2093,large,3
+2094,large,2
+2095,large,1
+2096,medium,5
+2097,medium,4
+2098,small,7
+2099,extra large,3
+2100,small,7
+2101,large,5
+2102,large,5
+2103,extra large,5
+2104,large,5
+2105,extra large,2
+2106,small,4
+2107,medium,5
+2108,extra large,7
+2109,extra large,3
+2110,large,6
+2111,medium,2
+2112,extra large,1
+2113,large,1
+2114,medium,2
+2115,medium,6
+2116,large,6
+2117,extra large,7
+2118,small,2
+2119,small,1
+2120,medium,1
+2121,medium,5
+2122,extra large,6
+2123,extra large,7
+2124,large,1
+2125,extra large,5
+2126,extra large,1
+2127,small,6
+2128,medium,7
+2129,medium,5
+2130,small,2
+2131,large,1
+2132,medium,3
+2133,small,3
+2134,extra large,1
+2135,medium,2
+2136,small,5
+2137,large,6
+2138,small,3
+2139,large,1
+2140,extra large,1
+2141,small,6
+2142,large,4
+2143,small,3
+2144,medium,4
+2145,small,3
+2146,small,7
+2147,small,6
+2148,small,1
+2149,large,5
+2150,medium,5
+2151,extra large,2
+2152,medium,4
+2153,extra large,3
+2154,small,7
+2155,medium,5
+2156,large,5
+2157,small,1
+2158,small,4
+2159,medium,1
+2160,medium,6
+2161,medium,3
+2162,large,3
+2163,extra large,6
+2164,medium,4
+2165,medium,6
+2166,medium,4
+2167,medium,4
+2168,small,7
+2169,extra large,3
+2170,extra large,4
+2171,medium,5
+2172,large,3
+2173,small,7
+2174,large,2
+2175,medium,4
+2176,small,1
+2177,extra large,4
+2178,medium,6
+2179,medium,4
+2180,medium,4
+2181,medium,4
+2182,large,7
+2183,extra large,4
+2184,extra large,7
+2185,large,2
+2186,extra large,1
+2187,large,7
+2188,small,6
+2189,extra large,1
+2190,medium,7
+2191,large,4
+2192,extra large,3
+2193,medium,1
+2194,medium,6
+2195,extra large,5
+2196,large,6
+2197,small,5
+2198,extra large,2
+2199,medium,2
+2200,large,6
+2201,large,4
+2202,large,5
+2203,large,1
+2204,medium,2
+2205,extra large,3
+2206,large,4
+2207,extra large,6
+2208,large,1
+2209,extra large,4
+2210,extra large,5
+2211,medium,1
+2212,medium,1
+2213,small,1
+2214,large,6
+2215,large,7
+2216,extra large,5
+2217,extra large,6
+2218,medium,7
+2219,large,5
+2220,small,3
+2221,medium,5
+2222,medium,4
+2223,medium,2
+2224,small,5
+2225,large,5
+2226,extra large,2
+2227,extra large,6
+2228,small,6
+2229,large,1
+2230,large,2
+2231,extra large,4
+2232,small,5
+2233,small,5
+2234,medium,7
+2235,large,2
+2236,extra large,7
+2237,large,4
+2238,large,4
+2239,extra large,6
+2240,medium,3
+2241,extra large,1
+2242,extra large,4
+2243,small,3
+2244,large,1
+2245,small,6
+2246,large,3
+2247,small,6
+2248,large,7
+2249,large,3
+2250,small,7
+2251,medium,2
+2252,extra large,5
+2253,medium,2
+2254,small,5
+2255,medium,1
+2256,medium,6
+2257,large,7
+2258,small,5
+2259,extra large,1
+2260,extra large,6
+2261,large,5
+2262,small,1
+2263,large,1
+2264,medium,4
+2265,extra large,4
+2266,large,3
+2267,extra large,6
+2268,medium,3
+2269,large,7
+2270,medium,1
+2271,small,1
+2272,medium,4
+2273,small,5
+2274,large,4
+2275,extra large,4
+2276,large,5
+2277,small,2
+2278,extra large,5
+2279,medium,6
+2280,small,7
+2281,large,4
+2282,extra large,6
+2283,large,3
+2284,large,2
+2285,small,6
+2286,medium,7
+2287,large,6
+2288,extra large,4
+2289,small,3
+2290,large,4
+2291,extra large,2
+2292,large,7
+2293,extra large,3
+2294,medium,7
+2295,extra large,2
+2296,medium,5
+2297,large,7
+2298,medium,5
+2299,small,4
+2300,extra large,2
+2301,large,5
+2302,small,5
+2303,small,2
+2304,small,4
+2305,extra large,6
+2306,small,3
+2307,extra large,6
+2308,small,1
+2309,large,4
+2310,small,4
+2311,extra large,6
+2312,extra large,1
+2313,large,7
+2314,medium,7
+2315,small,2
+2316,medium,6
+2317,large,3
+2318,extra large,7
+2319,large,5
+2320,extra large,7
+2321,large,7
+2322,large,1
+2323,extra large,7
+2324,medium,2
+2325,small,3
+2326,large,6
+2327,medium,7
+2328,medium,5
+2329,large,5
+2330,medium,4
+2331,small,3
+2332,extra large,2
+2333,large,4
+2334,small,2
+2335,large,7
+2336,medium,4
+2337,large,1
+2338,large,2
+2339,large,6
+2340,large,4
+2341,small,2
+2342,large,5
+2343,medium,4
+2344,large,7
+2345,medium,6
+2346,small,1
+2347,large,6
+2348,extra large,5
+2349,medium,2
+2350,small,2
+2351,medium,7
+2352,extra large,6
+2353,extra large,7
+2354,small,7
+2355,small,1
+2356,large,2
+2357,medium,1
+2358,large,2
+2359,medium,5
+2360,extra large,5
+2361,medium,1
+2362,large,2
+2363,extra large,2
+2364,large,4
+2365,medium,5
+2366,extra large,3
+2367,small,4
+2368,small,5
+2369,extra large,6
+2370,small,4
+2371,large,6
+2372,small,2
+2373,small,2
+2374,small,6
+2375,small,5
+2376,large,3
+2377,small,2
+2378,small,2
+2379,medium,5
+2380,extra large,6
+2381,extra large,2
+2382,medium,1
+2383,small,1
+2384,extra large,5
+2385,small,2
+2386,medium,4
+2387,small,6
+2388,large,6
+2389,small,2
+2390,small,7
+2391,large,1
+2392,extra large,3
+2393,extra large,7
+2394,extra large,2
+2395,medium,4
+2396,small,7
+2397,small,4
+2398,medium,7
+2399,small,1
+2400,extra large,2
+2401,large,5
+2402,extra large,6
+2403,medium,6
+2404,medium,5
+2405,small,3
+2406,medium,6
+2407,large,3
+2408,medium,5
+2409,medium,2
+2410,small,5
+2411,large,3
+2412,large,3
+2413,large,4
+2414,small,3
+2415,large,7
+2416,medium,7
+2417,medium,6
+2418,large,3
+2419,medium,3
+2420,extra large,7
+2421,small,1
+2422,medium,1
+2423,small,2
+2424,medium,4
+2425,large,3
+2426,large,3
+2427,small,4
+2428,extra large,6
+2429,medium,6
+2430,small,3
+2431,small,2
+2432,extra large,6
+2433,large,5
+2434,small,1
+2435,medium,4
+2436,extra large,6
+2437,large,1
+2438,medium,6
+2439,extra large,1
+2440,medium,4
+2441,small,5
+2442,large,6
+2443,medium,5
+2444,large,5
+2445,extra large,1
+2446,extra large,2
+2447,medium,1
+2448,large,1
+2449,small,5
+2450,small,1
+2451,medium,3
+2452,large,7
+2453,large,5
+2454,medium,1
+2455,small,7
+2456,medium,6
+2457,extra large,4
+2458,extra large,2
+2459,medium,4
+2460,small,7
+2461,small,5
+2462,large,1
+2463,small,7
+2464,extra large,7
+2465,small,5
+2466,large,2
+2467,large,7
+2468,large,5
+2469,medium,3
+2470,small,5
+2471,large,5
+2472,medium,3
+2473,extra large,6
+2474,small,3
+2475,small,5
+2476,large,6
+2477,medium,3
+2478,extra large,6
+2479,large,5
+2480,large,7
+2481,medium,1
+2482,extra large,4
+2483,small,7
+2484,small,6
+2485,large,6
+2486,large,6
+2487,extra large,4
+2488,medium,4
+2489,small,7
+2490,medium,4
+2491,extra large,7
+2492,medium,1
+2493,extra large,5
+2494,medium,1
+2495,medium,4
+2496,extra large,3
+2497,small,3
+2498,large,7
+2499,small,2
+2500,small,3
+2501,medium,1
+2502,large,4
+2503,small,5
+2504,extra large,1
+2505,large,1
+2506,extra large,5
+2507,large,2
+2508,large,7
+2509,large,4
+2510,small,3
+2511,small,2
+2512,small,1
+2513,small,7
+2514,medium,3
+2515,extra large,4
+2516,large,6
+2517,extra large,2
+2518,medium,1
+2519,large,5
+2520,extra large,7
+2521,medium,5
+2522,large,4
+2523,extra large,7
+2524,medium,5
+2525,extra large,3
+2526,small,5
+2527,medium,6
+2528,large,7
+2529,small,3
+2530,medium,6
+2531,medium,6
+2532,large,6
+2533,medium,1
+2534,extra large,6
+2535,small,6
+2536,medium,5
+2537,extra large,4
+2538,medium,2
+2539,large,3
+2540,medium,6
+2541,large,4
+2542,small,1
+2543,small,1
+2544,extra large,1
+2545,small,2
+2546,small,6
+2547,large,5
+2548,extra large,3
+2549,small,5
+2550,medium,5
+2551,large,1
+2552,extra large,6
+2553,large,5
+2554,large,1
+2555,medium,7
+2556,extra large,4
+2557,extra large,4
+2558,medium,4
+2559,large,1
+2560,medium,5
+2561,extra large,6
+2562,large,1
+2563,large,2
+2564,medium,2
+2565,small,3
+2566,small,1
+2567,medium,1
+2568,medium,3
+2569,medium,5
+2570,small,7
+2571,large,3
+2572,extra large,1
+2573,large,2
+2574,large,7
+2575,extra large,6
+2576,small,5
+2577,extra large,1
+2578,extra large,7
+2579,large,2
+2580,medium,5
+2581,extra large,2
+2582,extra large,6
+2583,medium,2
+2584,medium,6
+2585,small,5
+2586,medium,1
+2587,extra large,3
+2588,small,4
+2589,extra large,2
+2590,medium,3
+2591,small,4
+2592,large,7
+2593,medium,7
+2594,large,7
+2595,extra large,4
+2596,medium,7
+2597,small,7
+2598,small,1
+2599,extra large,2
+2600,small,5
+2601,extra large,5
+2602,medium,6
+2603,small,2
+2604,medium,3
+2605,medium,1
+2606,large,3
+2607,large,5
+2608,small,4
+2609,extra large,3
+2610,medium,4
+2611,small,2
+2612,small,2
+2613,extra large,1
+2614,medium,4
+2615,large,3
+2616,small,7
+2617,large,6
+2618,large,7
+2619,large,1
+2620,small,4
+2621,medium,6
+2622,large,3
+2623,small,1
+2624,medium,6
+2625,small,3
+2626,small,1
+2627,extra large,4
+2628,extra large,6
+2629,medium,2
+2630,extra large,1
+2631,medium,5
+2632,medium,2
+2633,medium,6
+2634,large,5
+2635,extra large,4
+2636,small,3
+2637,medium,2
+2638,medium,5
+2639,large,1
+2640,extra large,2
+2641,small,5
+2642,small,5
+2643,small,3
+2644,extra large,7
+2645,small,1
+2646,large,7
+2647,large,2
+2648,small,1
+2649,small,6
+2650,extra large,3
+2651,small,5
+2652,medium,1
+2653,large,2
+2654,extra large,1
+2655,small,5
+2656,large,3
+2657,medium,7
+2658,small,2
+2659,extra large,3
+2660,small,6
+2661,medium,7
+2662,small,6
+2663,small,7
+2664,large,4
+2665,medium,3
+2666,medium,2
+2667,large,7
+2668,medium,5
+2669,small,2
+2670,medium,2
+2671,small,5
+2672,extra large,6
+2673,small,7
+2674,large,4
+2675,large,2
+2676,large,3
+2677,small,7
+2678,extra large,6
+2679,large,7
+2680,extra large,3
+2681,medium,2
+2682,extra large,1
+2683,large,2
+2684,extra large,1
+2685,small,4
+2686,small,6
+2687,medium,1
+2688,small,4
+2689,small,3
+2690,large,7
+2691,extra large,2
+2692,medium,6
+2693,medium,7
+2694,large,3
+2695,small,5
+2696,medium,7
+2697,medium,6
+2698,medium,7
+2699,extra large,5
+2700,extra large,3
+2701,small,3
+2702,extra large,6
+2703,large,2
+2704,medium,6
+2705,extra large,1
+2706,small,6
+2707,small,5
+2708,small,7
+2709,extra large,3
+2710,large,3
+2711,extra large,7
+2712,small,7
+2713,large,1
+2714,medium,4
+2715,small,7
+2716,small,5
+2717,extra large,5
+2718,small,4
+2719,extra large,4
+2720,small,4
+2721,extra large,3
+2722,small,1
+2723,extra large,5
+2724,large,2
+2725,large,2
+2726,medium,4
+2727,small,3
+2728,large,4
+2729,medium,2
+2730,small,1
+2731,medium,3
+2732,medium,1
+2733,small,6
+2734,extra large,7
+2735,small,7
+2736,small,4
+2737,medium,3
+2738,medium,1
+2739,large,2
+2740,large,2
+2741,small,5
+2742,extra large,3
+2743,medium,3
+2744,small,4
+2745,extra large,2
+2746,medium,7
+2747,medium,6
+2748,large,2
+2749,medium,4
+2750,extra large,1
+2751,small,4
+2752,small,4
+2753,extra large,7
+2754,extra large,1
+2755,medium,4
+2756,large,1
+2757,large,6
+2758,medium,7
+2759,small,3
+2760,large,2
+2761,small,7
+2762,small,2
+2763,large,4
+2764,small,3
+2765,small,6
+2766,large,2
+2767,extra large,1
+2768,small,1
+2769,extra large,7
+2770,medium,6
+2771,large,5
+2772,extra large,5
+2773,extra large,3
+2774,small,1
+2775,small,2
+2776,medium,4
+2777,extra large,4
+2778,large,6
+2779,small,7
+2780,large,7
+2781,large,1
+2782,extra large,6
+2783,small,1
+2784,small,6
+2785,small,4
+2786,large,4
+2787,small,4
+2788,small,1
+2789,extra large,7
+2790,small,3
+2791,small,7
+2792,extra large,1
+2793,large,4
+2794,medium,6
+2795,medium,7
+2796,large,1
+2797,medium,2
+2798,large,3
+2799,medium,2
+2800,small,1
+2801,medium,7
+2802,extra large,6
+2803,extra large,4
+2804,small,1
+2805,extra large,5
+2806,medium,2
+2807,medium,4
+2808,small,6
+2809,small,3
+2810,medium,2
+2811,small,3
+2812,extra large,5
+2813,large,7
+2814,medium,5
+2815,small,5
+2816,extra large,7
+2817,large,6
+2818,extra large,4
+2819,small,7
+2820,extra large,5
+2821,medium,3
+2822,small,5
+2823,medium,3
+2824,small,1
+2825,extra large,3
+2826,large,1
+2827,extra large,2
+2828,medium,2
+2829,large,7
+2830,large,3
+2831,medium,7
+2832,large,4
+2833,extra large,7
+2834,extra large,1
+2835,large,7
+2836,extra large,7
+2837,small,7
+2838,extra large,4
+2839,extra large,6
+2840,small,1
+2841,medium,1
+2842,medium,5
+2843,small,3
+2844,medium,4
+2845,extra large,3
+2846,large,7
+2847,extra large,1
+2848,small,5
+2849,large,6
+2850,large,5
+2851,medium,7
+2852,medium,2
+2853,medium,7
+2854,medium,4
+2855,extra large,2
+2856,small,3
+2857,small,3
+2858,medium,2
+2859,large,7
+2860,large,7
+2861,small,7
+2862,small,7
+2863,large,1
+2864,large,1
+2865,extra large,6
+2866,medium,2
+2867,small,3
+2868,extra large,4
+2869,large,7
+2870,small,6
+2871,medium,7
+2872,medium,4
+2873,medium,5
+2874,medium,7
+2875,medium,2
+2876,extra large,4
+2877,large,5
+2878,small,4
+2879,small,3
+2880,extra large,6
+2881,medium,2
+2882,large,7
+2883,large,3
+2884,small,5
+2885,large,2
+2886,medium,1
+2887,large,2
+2888,extra large,3
+2889,large,3
+2890,large,7
+2891,medium,4
+2892,large,7
+2893,extra large,7
+2894,medium,6
+2895,large,3
+2896,extra large,5
+2897,medium,3
+2898,large,6
+2899,large,5
+2900,medium,2
+2901,large,3
+2902,small,2
+2903,small,7
+2904,small,2
+2905,small,1
+2906,small,7
+2907,extra large,7
+2908,large,6
+2909,large,4
+2910,small,5
+2911,extra large,3
+2912,extra large,7
+2913,large,3
+2914,large,5
+2915,large,1
+2916,medium,5
+2917,medium,6
+2918,small,4
+2919,extra large,7
+2920,large,4
+2921,medium,7
+2922,medium,6
+2923,medium,7
+2924,medium,7
+2925,small,5
+2926,large,3
+2927,large,2
+2928,medium,6
+2929,extra large,7
+2930,large,6
+2931,extra large,3
+2932,large,3
+2933,large,7
+2934,extra large,4
+2935,extra large,6
+2936,medium,1
+2937,small,1
+2938,small,2
+2939,medium,7
+2940,medium,4
+2941,large,5
+2942,small,2
+2943,small,7
+2944,extra large,3
+2945,large,1
+2946,small,3
+2947,extra large,3
+2948,large,2
+2949,small,5
+2950,large,3
+2951,small,4
+2952,small,4
+2953,small,7
+2954,small,2
+2955,small,6
+2956,extra large,7
+2957,extra large,3
+2958,large,3
+2959,large,6
+2960,small,5
+2961,large,4
+2962,large,5
+2963,extra large,7
+2964,medium,3
+2965,medium,2
+2966,large,2
+2967,small,1
+2968,extra large,5
+2969,small,1
+2970,large,1
+2971,extra large,2
+2972,extra large,2
+2973,extra large,7
+2974,large,4
+2975,large,7
+2976,small,3
+2977,large,2
+2978,large,4
+2979,extra large,3
+2980,large,1
+2981,extra large,4
+2982,large,7
+2983,medium,6
+2984,medium,6
+2985,extra large,5
+2986,medium,7
+2987,extra large,7
+2988,small,1
+2989,small,3
+2990,small,3
+2991,large,3
+2992,extra large,1
+2993,extra large,6
+2994,extra large,6
+2995,extra large,4
+2996,small,3
+2997,small,1
+2998,medium,3
+2999,small,7
+3000,medium,7
+3001,medium,2
+3002,small,1
+3003,small,5
+3004,large,3
+3005,large,6
+3006,small,1
+3007,small,1
+3008,large,2
+3009,medium,6
+3010,medium,6
+3011,large,3
+3012,large,5
+3013,large,7
+3014,medium,3
+3015,extra large,5
+3016,large,1
+3017,extra large,7
+3018,medium,7
+3019,large,5
+3020,small,4
+3021,small,4
+3022,large,6
+3023,small,1
+3024,medium,5
+3025,medium,7
+3026,extra large,5
+3027,extra large,1
+3028,medium,5
+3029,large,4
+3030,medium,4
+3031,extra large,5
+3032,medium,6
+3033,extra large,6
+3034,small,1
+3035,small,3
+3036,small,4
+3037,medium,5
+3038,medium,3
+3039,large,6
+3040,small,3
+3041,extra large,7
+3042,large,4
+3043,medium,3
+3044,large,6
+3045,medium,6
+3046,small,5
+3047,small,6
+3048,large,4
+3049,large,3
+3050,small,3
+3051,small,2
+3052,medium,1
+3053,small,3
+3054,medium,7
+3055,small,3
+3056,extra large,5
+3057,small,4
+3058,medium,5
+3059,large,1
+3060,small,1
+3061,medium,5
+3062,extra large,2
+3063,medium,6
+3064,small,5
+3065,extra large,5
+3066,large,7
+3067,extra large,3
+3068,extra large,6
+3069,extra large,4
+3070,extra large,6
+3071,medium,3
+3072,extra large,7
+3073,extra large,5
+3074,medium,2
+3075,large,1
+3076,large,5
+3077,large,4
+3078,small,7
+3079,small,7
+3080,small,4
+3081,extra large,3
+3082,large,6
+3083,medium,2
+3084,small,7
+3085,medium,4
+3086,small,7
+3087,large,4
+3088,medium,6
+3089,medium,6
+3090,small,5
+3091,extra large,2
+3092,extra large,5
+3093,large,5
+3094,large,4
+3095,large,4
+3096,small,6
+3097,extra large,7
+3098,large,7
+3099,small,2
+3100,large,3
+3101,extra large,3
+3102,large,2
+3103,extra large,3
+3104,large,3
+3105,small,5
+3106,small,4
+3107,small,3
+3108,medium,1
+3109,medium,4
+3110,extra large,1
+3111,large,7
+3112,extra large,7
+3113,medium,4
+3114,large,1
+3115,medium,5
+3116,extra large,4
+3117,extra large,7
+3118,large,5
+3119,extra large,4
+3120,medium,7
+3121,medium,1
+3122,large,2
+3123,large,2
+3124,medium,5
+3125,extra large,1
+3126,large,3
+3127,small,3
+3128,medium,2
+3129,extra large,3
+3130,medium,4
+3131,medium,7
+3132,extra large,3
+3133,large,6
+3134,small,3
+3135,extra large,7
+3136,large,1
+3137,extra large,6
+3138,large,2
+3139,small,6
+3140,small,2
+3141,medium,7
+3142,extra large,7
+3143,extra large,3
+3144,extra large,1
+3145,extra large,6
+3146,small,7
+3147,extra large,7
+3148,small,4
+3149,extra large,4
+3150,large,2
+3151,medium,3
+3152,large,1
+3153,large,4
+3154,medium,3
+3155,small,6
+3156,large,4
+3157,large,1
+3158,large,3
+3159,extra large,5
+3160,extra large,6
+3161,large,6
+3162,extra large,2
+3163,large,3
+3164,large,2
+3165,small,1
+3166,small,1
+3167,medium,4
+3168,medium,5
+3169,extra large,1
+3170,small,7
+3171,large,3
+3172,medium,6
+3173,medium,4
+3174,small,3
+3175,extra large,6
+3176,small,3
+3177,large,2
+3178,medium,3
+3179,medium,4
+3180,extra large,1
+3181,large,6
+3182,small,1
+3183,large,7
+3184,small,4
+3185,small,5
+3186,small,3
+3187,small,3
+3188,large,7
+3189,extra large,2
+3190,large,2
+3191,small,2
+3192,extra large,1
+3193,extra large,6
+3194,large,1
+3195,medium,4
+3196,large,5
+3197,medium,2
+3198,medium,5
+3199,large,1
+3200,large,7
+3201,extra large,3
+3202,large,2
+3203,small,7
+3204,extra large,6
+3205,large,2
+3206,small,3
+3207,extra large,5
+3208,large,1
+3209,extra large,3
+3210,large,2
+3211,extra large,7
+3212,medium,6
+3213,medium,7
+3214,large,4
+3215,medium,6
+3216,small,3
+3217,large,3
+3218,extra large,2
+3219,large,4
+3220,extra large,7
+3221,large,3
+3222,extra large,6
+3223,medium,7
+3224,medium,1
+3225,medium,6
+3226,large,2
+3227,medium,4
+3228,medium,7
+3229,medium,7
+3230,extra large,6
+3231,medium,6
+3232,large,2
+3233,medium,7
+3234,large,4
+3235,extra large,2
+3236,extra large,6
+3237,small,7
+3238,large,5
+3239,medium,4
+3240,large,7
+3241,extra large,3
+3242,small,4
+3243,extra large,5
+3244,extra large,3
+3245,medium,6
+3246,large,6
+3247,medium,4
+3248,small,5
+3249,extra large,1
+3250,medium,1
+3251,large,4
+3252,small,2
+3253,small,4
+3254,large,4
+3255,large,7
+3256,small,6
+3257,large,6
+3258,medium,3
+3259,medium,3
+3260,extra large,1
+3261,extra large,5
+3262,medium,3
+3263,large,4
+3264,large,2
+3265,extra large,2
+3266,large,1
+3267,large,6
+3268,small,6
+3269,small,3
+3270,large,5
+3271,small,5
+3272,extra large,5
+3273,large,4
+3274,large,4
+3275,medium,2
+3276,extra large,7
+3277,small,4
+3278,extra large,2
+3279,large,4
+3280,extra large,3
+3281,extra large,4
+3282,medium,1
+3283,large,6
+3284,large,5
+3285,small,5
+3286,extra large,2
+3287,medium,1
+3288,small,6
+3289,medium,3
+3290,medium,7
+3291,small,5
+3292,medium,3
+3293,small,6
+3294,extra large,7
+3295,medium,6
+3296,medium,6
+3297,medium,4
+3298,medium,4
+3299,large,4
+3300,medium,2
+3301,medium,4
+3302,medium,3
+3303,medium,2
+3304,medium,1
+3305,extra large,1
+3306,medium,5
+3307,extra large,2
+3308,large,3
+3309,large,3
+3310,small,1
+3311,large,2
+3312,extra large,2
+3313,small,5
+3314,large,1
+3315,large,3
+3316,small,4
+3317,medium,4
+3318,extra large,2
+3319,extra large,2
+3320,large,2
+3321,small,3
+3322,large,1
+3323,medium,1
+3324,medium,3
+3325,extra large,7
+3326,small,4
+3327,large,4
+3328,large,3
+3329,extra large,6
+3330,large,7
+3331,small,2
+3332,extra large,4
+3333,small,3
+3334,medium,1
+3335,extra large,3
+3336,small,2
+3337,small,3
+3338,large,3
+3339,small,7
+3340,medium,3
+3341,medium,5
+3342,medium,3
+3343,large,3
+3344,medium,6
+3345,large,7
+3346,small,2
+3347,extra large,6
+3348,large,5
+3349,medium,5
+3350,large,7
+3351,small,5
+3352,extra large,4
+3353,medium,2
+3354,medium,6
+3355,small,7
+3356,medium,1
+3357,extra large,6
+3358,medium,1
+3359,large,4
+3360,large,2
+3361,medium,4
+3362,large,4
+3363,extra large,5
+3364,extra large,6
+3365,small,7
+3366,large,1
+3367,medium,4
+3368,medium,1
+3369,medium,4
+3370,large,2
+3371,large,4
+3372,extra large,6
+3373,extra large,3
+3374,small,5
+3375,extra large,3
+3376,medium,5
+3377,medium,4
+3378,extra large,2
+3379,extra large,6
+3380,medium,2
+3381,large,1
+3382,large,3
+3383,medium,3
+3384,large,5
+3385,extra large,7
+3386,extra large,2
+3387,extra large,4
+3388,large,3
+3389,large,3
+3390,extra large,3
+3391,large,2
+3392,small,1
+3393,large,2
+3394,large,5
+3395,small,7
+3396,small,4
+3397,large,5
+3398,extra large,7
+3399,medium,5
+3400,small,4
+3401,extra large,2
+3402,large,6
+3403,small,3
+3404,large,6
+3405,large,6
+3406,medium,1
+3407,large,2
+3408,small,6
+3409,small,3
+3410,medium,5
+3411,large,5
+3412,large,4
+3413,extra large,5
+3414,extra large,1
+3415,medium,6
+3416,small,6
+3417,extra large,7
+3418,medium,1
+3419,extra large,5
+3420,small,7
+3421,large,4
+3422,small,1
+3423,large,3
+3424,extra large,1
+3425,extra large,7
+3426,large,1
+3427,small,6
+3428,medium,4
+3429,small,1
+3430,extra large,7
+3431,extra large,3
+3432,extra large,6
+3433,small,1
+3434,extra large,4
+3435,large,2
+3436,large,2
+3437,extra large,3
+3438,medium,4
+3439,medium,1
+3440,extra large,1
+3441,small,7
+3442,medium,4
+3443,extra large,7
+3444,large,7
+3445,medium,7
+3446,large,5
+3447,extra large,5
+3448,extra large,5
+3449,large,7
+3450,medium,7
+3451,large,7
+3452,extra large,7
+3453,large,4
+3454,large,4
+3455,extra large,7
+3456,medium,1
+3457,large,7
+3458,extra large,1
+3459,small,7
+3460,large,6
+3461,extra large,1
+3462,large,5
+3463,medium,5
+3464,large,2
+3465,large,7
+3466,large,7
+3467,small,4
+3468,extra large,4
+3469,large,4
+3470,large,2
+3471,medium,5
+3472,extra large,4
+3473,extra large,7
+3474,small,2
+3475,small,5
+3476,extra large,4
+3477,extra large,2
+3478,small,1
+3479,extra large,7
+3480,small,5
+3481,extra large,1
+3482,extra large,3
+3483,extra large,1
+3484,medium,5
+3485,extra large,3
+3486,large,4
+3487,large,7
+3488,medium,7
+3489,large,1
+3490,large,4
+3491,medium,5
+3492,medium,7
+3493,medium,2
+3494,large,6
+3495,medium,5
+3496,medium,2
+3497,small,1
+3498,large,3
+3499,medium,6
+3500,medium,5
+3501,large,4
+3502,extra large,7
+3503,large,4
+3504,medium,6
+3505,small,6
+3506,medium,3
+3507,large,1
+3508,extra large,3
+3509,medium,7
+3510,small,7
+3511,large,2
+3512,large,5
+3513,extra large,1
+3514,small,4
+3515,extra large,5
+3516,large,4
+3517,small,4
+3518,large,4
+3519,small,7
+3520,medium,5
+3521,large,5
+3522,medium,4
+3523,medium,3
+3524,small,5
+3525,extra large,5
+3526,medium,5
+3527,small,5
+3528,large,2
+3529,medium,2
+3530,medium,2
+3531,large,3
+3532,small,6
+3533,small,3
+3534,medium,7
+3535,extra large,3
+3536,medium,3
+3537,small,5
+3538,extra large,4
+3539,large,2
+3540,small,5
+3541,extra large,2
+3542,large,5
+3543,extra large,3
+3544,extra large,5
+3545,small,7
+3546,extra large,6
+3547,extra large,6
+3548,large,2
+3549,large,5
+3550,small,6
+3551,large,3
+3552,medium,4
+3553,medium,4
+3554,large,6
+3555,large,1
+3556,large,2
+3557,small,1
+3558,large,3
+3559,extra large,6
+3560,medium,5
+3561,extra large,3
+3562,medium,6
+3563,medium,2
+3564,large,5
+3565,extra large,7
+3566,extra large,4
+3567,medium,6
+3568,small,4
+3569,extra large,2
+3570,small,3
+3571,small,3
+3572,small,7
+3573,medium,6
+3574,large,2
+3575,small,2
+3576,small,4
+3577,extra large,2
+3578,extra large,5
+3579,small,2
+3580,extra large,1
+3581,extra large,4
+3582,small,4
+3583,large,4
+3584,extra large,3
+3585,extra large,7
+3586,extra large,4
+3587,medium,6
+3588,medium,5
+3589,medium,4
+3590,large,6
+3591,large,5
+3592,large,6
+3593,extra large,1
+3594,extra large,4
+3595,extra large,7
+3596,small,6
+3597,large,2
+3598,extra large,7
+3599,large,4
+3600,extra large,1
+3601,large,6
+3602,small,7
+3603,medium,4
+3604,extra large,6
+3605,large,7
+3606,large,7
+3607,extra large,3
+3608,medium,4
+3609,large,6
+3610,extra large,1
+3611,medium,6
+3612,large,5
+3613,small,4
+3614,large,1
+3615,large,2
+3616,large,2
+3617,large,6
+3618,medium,3
+3619,extra large,3
+3620,extra large,5
+3621,extra large,4
+3622,extra large,3
+3623,extra large,2
+3624,small,3
+3625,extra large,2
+3626,small,2
+3627,medium,6
+3628,large,2
+3629,extra large,2
+3630,extra large,7
+3631,extra large,4
+3632,large,5
+3633,medium,7
+3634,large,5
+3635,medium,7
+3636,extra large,2
+3637,small,1
+3638,medium,7
+3639,medium,5
+3640,small,5
+3641,large,4
+3642,small,1
+3643,extra large,7
+3644,medium,7
+3645,large,6
+3646,small,2
+3647,extra large,4
+3648,medium,6
+3649,small,6
+3650,large,5
+3651,extra large,1
+3652,medium,2
+3653,large,3
+3654,small,3
+3655,large,3
+3656,medium,1
+3657,small,2
+3658,extra large,5
+3659,extra large,3
+3660,extra large,3
+3661,large,5
+3662,large,7
+3663,extra large,7
+3664,large,6
+3665,extra large,2
+3666,medium,1
+3667,small,2
+3668,extra large,1
+3669,large,7
+3670,small,2
+3671,extra large,3
+3672,medium,2
+3673,large,6
+3674,extra large,4
+3675,medium,1
+3676,extra large,1
+3677,medium,2
+3678,extra large,1
+3679,small,4
+3680,small,7
+3681,medium,7
+3682,medium,2
+3683,large,7
+3684,medium,1
+3685,small,1
+3686,extra large,6
+3687,large,4
+3688,large,7
+3689,large,7
+3690,large,2
+3691,medium,1
+3692,extra large,2
+3693,small,7
+3694,extra large,1
+3695,large,3
+3696,extra large,2
+3697,extra large,6
+3698,large,1
+3699,medium,5
+3700,medium,7
+3701,extra large,7
+3702,medium,7
+3703,extra large,5
+3704,large,3
+3705,large,4
+3706,extra large,2
+3707,large,6
+3708,large,4
+3709,small,6
+3710,large,6
+3711,large,1
+3712,extra large,3
+3713,small,7
+3714,extra large,3
+3715,extra large,3
+3716,medium,5
+3717,small,4
+3718,medium,6
+3719,large,5
+3720,medium,7
+3721,small,5
+3722,small,2
+3723,large,5
+3724,small,7
+3725,small,7
+3726,small,4
+3727,extra large,5
+3728,medium,2
+3729,small,6
+3730,extra large,5
+3731,medium,2
+3732,extra large,5
+3733,small,1
+3734,medium,5
+3735,large,5
+3736,extra large,2
+3737,small,6
+3738,large,7
+3739,small,4
+3740,small,5
+3741,medium,5
+3742,small,5
+3743,large,3
+3744,small,2
+3745,large,3
+3746,large,1
+3747,small,2
+3748,medium,2
+3749,large,6
+3750,large,4
+3751,extra large,5
+3752,medium,1
+3753,small,3
+3754,medium,6
+3755,extra large,5
+3756,medium,6
+3757,small,3
+3758,large,2
+3759,large,5
+3760,small,6
+3761,medium,5
+3762,small,5
+3763,large,6
+3764,small,5
+3765,large,3
+3766,small,4
+3767,large,4
+3768,extra large,6
+3769,medium,7
+3770,medium,7
+3771,large,3
+3772,extra large,6
+3773,extra large,4
+3774,medium,6
+3775,small,6
+3776,small,5
+3777,small,2
+3778,extra large,4
+3779,medium,7
+3780,medium,2
+3781,extra large,3
+3782,medium,7
+3783,small,4
+3784,extra large,3
+3785,extra large,6
+3786,small,2
+3787,large,2
+3788,small,2
+3789,medium,6
+3790,large,3
+3791,extra large,6
+3792,small,4
+3793,large,7
+3794,small,6
+3795,medium,4
+3796,extra large,4
+3797,extra large,2
+3798,extra large,6
+3799,small,2
+3800,large,3
+3801,extra large,1
+3802,extra large,3
+3803,extra large,3
+3804,small,4
+3805,medium,7
+3806,medium,4
+3807,small,5
+3808,small,7
+3809,small,1
+3810,small,2
+3811,large,3
+3812,medium,2
+3813,large,6
+3814,small,5
+3815,medium,7
+3816,medium,4
+3817,large,4
+3818,large,1
+3819,large,7
+3820,large,5
+3821,extra large,1
+3822,large,5
+3823,medium,3
+3824,small,2
+3825,large,2
+3826,large,4
+3827,medium,6
+3828,small,5
+3829,small,1
+3830,medium,5
+3831,large,2
+3832,small,5
+3833,large,3
+3834,extra large,6
+3835,large,2
+3836,small,7
+3837,extra large,7
+3838,medium,2
+3839,medium,2
+3840,small,1
+3841,large,7
+3842,medium,7
+3843,large,2
+3844,medium,6
+3845,medium,2
+3846,large,2
+3847,small,6
+3848,small,2
+3849,medium,7
+3850,extra large,6
+3851,large,6
+3852,extra large,1
+3853,small,2
+3854,medium,2
+3855,medium,3
+3856,small,3
+3857,extra large,4
+3858,small,6
+3859,large,7
+3860,small,3
+3861,medium,1
+3862,large,4
+3863,large,6
+3864,small,3
+3865,small,5
+3866,extra large,7
+3867,small,1
+3868,extra large,5
+3869,extra large,5
+3870,extra large,5
+3871,medium,7
+3872,extra large,2
+3873,medium,2
+3874,small,3
+3875,extra large,3
+3876,medium,4
+3877,extra large,5
+3878,small,5
+3879,large,1
+3880,extra large,4
+3881,extra large,2
+3882,extra large,5
+3883,small,7
+3884,large,5
+3885,extra large,3
+3886,large,6
+3887,extra large,6
+3888,large,3
+3889,extra large,2
+3890,extra large,1
+3891,small,5
+3892,large,6
+3893,medium,2
+3894,extra large,4
+3895,large,5
+3896,extra large,7
+3897,large,6
+3898,small,6
+3899,medium,4
+3900,small,5
+3901,large,6
+3902,small,1
+3903,large,3
+3904,extra large,4
+3905,large,5
+3906,medium,3
+3907,medium,2
+3908,medium,2
+3909,extra large,7
+3910,medium,2
+3911,extra large,3
+3912,extra large,5
+3913,medium,2
+3914,medium,5
+3915,medium,3
+3916,medium,2
+3917,large,7
+3918,large,6
+3919,medium,6
+3920,medium,7
+3921,medium,5
+3922,extra large,5
+3923,medium,1
+3924,medium,7
+3925,extra large,2
+3926,large,4
+3927,medium,5
+3928,medium,1
+3929,medium,7
+3930,medium,5
+3931,extra large,5
+3932,large,6
+3933,large,3
+3934,extra large,2
+3935,extra large,4
+3936,medium,3
+3937,small,7
+3938,medium,3
+3939,extra large,2
+3940,large,4
+3941,large,7
+3942,small,6
+3943,extra large,2
+3944,large,1
+3945,small,6
+3946,extra large,6
+3947,medium,6
+3948,large,6
+3949,large,5
+3950,large,3
+3951,small,2
+3952,medium,1
+3953,small,5
+3954,medium,5
+3955,medium,6
+3956,large,6
+3957,large,7
+3958,extra large,6
+3959,small,3
+3960,extra large,6
+3961,extra large,7
+3962,small,3
+3963,extra large,1
+3964,large,2
+3965,extra large,3
+3966,medium,4
+3967,small,5
+3968,extra large,3
+3969,small,4
+3970,large,7
+3971,medium,4
+3972,extra large,5
+3973,small,6
+3974,medium,2
+3975,medium,2
+3976,medium,3
+3977,large,7
+3978,extra large,1
+3979,large,2
+3980,large,4
+3981,medium,4
+3982,extra large,3
+3983,small,1
+3984,extra large,1
+3985,extra large,7
+3986,small,1
+3987,large,4
+3988,small,7
+3989,small,7
+3990,small,2
+3991,small,2
+3992,medium,4
+3993,large,6
+3994,large,6
+3995,large,4
+3996,medium,3
+3997,medium,3
+3998,small,4
+3999,small,5
+4000,large,6
+4001,small,4
+4002,medium,3
+4003,large,3
+4004,small,6
+4005,medium,7
+4006,medium,1
+4007,small,4
+4008,medium,6
+4009,medium,6
+4010,small,4
+4011,extra large,7
+4012,small,7
+4013,medium,4
+4014,extra large,1
+4015,small,6
+4016,small,6
+4017,small,5
+4018,extra large,5
+4019,large,1
+4020,extra large,1
+4021,small,7
+4022,medium,5
+4023,extra large,3
+4024,large,6
+4025,medium,4
+4026,small,6
+4027,small,2
+4028,medium,5
+4029,large,3
+4030,large,6
+4031,large,1
+4032,large,2
+4033,medium,3
+4034,medium,3
+4035,extra large,2
+4036,small,6
+4037,small,3
+4038,extra large,3
+4039,extra large,6
+4040,medium,1
+4041,extra large,6
+4042,small,2
+4043,medium,4
+4044,medium,6
+4045,extra large,6
+4046,medium,1
+4047,medium,7
+4048,extra large,1
+4049,extra large,5
+4050,large,3
+4051,small,2
+4052,small,6
+4053,large,3
+4054,large,6
+4055,extra large,6
+4056,large,6
+4057,small,5
+4058,small,6
+4059,small,2
+4060,extra large,4
+4061,medium,3
+4062,extra large,3
+4063,extra large,5
+4064,extra large,4
+4065,large,6
+4066,large,2
+4067,medium,2
+4068,extra large,4
+4069,small,7
+4070,medium,7
+4071,medium,4
+4072,medium,7
+4073,extra large,4
+4074,small,2
+4075,extra large,3
+4076,extra large,3
+4077,large,6
+4078,small,7
+4079,extra large,4
+4080,large,7
+4081,large,7
+4082,large,6
+4083,medium,5
+4084,medium,1
+4085,small,4
+4086,extra large,3
+4087,large,4
+4088,large,2
+4089,small,4
+4090,medium,3
+4091,extra large,1
+4092,extra large,3
+4093,medium,6
+4094,large,7
+4095,medium,5
+4096,medium,1
+4097,large,7
+4098,large,1
+4099,extra large,4
+4100,small,7
+4101,small,7
+4102,medium,7
+4103,large,2
+4104,extra large,3
+4105,extra large,6
+4106,large,5
+4107,small,3
+4108,extra large,2
+4109,small,1
+4110,extra large,4
+4111,large,7
+4112,large,6
+4113,extra large,6
+4114,small,7
+4115,extra large,6
+4116,small,5
+4117,small,7
+4118,small,7
+4119,large,6
+4120,extra large,3
+4121,medium,6
+4122,large,5
+4123,small,4
+4124,extra large,6
+4125,small,5
+4126,extra large,3
+4127,medium,4
+4128,medium,3
+4129,extra large,1
+4130,extra large,1
+4131,extra large,4
+4132,large,7
+4133,small,7
+4134,large,7
+4135,small,2
+4136,large,6
+4137,medium,7
+4138,large,3
+4139,extra large,2
+4140,extra large,2
+4141,extra large,1
+4142,extra large,5
+4143,medium,7
+4144,small,2
+4145,large,2
+4146,small,2
+4147,extra large,6
+4148,extra large,7
+4149,extra large,6
+4150,small,3
+4151,large,2
+4152,extra large,5
+4153,extra large,3
+4154,extra large,4
+4155,extra large,3
+4156,medium,6
+4157,large,7
+4158,large,1
+4159,small,2
+4160,medium,1
+4161,small,7
+4162,large,2
+4163,small,2
+4164,extra large,3
+4165,extra large,5
+4166,medium,4
+4167,small,4
+4168,small,2
+4169,large,7
+4170,extra large,3
+4171,medium,4
+4172,large,1
+4173,large,3
+4174,medium,4
+4175,extra large,2
+4176,small,5
+4177,large,3
+4178,large,2
+4179,extra large,2
+4180,medium,3
+4181,small,7
+4182,extra large,7
+4183,small,3
+4184,large,3
+4185,large,6
+4186,medium,1
+4187,extra large,7
+4188,extra large,4
+4189,small,1
+4190,medium,5
+4191,medium,7
+4192,large,6
+4193,small,5
+4194,medium,1
+4195,large,2
+4196,medium,4
+4197,large,6
+4198,large,2
+4199,medium,4
+4200,small,1
+4201,small,2
+4202,extra large,5
+4203,large,2
+4204,small,3
+4205,small,5
+4206,small,7
+4207,medium,5
+4208,large,5
+4209,large,3
+4210,small,7
+4211,extra large,7
+4212,small,5
+4213,small,7
+4214,large,7
+4215,extra large,2
+4216,medium,1
+4217,extra large,5
+4218,small,7
+4219,medium,2
+4220,extra large,4
+4221,large,5
+4222,large,6
+4223,medium,5
+4224,medium,3
+4225,large,1
+4226,medium,1
+4227,medium,3
+4228,extra large,3
+4229,extra large,4
+4230,extra large,1
+4231,medium,7
+4232,large,3
+4233,small,1
+4234,large,7
+4235,large,2
+4236,medium,3
+4237,medium,4
+4238,small,1
+4239,extra large,1
+4240,extra large,7
+4241,large,6
+4242,medium,6
+4243,medium,1
+4244,small,6
+4245,small,1
+4246,extra large,7
+4247,small,1
+4248,large,5
+4249,small,3
+4250,small,3
+4251,medium,3
+4252,small,6
+4253,medium,7
+4254,medium,3
+4255,small,3
+4256,large,5
+4257,small,4
+4258,medium,5
+4259,medium,6
+4260,small,4
+4261,large,7
+4262,medium,2
+4263,medium,3
+4264,small,7
+4265,small,6
+4266,medium,3
+4267,extra large,6
+4268,large,5
+4269,large,4
+4270,large,6
+4271,medium,5
+4272,medium,1
+4273,medium,6
+4274,large,3
+4275,large,4
+4276,large,6
+4277,small,5
+4278,extra large,1
+4279,large,1
+4280,large,2
+4281,small,4
+4282,medium,5
+4283,large,3
+4284,extra large,2
+4285,large,2
+4286,extra large,4
+4287,large,7
+4288,medium,7
+4289,small,4
+4290,large,7
+4291,medium,2
+4292,large,1
+4293,small,4
+4294,extra large,7
+4295,large,4
+4296,large,6
+4297,extra large,6
+4298,small,1
+4299,large,5
+4300,medium,3
+4301,small,5
+4302,extra large,6
+4303,extra large,1
+4304,extra large,6
+4305,large,7
+4306,large,2
+4307,extra large,4
+4308,small,2
+4309,extra large,7
+4310,large,4
+4311,medium,2
+4312,medium,1
+4313,small,4
+4314,medium,7
+4315,large,7
+4316,small,1
+4317,medium,4
+4318,extra large,4
+4319,extra large,1
+4320,medium,6
+4321,large,4
+4322,extra large,5
+4323,large,5
+4324,large,1
+4325,medium,1
+4326,large,5
+4327,small,6
+4328,small,7
+4329,small,4
+4330,small,6
+4331,large,4
+4332,large,2
+4333,small,4
+4334,small,1
+4335,small,3
+4336,medium,2
+4337,large,2
+4338,small,4
+4339,small,4
+4340,extra large,7
+4341,small,2
+4342,medium,7
+4343,large,7
+4344,medium,4
+4345,small,6
+4346,medium,6
+4347,medium,5
+4348,small,6
+4349,medium,4
+4350,medium,4
+4351,extra large,6
+4352,small,7
+4353,small,3
+4354,small,6
+4355,small,1
+4356,large,4
+4357,extra large,5
+4358,large,1
+4359,large,5
+4360,medium,2
+4361,small,3
+4362,medium,7
+4363,extra large,5
+4364,medium,2
+4365,medium,6
+4366,extra large,7
+4367,large,7
+4368,medium,3
+4369,large,7
+4370,extra large,5
+4371,medium,4
+4372,large,1
+4373,medium,3
+4374,small,2
+4375,large,4
+4376,medium,1
+4377,extra large,6
+4378,large,3
+4379,small,3
+4380,large,5
+4381,extra large,2
+4382,extra large,5
+4383,medium,5
+4384,extra large,2
+4385,medium,2
+4386,medium,2
+4387,small,5
+4388,medium,3
+4389,small,2
+4390,small,3
+4391,medium,7
+4392,extra large,6
+4393,medium,6
+4394,extra large,6
+4395,small,6
+4396,medium,1
+4397,medium,3
+4398,small,6
+4399,medium,1
+4400,extra large,4
+4401,medium,4
+4402,medium,5
+4403,large,5
+4404,extra large,4
+4405,small,4
+4406,extra large,6
+4407,medium,3
+4408,small,1
+4409,medium,6
+4410,medium,6
+4411,medium,1
+4412,large,2
+4413,large,3
+4414,extra large,7
+4415,medium,1
+4416,large,4
+4417,small,5
+4418,large,2
+4419,medium,5
+4420,medium,2
+4421,large,5
+4422,medium,1
+4423,medium,5
+4424,large,7
+4425,small,2
+4426,extra large,3
+4427,medium,6
+4428,large,1
+4429,extra large,6
+4430,extra large,1
+4431,large,6
+4432,medium,6
+4433,small,3
+4434,small,1
+4435,large,4
+4436,small,4
+4437,extra large,6
+4438,medium,1
+4439,small,7
+4440,extra large,7
+4441,extra large,5
+4442,extra large,1
+4443,extra large,7
+4444,extra large,7
+4445,small,4
+4446,extra large,2
+4447,small,6
+4448,medium,5
+4449,medium,4
+4450,medium,4
+4451,large,4
+4452,small,5
+4453,large,1
+4454,small,1
+4455,large,5
+4456,medium,5
+4457,large,2
+4458,medium,2
+4459,large,1
+4460,medium,5
+4461,large,6
+4462,medium,4
+4463,extra large,6
+4464,medium,4
+4465,large,1
+4466,extra large,7
+4467,small,7
+4468,large,5
+4469,small,7
+4470,extra large,1
+4471,large,3
+4472,small,4
+4473,small,3
+4474,large,3
+4475,large,4
+4476,medium,7
+4477,small,1
+4478,extra large,1
+4479,extra large,6
+4480,small,6
+4481,medium,6
+4482,extra large,5
+4483,extra large,6
+4484,large,4
+4485,small,3
+4486,large,2
+4487,medium,2
+4488,small,2
+4489,medium,2
+4490,medium,2
+4491,large,3
+4492,extra large,5
+4493,medium,1
+4494,small,2
+4495,small,5
+4496,large,4
+4497,small,4
+4498,large,6
+4499,medium,3
+4500,extra large,3
+4501,large,3
+4502,medium,4
+4503,extra large,4
+4504,medium,5
+4505,small,1
+4506,large,4
+4507,small,5
+4508,medium,3
+4509,extra large,6
+4510,medium,2
+4511,extra large,7
+4512,large,4
+4513,small,3
+4514,large,4
+4515,medium,1
+4516,medium,5
+4517,large,6
+4518,large,5
+4519,extra large,3
+4520,small,7
+4521,small,4
+4522,extra large,6
+4523,large,6
+4524,medium,4
+4525,medium,1
+4526,extra large,5
+4527,extra large,6
+4528,medium,4
+4529,medium,5
+4530,large,2
+4531,medium,7
+4532,small,2
+4533,medium,5
+4534,medium,2
+4535,small,6
+4536,small,4
+4537,medium,3
+4538,extra large,3
+4539,large,4
+4540,medium,2
+4541,extra large,4
+4542,extra large,3
+4543,large,3
+4544,medium,1
+4545,large,4
+4546,extra large,7
+4547,extra large,2
+4548,small,1
+4549,extra large,7
+4550,extra large,6
+4551,extra large,6
+4552,medium,2
+4553,large,4
+4554,extra large,7
+4555,extra large,3
+4556,small,2
+4557,medium,5
+4558,medium,5
+4559,medium,1
+4560,extra large,3
+4561,medium,2
+4562,medium,2
+4563,small,2
+4564,large,5
+4565,large,7
+4566,small,2
+4567,small,1
+4568,small,5
+4569,medium,6
+4570,small,3
+4571,small,3
+4572,medium,5
+4573,large,1
+4574,large,5
+4575,small,3
+4576,medium,7
+4577,medium,3
+4578,small,7
+4579,large,6
+4580,large,7
+4581,medium,5
+4582,medium,3
+4583,small,1
+4584,medium,2
+4585,large,3
+4586,small,2
+4587,medium,5
+4588,medium,3
+4589,medium,6
+4590,extra large,1
+4591,small,6
+4592,medium,5
+4593,large,4
+4594,large,4
+4595,large,6
+4596,medium,6
+4597,large,6
+4598,small,7
+4599,small,7
+4600,large,3
+4601,medium,3
+4602,medium,6
+4603,medium,3
+4604,extra large,3
+4605,large,2
+4606,extra large,6
+4607,medium,7
+4608,small,7
+4609,medium,7
+4610,extra large,1
+4611,extra large,6
+4612,large,7
+4613,small,6
+4614,extra large,6
+4615,large,4
+4616,extra large,3
+4617,small,5
+4618,extra large,1
+4619,small,4
+4620,medium,3
+4621,large,3
+4622,large,4
+4623,small,6
+4624,large,2
+4625,small,3
+4626,extra large,6
+4627,large,5
+4628,extra large,3
+4629,large,5
+4630,large,3
+4631,large,5
+4632,small,3
+4633,large,5
+4634,large,5
+4635,large,4
+4636,medium,6
+4637,extra large,6
+4638,small,6
+4639,medium,7
+4640,small,4
+4641,small,1
+4642,large,3
+4643,small,4
+4644,large,3
+4645,large,5
+4646,large,1
+4647,small,1
+4648,medium,6
+4649,small,5
+4650,small,2
+4651,large,2
+4652,extra large,4
+4653,small,1
+4654,medium,5
+4655,medium,7
+4656,medium,5
+4657,large,2
+4658,medium,5
+4659,small,4
+4660,small,4
+4661,extra large,2
+4662,large,2
+4663,extra large,2
+4664,medium,5
+4665,extra large,1
+4666,medium,6
+4667,medium,1
+4668,large,5
+4669,small,3
+4670,extra large,2
+4671,extra large,5
+4672,extra large,1
+4673,medium,3
+4674,large,6
+4675,extra large,4
+4676,medium,3
+4677,medium,1
+4678,extra large,4
+4679,large,5
+4680,small,3
+4681,extra large,5
+4682,small,3
+4683,large,5
+4684,small,2
+4685,small,4
+4686,extra large,6
+4687,small,2
+4688,large,6
+4689,extra large,2
+4690,small,7
+4691,medium,1
+4692,large,5
+4693,large,2
+4694,large,7
+4695,medium,1
+4696,small,7
+4697,extra large,7
+4698,medium,1
+4699,extra large,5
+4700,medium,6
+4701,large,4
+4702,extra large,6
+4703,extra large,7
+4704,extra large,1
+4705,small,1
+4706,extra large,2
+4707,extra large,3
+4708,large,5
+4709,medium,4
+4710,small,5
+4711,extra large,2
+4712,medium,7
+4713,medium,3
+4714,medium,7
+4715,small,7
+4716,extra large,1
+4717,extra large,5
+4718,extra large,2
+4719,large,7
+4720,medium,5
+4721,medium,3
+4722,medium,2
+4723,extra large,5
+4724,small,1
+4725,extra large,4
+4726,small,6
+4727,medium,7
+4728,large,6
+4729,medium,5
+4730,medium,3
+4731,large,4
+4732,small,5
+4733,small,2
+4734,small,5
+4735,medium,5
+4736,large,2
+4737,medium,1
+4738,small,5
+4739,large,4
+4740,large,5
+4741,large,3
+4742,large,7
+4743,extra large,1
+4744,extra large,3
+4745,small,4
+4746,extra large,6
+4747,large,3
+4748,small,5
+4749,medium,6
+4750,medium,5
+4751,extra large,5
+4752,large,5
+4753,medium,3
+4754,small,7
+4755,small,5
+4756,medium,1
+4757,large,5
+4758,extra large,3
+4759,large,4
+4760,medium,5
+4761,extra large,6
+4762,small,5
+4763,extra large,6
+4764,large,1
+4765,extra large,2
+4766,extra large,5
+4767,large,4
+4768,extra large,6
+4769,medium,6
+4770,small,6
+4771,large,6
+4772,medium,6
+4773,large,2
+4774,medium,6
+4775,extra large,3
+4776,extra large,3
+4777,extra large,7
+4778,extra large,3
+4779,large,6
+4780,small,1
+4781,small,4
+4782,small,6
+4783,large,3
+4784,large,3
+4785,extra large,6
+4786,medium,4
+4787,small,1
+4788,small,4
+4789,large,2
+4790,extra large,7
+4791,large,2
+4792,small,3
+4793,large,1
+4794,large,2
+4795,extra large,7
+4796,large,3
+4797,medium,6
+4798,medium,5
+4799,small,5
+4800,medium,2
+4801,medium,6
+4802,medium,2
+4803,extra large,5
+4804,medium,5
+4805,small,2
+4806,small,5
+4807,small,1
+4808,extra large,6
+4809,extra large,6
+4810,large,7
+4811,medium,6
+4812,small,1
+4813,small,4
+4814,large,7
+4815,extra large,6
+4816,large,3
+4817,medium,5
+4818,extra large,5
+4819,small,6
+4820,medium,3
+4821,extra large,4
+4822,extra large,4
+4823,small,2
+4824,small,6
+4825,extra large,6
+4826,medium,6
+4827,medium,2
+4828,large,2
+4829,small,2
+4830,extra large,1
+4831,medium,7
+4832,large,4
+4833,large,2
+4834,extra large,1
+4835,extra large,7
+4836,extra large,1
+4837,medium,1
+4838,small,1
+4839,extra large,5
+4840,small,1
+4841,large,4
+4842,medium,5
+4843,large,2
+4844,small,6
+4845,small,1
+4846,small,4
+4847,large,1
+4848,large,3
+4849,medium,6
+4850,medium,5
+4851,extra large,3
+4852,large,5
+4853,medium,2
+4854,small,7
+4855,extra large,6
+4856,large,7
+4857,large,2
+4858,extra large,7
+4859,medium,2
+4860,medium,1
+4861,large,4
+4862,large,2
+4863,medium,3
+4864,medium,4
+4865,large,1
+4866,small,5
+4867,large,1
+4868,small,3
+4869,large,2
+4870,medium,5
+4871,medium,6
+4872,extra large,4
+4873,extra large,6
+4874,medium,6
+4875,extra large,5
+4876,large,6
+4877,extra large,3
+4878,large,4
+4879,medium,4
+4880,extra large,5
+4881,medium,5
+4882,small,3
+4883,small,6
+4884,medium,3
+4885,large,2
+4886,large,3
+4887,small,6
+4888,extra large,3
+4889,extra large,3
+4890,extra large,5
+4891,extra large,4
+4892,medium,5
+4893,extra large,5
+4894,extra large,6
+4895,medium,1
+4896,extra large,4
+4897,large,3
+4898,large,5
+4899,large,1
+4900,medium,3
+4901,small,2
+4902,large,3
+4903,small,2
+4904,medium,3
+4905,extra large,2
+4906,extra large,6
+4907,extra large,5
+4908,extra large,6
+4909,extra large,7
+4910,extra large,2
+4911,large,3
+4912,large,3
+4913,extra large,1
+4914,medium,3
+4915,medium,6
+4916,medium,7
+4917,small,7
+4918,medium,6
+4919,small,7
+4920,medium,1
+4921,small,6
+4922,large,1
+4923,small,6
+4924,small,5
+4925,extra large,7
+4926,extra large,5
+4927,large,4
+4928,extra large,3
+4929,medium,6
+4930,medium,3
+4931,extra large,4
+4932,small,3
+4933,extra large,2
+4934,small,3
+4935,extra large,1
+4936,medium,4
+4937,large,1
+4938,medium,4
+4939,medium,4
+4940,large,2
+4941,small,6
+4942,small,2
+4943,large,3
+4944,small,2
+4945,extra large,6
+4946,extra large,5
+4947,large,2
+4948,small,4
+4949,medium,6
+4950,extra large,2
+4951,extra large,6
+4952,large,3
+4953,large,5
+4954,medium,6
+4955,medium,5
+4956,medium,6
+4957,medium,7
+4958,medium,5
+4959,small,1
+4960,small,2
+4961,large,7
+4962,small,1
+4963,small,2
+4964,large,2
+4965,medium,2
+4966,extra large,1
+4967,small,7
+4968,large,2
+4969,small,5
+4970,medium,6
+4971,medium,6
+4972,large,2
+4973,medium,4
+4974,large,6
+4975,small,7
+4976,extra large,2
+4977,extra large,6
+4978,large,5
+4979,large,1
+4980,medium,3
+4981,medium,5
+4982,extra large,6
+4983,extra large,1
+4984,small,6
+4985,medium,6
+4986,medium,1
+4987,large,5
+4988,large,7
+4989,medium,7
+4990,small,4
+4991,extra large,6
+4992,large,5
+4993,medium,4
+4994,large,5
+4995,large,6
+4996,extra large,3
+4997,large,7
+4998,medium,6
+4999,small,4
+5000,medium,5
+5001,medium,3
+5002,large,2
+5003,medium,2
+5004,extra large,3
+5005,large,6
+5006,extra large,6
+5007,large,6
+5008,large,1
+5009,extra large,6
+5010,medium,4
+5011,large,6
+5012,medium,1
+5013,large,7
+5014,extra large,2
+5015,medium,7
+5016,small,2
+5017,medium,6
+5018,large,4
+5019,extra large,1
+5020,small,2
+5021,extra large,4
+5022,medium,6
+5023,extra large,3
+5024,extra large,7
+5025,large,3
+5026,extra large,7
+5027,small,6
+5028,medium,7
+5029,medium,3
+5030,large,3
+5031,large,4
+5032,medium,5
+5033,small,2
+5034,large,1
+5035,small,1
+5036,small,5
+5037,medium,5
+5038,extra large,3
+5039,extra large,5
+5040,large,6
+5041,small,6
+5042,medium,2
+5043,large,4
+5044,medium,1
+5045,medium,3
+5046,small,5
+5047,medium,5
+5048,large,4
+5049,medium,5
+5050,large,2
+5051,medium,1
+5052,medium,3
+5053,small,1
+5054,extra large,5
+5055,extra large,6
+5056,extra large,6
+5057,extra large,3
+5058,extra large,4
+5059,small,7
+5060,medium,1
+5061,large,2
+5062,extra large,1
+5063,large,7
+5064,extra large,5
+5065,extra large,1
+5066,extra large,5
+5067,extra large,7
+5068,medium,5
+5069,extra large,5
+5070,small,2
+5071,large,3
+5072,small,1
+5073,medium,1
+5074,medium,6
+5075,extra large,5
+5076,medium,7
+5077,large,1
+5078,medium,6
+5079,small,3
+5080,medium,5
+5081,large,5
+5082,medium,5
+5083,small,4
+5084,extra large,3
+5085,extra large,7
+5086,small,4
+5087,large,4
+5088,extra large,5
+5089,small,2
+5090,small,1
+5091,small,5
+5092,extra large,2
+5093,small,2
+5094,small,5
+5095,medium,3
+5096,large,2
+5097,small,5
+5098,small,1
+5099,small,1
+5100,small,5
+5101,extra large,5
+5102,medium,6
+5103,medium,6
+5104,extra large,5
+5105,medium,4
+5106,small,4
+5107,medium,1
+5108,large,7
+5109,medium,6
+5110,medium,5
+5111,extra large,6
+5112,extra large,6
+5113,large,3
+5114,medium,1
+5115,small,1
+5116,extra large,6
+5117,medium,6
+5118,small,2
+5119,extra large,6
+5120,small,1
+5121,large,5
+5122,large,7
+5123,medium,6
+5124,small,6
+5125,large,3
+5126,extra large,6
+5127,small,6
+5128,medium,4
+5129,small,1
+5130,extra large,6
+5131,large,3
+5132,medium,6
+5133,medium,2
+5134,small,1
+5135,small,6
+5136,medium,6
+5137,extra large,5
+5138,large,6
+5139,large,2
+5140,small,3
+5141,medium,6
+5142,large,2
+5143,large,7
+5144,extra large,5
+5145,medium,2
+5146,small,7
+5147,medium,1
+5148,extra large,3
+5149,small,1
+5150,large,2
+5151,extra large,6
+5152,extra large,4
+5153,medium,7
+5154,large,1
+5155,large,2
+5156,large,7
+5157,medium,5
+5158,large,3
+5159,extra large,6
+5160,small,3
+5161,large,5
+5162,medium,5
+5163,small,6
+5164,large,3
+5165,medium,6
+5166,extra large,7
+5167,extra large,5
+5168,extra large,5
+5169,small,6
+5170,large,5
+5171,medium,4
+5172,medium,4
+5173,extra large,2
+5174,extra large,7
+5175,small,2
+5176,medium,6
+5177,small,6
+5178,small,6
+5179,large,2
+5180,medium,3
+5181,extra large,4
+5182,extra large,7
+5183,large,7
+5184,medium,5
+5185,small,5
+5186,large,1
+5187,medium,4
+5188,large,3
+5189,small,7
+5190,large,2
+5191,small,5
+5192,large,3
+5193,large,1
+5194,medium,6
+5195,small,2
+5196,large,4
+5197,small,2
+5198,extra large,7
+5199,extra large,5
+5200,extra large,1
+5201,medium,3
+5202,large,2
+5203,medium,5
+5204,extra large,1
+5205,medium,6
+5206,extra large,1
+5207,extra large,1
+5208,small,2
+5209,small,6
+5210,large,2
+5211,large,5
+5212,medium,2
+5213,large,3
+5214,large,1
+5215,large,4
+5216,medium,1
+5217,extra large,7
+5218,small,1
+5219,medium,3
+5220,extra large,7
+5221,small,7
+5222,large,6
+5223,extra large,7
+5224,extra large,2
+5225,extra large,2
+5226,medium,2
+5227,large,7
+5228,extra large,6
+5229,large,7
+5230,extra large,6
+5231,extra large,2
+5232,large,3
+5233,large,2
+5234,large,3
+5235,medium,4
+5236,extra large,1
+5237,medium,1
+5238,medium,3
+5239,medium,3
+5240,small,6
+5241,large,6
+5242,extra large,4
+5243,medium,2
+5244,extra large,1
+5245,medium,4
+5246,small,2
+5247,small,3
+5248,extra large,6
+5249,medium,6
+5250,small,5
+5251,extra large,2
+5252,extra large,1
+5253,small,2
+5254,large,3
+5255,small,2
+5256,extra large,7
+5257,extra large,3
+5258,extra large,4
+5259,large,4
+5260,large,3
+5261,large,5
+5262,small,3
+5263,medium,4
+5264,large,4
+5265,extra large,4
+5266,large,6
+5267,large,1
+5268,extra large,2
+5269,medium,2
+5270,large,4
+5271,small,2
+5272,large,7
+5273,small,1
+5274,medium,4
+5275,medium,3
+5276,extra large,1
+5277,extra large,5
+5278,extra large,6
+5279,medium,3
+5280,small,3
+5281,large,2
+5282,small,6
+5283,small,1
+5284,large,1
+5285,extra large,6
+5286,extra large,7
+5287,small,6
+5288,medium,5
+5289,large,6
+5290,large,1
+5291,large,4
+5292,extra large,5
+5293,extra large,1
+5294,small,2
+5295,medium,6
+5296,small,5
+5297,extra large,6
+5298,small,2
+5299,medium,3
+5300,medium,6
+5301,extra large,7
+5302,medium,5
+5303,medium,7
+5304,small,2
+5305,extra large,6
+5306,extra large,6
+5307,extra large,6
+5308,small,6
+5309,extra large,3
+5310,medium,1
+5311,extra large,4
+5312,extra large,4
+5313,large,1
+5314,small,3
+5315,large,6
+5316,medium,3
+5317,small,5
+5318,extra large,4
+5319,large,5
+5320,large,6
+5321,large,6
+5322,medium,1
+5323,medium,4
+5324,medium,7
+5325,large,7
+5326,large,2
+5327,extra large,3
+5328,extra large,5
+5329,extra large,3
+5330,medium,1
+5331,large,6
+5332,large,3
+5333,large,4
+5334,extra large,2
+5335,extra large,4
+5336,small,6
+5337,medium,5
+5338,medium,6
+5339,medium,5
+5340,medium,6
+5341,medium,6
+5342,medium,6
+5343,extra large,1
+5344,extra large,2
+5345,small,4
+5346,large,3
+5347,extra large,2
+5348,large,7
+5349,medium,5
+5350,extra large,5
+5351,small,6
+5352,small,1
+5353,extra large,1
+5354,large,4
+5355,medium,4
+5356,small,5
+5357,medium,4
+5358,large,4
+5359,medium,4
+5360,small,2
+5361,small,3
+5362,medium,3
+5363,medium,4
+5364,large,1
+5365,medium,4
+5366,extra large,2
+5367,extra large,3
+5368,extra large,3
+5369,large,4
+5370,small,7
+5371,small,1
+5372,extra large,7
+5373,small,6
+5374,medium,5
+5375,large,6
+5376,large,6
+5377,extra large,2
+5378,extra large,1
+5379,small,5
+5380,extra large,4
+5381,small,1
+5382,small,4
+5383,extra large,7
+5384,extra large,4
+5385,large,1
+5386,extra large,6
+5387,medium,2
+5388,medium,7
+5389,large,5
+5390,small,3
+5391,small,2
+5392,small,6
+5393,small,2
+5394,medium,1
+5395,extra large,4
+5396,large,1
+5397,extra large,6
+5398,medium,7
+5399,medium,7
+5400,large,5
+5401,small,3
+5402,small,4
+5403,extra large,1
+5404,medium,4
+5405,large,4
+5406,extra large,6
+5407,medium,7
+5408,extra large,1
+5409,small,3
+5410,small,4
+5411,large,5
+5412,small,1
+5413,medium,1
+5414,medium,5
+5415,large,4
+5416,medium,7
+5417,medium,7
+5418,medium,1
+5419,large,4
+5420,medium,5
+5421,small,1
+5422,extra large,5
+5423,large,6
+5424,small,4
+5425,medium,3
+5426,extra large,6
+5427,small,1
+5428,small,3
+5429,small,1
+5430,small,2
+5431,large,5
+5432,small,2
+5433,medium,1
+5434,extra large,6
+5435,medium,1
+5436,extra large,4
+5437,medium,3
+5438,medium,2
+5439,small,6
+5440,large,6
+5441,medium,7
+5442,medium,6
+5443,medium,5
+5444,small,6
+5445,medium,1
+5446,small,2
+5447,large,2
+5448,large,2
+5449,medium,3
+5450,medium,2
+5451,extra large,3
+5452,small,3
+5453,small,6
+5454,medium,7
+5455,large,5
+5456,extra large,7
+5457,large,1
+5458,medium,3
+5459,medium,5
+5460,medium,4
+5461,small,7
+5462,medium,6
+5463,medium,3
+5464,extra large,5
+5465,large,6
+5466,extra large,7
+5467,small,2
+5468,extra large,4
+5469,small,5
+5470,small,7
+5471,large,5
+5472,small,4
+5473,large,3
+5474,large,1
+5475,large,4
+5476,large,6
+5477,small,5
+5478,medium,4
+5479,large,6
+5480,small,5
+5481,extra large,2
+5482,medium,6
+5483,extra large,5
+5484,small,1
+5485,large,7
+5486,medium,2
+5487,small,6
+5488,extra large,4
+5489,small,6
+5490,extra large,5
+5491,medium,6
+5492,small,7
+5493,large,5
+5494,medium,4
+5495,extra large,3
+5496,large,1
+5497,large,1
+5498,large,1
+5499,extra large,2
+5500,medium,2
+5501,large,3
+5502,small,5
+5503,large,5
+5504,small,2
+5505,small,7
+5506,small,5
+5507,small,4
+5508,small,6
+5509,extra large,5
+5510,small,5
+5511,small,1
+5512,medium,5
+5513,medium,7
+5514,large,3
+5515,medium,6
+5516,small,7
+5517,medium,5
+5518,medium,2
+5519,large,4
+5520,extra large,4
+5521,medium,6
+5522,large,2
+5523,extra large,2
+5524,medium,4
+5525,large,5
+5526,extra large,4
+5527,small,3
+5528,large,2
+5529,extra large,4
+5530,large,1
+5531,large,7
+5532,medium,3
+5533,extra large,2
+5534,extra large,1
+5535,extra large,7
+5536,extra large,1
+5537,extra large,1
+5538,extra large,6
+5539,large,7
+5540,medium,2
+5541,small,6
+5542,extra large,2
+5543,extra large,7
+5544,small,7
+5545,large,1
+5546,large,2
+5547,extra large,7
+5548,medium,4
+5549,large,1
+5550,extra large,4
+5551,small,6
+5552,small,4
+5553,small,2
+5554,medium,3
+5555,medium,5
+5556,large,1
+5557,medium,3
+5558,medium,6
+5559,extra large,4
+5560,large,5
+5561,extra large,7
+5562,small,2
+5563,extra large,2
+5564,extra large,3
+5565,medium,3
+5566,large,1
+5567,large,3
+5568,extra large,3
+5569,large,4
+5570,extra large,2
+5571,small,1
+5572,extra large,4
+5573,small,2
+5574,medium,2
+5575,large,6
+5576,extra large,3
+5577,medium,4
+5578,extra large,2
+5579,large,2
+5580,small,6
+5581,extra large,1
+5582,extra large,1
+5583,extra large,1
+5584,extra large,7
+5585,medium,1
+5586,medium,5
+5587,large,2
+5588,medium,1
+5589,extra large,6
+5590,medium,3
+5591,extra large,6
+5592,extra large,7
+5593,extra large,4
+5594,medium,4
+5595,large,4
+5596,small,3
+5597,small,6
+5598,small,6
+5599,large,6
+5600,large,4
+5601,medium,7
+5602,large,3
+5603,medium,3
+5604,extra large,7
+5605,large,7
+5606,medium,7
+5607,large,6
+5608,extra large,6
+5609,medium,4
+5610,small,7
+5611,large,4
+5612,large,1
+5613,medium,1
+5614,extra large,4
+5615,small,7
+5616,large,2
+5617,extra large,1
+5618,small,7
+5619,large,1
+5620,small,4
+5621,extra large,2
+5622,medium,3
+5623,large,3
+5624,small,6
+5625,large,6
+5626,extra large,4
+5627,medium,4
+5628,medium,6
+5629,small,7
+5630,medium,1
+5631,large,5
+5632,medium,1
+5633,large,7
+5634,extra large,3
+5635,medium,3
+5636,large,3
+5637,extra large,6
+5638,extra large,6
+5639,small,3
+5640,medium,1
+5641,large,1
+5642,small,5
+5643,medium,6
+5644,medium,4
+5645,large,1
+5646,medium,3
+5647,large,4
+5648,small,2
+5649,small,3
+5650,medium,1
+5651,medium,7
+5652,extra large,7
+5653,medium,4
+5654,large,6
+5655,small,2
+5656,small,3
+5657,small,2
+5658,large,1
+5659,small,2
+5660,medium,4
+5661,small,2
+5662,medium,4
+5663,medium,5
+5664,large,5
+5665,large,6
+5666,small,2
+5667,large,2
+5668,extra large,6
+5669,small,3
+5670,medium,6
+5671,extra large,6
+5672,medium,5
+5673,extra large,6
+5674,large,6
+5675,medium,6
+5676,small,1
+5677,medium,1
+5678,large,5
+5679,medium,3
+5680,small,2
+5681,large,6
+5682,large,5
+5683,small,1
+5684,large,6
+5685,extra large,2
+5686,large,1
+5687,medium,3
+5688,medium,7
+5689,large,6
+5690,extra large,7
+5691,medium,7
+5692,medium,4
+5693,medium,3
+5694,extra large,4
+5695,medium,6
+5696,small,1
+5697,large,2
+5698,small,6
+5699,large,4
+5700,large,3
+5701,large,6
+5702,large,7
+5703,large,4
+5704,small,6
+5705,small,3
+5706,extra large,7
+5707,medium,7
+5708,large,1
+5709,small,3
+5710,medium,6
+5711,small,2
+5712,medium,7
+5713,extra large,4
+5714,small,3
+5715,large,6
+5716,large,6
+5717,small,5
+5718,extra large,2
+5719,large,2
+5720,medium,6
+5721,large,5
+5722,large,5
+5723,small,2
+5724,large,6
+5725,small,7
+5726,small,3
+5727,small,5
+5728,small,6
+5729,medium,2
+5730,small,7
+5731,large,4
+5732,medium,1
+5733,medium,7
+5734,medium,2
+5735,small,1
+5736,large,7
+5737,small,1
+5738,extra large,6
+5739,small,1
+5740,large,6
+5741,extra large,3
+5742,large,2
+5743,medium,6
+5744,extra large,3
+5745,large,2
+5746,medium,1
+5747,extra large,6
+5748,extra large,4
+5749,large,6
+5750,extra large,7
+5751,medium,2
+5752,medium,1
+5753,extra large,5
+5754,medium,6
+5755,small,5
+5756,small,5
+5757,large,5
+5758,medium,7
+5759,extra large,4
+5760,medium,2
+5761,extra large,1
+5762,large,5
+5763,large,6
+5764,extra large,5
+5765,extra large,4
+5766,medium,1
+5767,medium,1
+5768,small,4
+5769,large,1
+5770,medium,2
+5771,extra large,6
+5772,extra large,4
+5773,extra large,4
+5774,large,5
+5775,extra large,6
+5776,small,2
+5777,large,2
+5778,extra large,4
+5779,extra large,7
+5780,medium,6
+5781,extra large,2
+5782,large,1
+5783,medium,6
+5784,large,3
+5785,small,6
+5786,medium,4
+5787,extra large,2
+5788,small,7
+5789,medium,3
+5790,large,2
+5791,extra large,3
+5792,extra large,6
+5793,extra large,4
+5794,large,3
+5795,extra large,2
+5796,extra large,6
+5797,small,3
+5798,small,6
+5799,large,5
+5800,small,7
+5801,medium,6
+5802,medium,7
+5803,extra large,2
+5804,medium,2
+5805,small,2
+5806,large,6
+5807,small,5
+5808,small,2
+5809,medium,2
+5810,small,5
+5811,extra large,3
+5812,small,4
+5813,small,6
+5814,large,6
+5815,medium,5
+5816,medium,5
+5817,extra large,7
+5818,large,3
+5819,medium,2
+5820,extra large,4
+5821,small,4
+5822,large,6
+5823,large,5
+5824,small,7
+5825,small,7
+5826,extra large,2
+5827,extra large,7
+5828,large,5
+5829,small,4
+5830,extra large,2
+5831,small,5
+5832,extra large,1
+5833,large,5
+5834,medium,6
+5835,large,4
+5836,large,4
+5837,large,1
+5838,large,1
+5839,small,2
+5840,small,6
+5841,medium,3
+5842,medium,7
+5843,extra large,4
+5844,small,3
+5845,large,4
+5846,medium,7
+5847,extra large,7
+5848,extra large,4
+5849,medium,7
+5850,small,4
+5851,large,3
+5852,large,1
+5853,medium,1
+5854,small,3
+5855,small,1
+5856,extra large,1
+5857,small,7
+5858,large,6
+5859,medium,6
+5860,small,7
+5861,extra large,6
+5862,large,3
+5863,extra large,5
+5864,small,2
+5865,large,3
+5866,small,6
+5867,large,2
+5868,medium,6
+5869,small,3
+5870,small,4
+5871,small,1
+5872,large,3
+5873,extra large,4
+5874,small,5
+5875,large,7
+5876,large,7
+5877,medium,2
+5878,extra large,2
+5879,small,4
+5880,medium,1
+5881,medium,4
+5882,small,1
+5883,extra large,1
+5884,medium,4
+5885,small,6
+5886,extra large,6
+5887,small,5
+5888,extra large,3
+5889,large,6
+5890,extra large,1
+5891,medium,1
+5892,medium,2
+5893,medium,4
+5894,medium,6
+5895,large,1
+5896,small,4
+5897,small,3
+5898,extra large,3
+5899,extra large,5
+5900,large,2
+5901,small,1
+5902,large,5
+5903,large,7
+5904,medium,2
+5905,small,1
+5906,small,1
+5907,extra large,2
+5908,extra large,7
+5909,small,6
+5910,small,5
+5911,extra large,2
+5912,small,3
+5913,extra large,4
+5914,extra large,1
+5915,extra large,4
+5916,medium,1
+5917,small,1
+5918,small,7
+5919,small,7
+5920,large,5
+5921,large,4
+5922,large,2
+5923,medium,7
+5924,small,1
+5925,medium,3
+5926,small,2
+5927,medium,6
+5928,medium,1
+5929,small,7
+5930,small,2
+5931,small,3
+5932,small,5
+5933,medium,5
+5934,medium,5
+5935,extra large,2
+5936,large,2
+5937,small,3
+5938,extra large,1
+5939,small,6
+5940,medium,1
+5941,small,1
+5942,small,3
+5943,extra large,4
+5944,large,3
+5945,small,2
+5946,medium,2
+5947,small,1
+5948,extra large,7
+5949,large,4
+5950,medium,1
+5951,extra large,5
+5952,small,6
+5953,extra large,4
+5954,small,4
+5955,small,2
+5956,extra large,2
+5957,large,1
+5958,extra large,7
+5959,extra large,7
+5960,large,4
+5961,extra large,7
+5962,large,4
+5963,extra large,5
+5964,medium,3
+5965,medium,4
+5966,medium,1
+5967,large,4
+5968,large,2
+5969,large,1
+5970,extra large,5
+5971,small,1
+5972,medium,5
+5973,medium,2
+5974,large,7
+5975,large,5
+5976,extra large,2
+5977,medium,5
+5978,large,2
+5979,extra large,6
+5980,medium,7
+5981,extra large,7
+5982,small,7
+5983,small,7
+5984,medium,4
+5985,extra large,5
+5986,large,5
+5987,extra large,6
+5988,medium,4
+5989,small,2
+5990,small,1
+5991,extra large,7
+5992,small,3
+5993,large,2
+5994,large,6
+5995,extra large,2
+5996,extra large,1
+5997,large,4
+5998,medium,3
+5999,medium,7
+6000,extra large,4
+6001,extra large,3
+6002,medium,2
+6003,medium,3
+6004,medium,5
+6005,medium,3
+6006,medium,4
+6007,extra large,3
+6008,large,2
+6009,medium,2
+6010,extra large,3
+6011,medium,5
+6012,medium,4
+6013,extra large,6
+6014,large,7
+6015,small,7
+6016,extra large,5
+6017,large,1
+6018,small,6
+6019,large,2
+6020,medium,2
+6021,extra large,7
+6022,extra large,6
+6023,small,1
+6024,small,1
+6025,large,4
+6026,medium,5
+6027,medium,3
+6028,medium,4
+6029,large,4
+6030,extra large,2
+6031,medium,7
+6032,extra large,2
+6033,large,4
+6034,small,5
+6035,small,1
+6036,extra large,5
+6037,medium,7
+6038,large,1
+6039,small,5
+6040,medium,3
+6041,medium,7
+6042,extra large,5
+6043,small,2
+6044,medium,3
+6045,large,3
+6046,medium,7
+6047,small,6
+6048,small,4
+6049,small,6
+6050,extra large,5
+6051,medium,5
+6052,small,6
+6053,large,3
+6054,extra large,5
+6055,large,2
+6056,large,3
+6057,small,5
+6058,medium,7
+6059,medium,3
+6060,large,2
+6061,medium,2
+6062,small,4
+6063,small,4
+6064,medium,6
+6065,large,5
+6066,large,3
+6067,large,3
+6068,small,6
+6069,large,4
+6070,large,1
+6071,large,1
+6072,extra large,4
+6073,extra large,1
+6074,small,1
+6075,extra large,3
+6076,extra large,1
+6077,medium,2
+6078,small,3
+6079,large,7
+6080,medium,5
+6081,medium,6
+6082,medium,7
+6083,large,7
+6084,extra large,1
+6085,medium,6
+6086,extra large,5
+6087,small,2
+6088,medium,1
+6089,medium,1
+6090,large,6
+6091,large,2
+6092,medium,2
+6093,small,6
+6094,large,7
+6095,medium,1
+6096,extra large,5
+6097,small,3
+6098,extra large,6
+6099,medium,5
+6100,large,2
+6101,large,2
+6102,large,5
+6103,medium,3
+6104,medium,3
+6105,extra large,4
+6106,extra large,2
+6107,large,1
+6108,small,2
+6109,medium,2
+6110,extra large,1
+6111,medium,1
+6112,medium,2
+6113,medium,4
+6114,small,5
+6115,small,7
+6116,medium,7
+6117,medium,7
+6118,medium,5
+6119,extra large,3
+6120,small,7
+6121,medium,1
+6122,large,4
+6123,extra large,1
+6124,large,2
+6125,medium,3
+6126,large,1
+6127,small,1
+6128,extra large,3
+6129,extra large,4
+6130,large,4
+6131,small,5
+6132,large,6
+6133,small,1
+6134,small,7
+6135,small,7
+6136,extra large,5
+6137,medium,4
+6138,extra large,7
+6139,large,1
+6140,extra large,1
+6141,small,4
+6142,large,3
+6143,small,5
+6144,small,6
+6145,extra large,7
+6146,small,6
+6147,large,2
+6148,extra large,7
+6149,medium,1
+6150,extra large,4
+6151,small,5
+6152,extra large,1
+6153,small,1
+6154,small,4
+6155,extra large,6
+6156,extra large,2
+6157,medium,1
+6158,large,2
+6159,small,7
+6160,medium,3
+6161,medium,5
+6162,small,4
+6163,medium,7
+6164,large,4
+6165,medium,7
+6166,extra large,6
+6167,large,6
+6168,large,5
+6169,extra large,3
+6170,large,1
+6171,small,2
+6172,small,7
+6173,small,7
+6174,small,3
+6175,medium,7
+6176,medium,7
+6177,medium,2
+6178,large,6
+6179,large,3
+6180,large,6
+6181,small,2
+6182,small,5
+6183,medium,5
+6184,small,5
+6185,extra large,5
+6186,small,5
+6187,large,2
+6188,medium,5
+6189,medium,6
+6190,extra large,6
+6191,large,4
+6192,medium,5
+6193,medium,2
+6194,extra large,6
+6195,extra large,3
+6196,large,2
+6197,large,6
+6198,extra large,1
+6199,small,4
+6200,medium,5
+6201,large,7
+6202,extra large,2
+6203,medium,7
+6204,large,1
+6205,extra large,5
+6206,large,1
+6207,small,5
+6208,small,2
+6209,large,2
+6210,large,4
+6211,large,1
+6212,small,5
+6213,large,5
+6214,large,2
+6215,medium,4
+6216,extra large,4
+6217,medium,4
+6218,small,3
+6219,medium,2
+6220,extra large,3
+6221,small,7
+6222,small,3
+6223,medium,3
+6224,small,2
+6225,large,5
+6226,extra large,6
+6227,small,4
+6228,large,3
+6229,medium,5
+6230,large,5
+6231,large,2
+6232,extra large,4
+6233,medium,5
+6234,extra large,4
+6235,extra large,7
+6236,small,5
+6237,medium,7
+6238,small,4
+6239,large,5
+6240,large,6
+6241,small,4
+6242,medium,6
+6243,large,4
+6244,small,6
+6245,medium,5
+6246,medium,3
+6247,medium,3
+6248,extra large,2
+6249,medium,7
+6250,large,3
+6251,medium,3
+6252,extra large,1
+6253,small,5
+6254,large,6
+6255,small,7
+6256,large,1
+6257,large,3
+6258,large,5
+6259,small,7
+6260,medium,1
+6261,large,2
+6262,extra large,7
+6263,large,4
+6264,small,6
+6265,small,7
+6266,medium,5
+6267,large,6
+6268,large,1
+6269,small,5
+6270,extra large,6
+6271,extra large,5
+6272,medium,6
+6273,extra large,1
+6274,small,3
+6275,small,4
+6276,large,4
+6277,large,3
+6278,large,6
+6279,extra large,6
+6280,medium,3
+6281,small,4
+6282,large,6
+6283,extra large,4
+6284,large,3
+6285,medium,4
+6286,large,4
+6287,small,1
+6288,small,1
+6289,extra large,5
+6290,medium,7
+6291,medium,6
+6292,extra large,1
+6293,small,3
+6294,extra large,6
+6295,medium,5
+6296,small,5
+6297,extra large,4
+6298,medium,7
+6299,medium,5
+6300,small,5
+6301,small,7
+6302,large,5
+6303,large,5
+6304,small,1
+6305,extra large,5
+6306,extra large,3
+6307,small,4
+6308,small,6
+6309,large,1
+6310,medium,5
+6311,small,2
+6312,large,2
+6313,extra large,3
+6314,small,4
+6315,large,6
+6316,small,7
+6317,medium,7
+6318,medium,4
+6319,extra large,4
+6320,extra large,5
+6321,small,6
+6322,extra large,2
+6323,small,4
+6324,small,6
+6325,large,5
+6326,medium,2
+6327,large,7
+6328,small,3
+6329,small,3
+6330,large,3
+6331,extra large,4
+6332,medium,6
+6333,extra large,5
+6334,large,3
+6335,small,5
+6336,small,6
+6337,large,3
+6338,extra large,3
+6339,large,4
+6340,small,4
+6341,extra large,2
+6342,extra large,3
+6343,extra large,4
+6344,medium,3
+6345,small,7
+6346,small,5
+6347,small,6
+6348,extra large,6
+6349,large,4
+6350,small,7
+6351,small,5
+6352,small,7
+6353,small,4
+6354,small,2
+6355,medium,6
+6356,large,6
+6357,large,7
+6358,extra large,5
+6359,small,1
+6360,medium,2
+6361,extra large,6
+6362,extra large,1
+6363,small,1
+6364,small,2
+6365,medium,4
+6366,small,5
+6367,medium,4
+6368,medium,3
+6369,large,2
+6370,medium,4
+6371,extra large,4
+6372,medium,2
+6373,medium,1
+6374,extra large,2
+6375,extra large,3
+6376,extra large,4
+6377,extra large,5
+6378,small,3
+6379,large,6
+6380,large,7
+6381,small,1
+6382,small,2
+6383,small,2
+6384,extra large,5
+6385,medium,7
+6386,medium,6
+6387,large,7
+6388,large,1
+6389,extra large,7
+6390,small,2
+6391,large,5
+6392,large,6
+6393,large,3
+6394,medium,4
+6395,extra large,4
+6396,medium,6
+6397,medium,5
+6398,large,1
+6399,small,5
+6400,large,2
+6401,small,5
+6402,extra large,4
+6403,small,3
+6404,extra large,5
+6405,small,5
+6406,large,6
+6407,medium,2
+6408,medium,1
+6409,large,6
+6410,small,5
+6411,medium,5
+6412,medium,2
+6413,medium,2
+6414,small,7
+6415,large,3
+6416,extra large,1
+6417,small,2
+6418,extra large,2
+6419,small,5
+6420,large,2
+6421,small,6
+6422,medium,2
+6423,medium,3
+6424,small,7
+6425,large,4
+6426,medium,7
+6427,small,6
+6428,small,2
+6429,small,5
+6430,small,2
+6431,small,1
+6432,medium,5
+6433,large,2
+6434,small,3
+6435,medium,5
+6436,extra large,5
+6437,medium,1
+6438,medium,1
+6439,medium,4
+6440,large,4
+6441,extra large,7
+6442,large,6
+6443,medium,2
+6444,small,7
+6445,medium,2
+6446,medium,2
+6447,extra large,4
+6448,extra large,3
+6449,medium,7
+6450,medium,6
+6451,large,1
+6452,small,6
+6453,small,5
+6454,medium,4
+6455,large,1
+6456,extra large,3
+6457,small,2
+6458,small,6
+6459,large,7
+6460,extra large,3
+6461,medium,7
+6462,extra large,7
+6463,extra large,6
+6464,large,1
+6465,large,6
+6466,extra large,2
+6467,large,2
+6468,large,5
+6469,extra large,7
+6470,medium,5
+6471,small,6
+6472,large,3
+6473,small,7
+6474,medium,1
+6475,small,5
+6476,small,2
+6477,extra large,7
+6478,extra large,5
+6479,large,5
+6480,extra large,4
+6481,large,7
+6482,small,7
+6483,medium,7
+6484,small,3
+6485,small,1
+6486,large,2
+6487,medium,7
+6488,extra large,6
+6489,medium,4
+6490,small,3
+6491,medium,6
+6492,medium,5
+6493,medium,3
+6494,small,1
+6495,extra large,4
+6496,extra large,3
+6497,extra large,2
+6498,large,6
+6499,medium,5
+6500,extra large,3
+6501,medium,7
+6502,small,2
+6503,extra large,4
+6504,large,4
+6505,large,2
+6506,medium,6
+6507,extra large,1
+6508,small,2
+6509,small,5
+6510,large,5
+6511,small,6
+6512,extra large,2
+6513,large,6
+6514,large,4
+6515,medium,5
+6516,small,4
+6517,large,5
+6518,medium,1
+6519,extra large,1
+6520,medium,2
+6521,medium,7
+6522,medium,3
+6523,small,6
+6524,extra large,7
+6525,large,5
+6526,large,6
+6527,small,7
+6528,large,2
+6529,large,2
+6530,small,7
+6531,medium,2
+6532,large,4
+6533,small,7
+6534,medium,5
+6535,medium,7
+6536,medium,7
+6537,medium,1
+6538,extra large,2
+6539,small,1
+6540,medium,4
+6541,extra large,7
+6542,medium,7
+6543,small,2
+6544,small,1
+6545,large,6
+6546,medium,5
+6547,extra large,6
+6548,extra large,2
+6549,medium,6
+6550,extra large,7
+6551,medium,6
+6552,large,4
+6553,extra large,4
+6554,large,5
+6555,large,1
+6556,extra large,1
+6557,small,3
+6558,small,1
+6559,medium,1
+6560,large,1
+6561,small,1
+6562,extra large,3
+6563,large,7
+6564,large,5
+6565,extra large,2
+6566,large,7
+6567,large,6
+6568,medium,7
+6569,extra large,3
+6570,small,6
+6571,small,2
+6572,medium,7
+6573,extra large,5
+6574,large,1
+6575,extra large,2
+6576,medium,1
+6577,medium,5
+6578,extra large,4
+6579,small,3
+6580,small,7
+6581,large,6
+6582,large,3
+6583,small,3
+6584,extra large,7
+6585,extra large,3
+6586,large,6
+6587,medium,5
+6588,extra large,5
+6589,medium,7
+6590,extra large,6
+6591,large,1
+6592,medium,4
+6593,medium,3
+6594,small,1
+6595,large,5
+6596,medium,7
+6597,extra large,7
+6598,small,3
+6599,medium,4
+6600,medium,3
+6601,large,5
+6602,medium,1
+6603,medium,2
+6604,medium,5
+6605,small,4
+6606,large,3
+6607,small,5
+6608,extra large,5
+6609,extra large,2
+6610,small,6
+6611,extra large,6
+6612,large,2
+6613,large,4
+6614,small,3
+6615,medium,6
+6616,extra large,3
+6617,extra large,1
+6618,medium,2
+6619,small,2
+6620,medium,7
+6621,medium,6
+6622,extra large,6
+6623,medium,1
+6624,medium,6
+6625,large,1
+6626,small,6
+6627,extra large,2
+6628,extra large,4
+6629,extra large,2
+6630,medium,5
+6631,large,1
+6632,large,1
+6633,small,1
+6634,small,1
+6635,small,1
+6636,small,1
+6637,large,1
+6638,extra large,1
+6639,large,7
+6640,medium,4
+6641,large,1
+6642,extra large,2
+6643,large,7
+6644,medium,2
+6645,small,6
+6646,extra large,1
+6647,extra large,6
+6648,extra large,1
+6649,medium,4
+6650,small,7
+6651,large,5
+6652,medium,3
+6653,extra large,1
+6654,small,7
+6655,extra large,3
+6656,extra large,6
+6657,large,3
+6658,medium,7
+6659,extra large,3
+6660,extra large,7
+6661,extra large,2
+6662,small,4
+6663,large,3
+6664,extra large,7
+6665,small,5
+6666,extra large,1
+6667,small,7
+6668,small,1
+6669,small,3
+6670,extra large,4
+6671,large,3
+6672,extra large,4
+6673,medium,6
+6674,large,7
+6675,medium,6
+6676,extra large,5
+6677,medium,4
+6678,extra large,3
+6679,extra large,7
+6680,small,2
+6681,large,5
+6682,large,6
+6683,large,7
+6684,large,4
+6685,medium,5
+6686,large,3
+6687,extra large,3
+6688,large,1
+6689,large,2
+6690,small,3
+6691,extra large,6
+6692,small,2
+6693,large,5
+6694,extra large,3
+6695,small,1
+6696,medium,3
+6697,small,4
+6698,medium,6
+6699,extra large,5
+6700,medium,2
+6701,large,3
+6702,small,6
+6703,medium,2
+6704,small,7
+6705,extra large,7
+6706,extra large,1
+6707,extra large,1
+6708,small,2
+6709,large,3
+6710,small,1
+6711,extra large,4
+6712,small,6
+6713,medium,4
+6714,extra large,2
+6715,medium,7
+6716,small,2
+6717,extra large,7
+6718,large,7
+6719,extra large,1
+6720,small,4
+6721,small,7
+6722,large,4
+6723,extra large,6
+6724,extra large,5
+6725,large,4
+6726,extra large,5
+6727,large,6
+6728,medium,7
+6729,small,2
+6730,small,3
+6731,extra large,2
+6732,small,1
+6733,extra large,3
+6734,large,3
+6735,extra large,1
+6736,medium,7
+6737,large,1
+6738,large,6
+6739,extra large,7
+6740,small,3
+6741,medium,5
+6742,small,6
+6743,medium,2
+6744,extra large,1
+6745,small,5
+6746,extra large,4
+6747,large,7
+6748,large,3
+6749,extra large,3
+6750,small,2
+6751,extra large,3
+6752,extra large,3
+6753,small,1
+6754,large,1
+6755,extra large,5
+6756,large,4
+6757,medium,7
+6758,small,6
+6759,small,3
+6760,medium,5
+6761,large,3
+6762,large,3
+6763,medium,1
+6764,extra large,6
+6765,extra large,1
+6766,large,7
+6767,medium,4
+6768,extra large,3
+6769,medium,6
+6770,medium,5
+6771,extra large,2
+6772,extra large,4
+6773,small,4
+6774,small,1
+6775,medium,4
+6776,extra large,6
+6777,medium,1
+6778,small,7
+6779,large,1
+6780,large,5
+6781,small,7
+6782,large,3
+6783,extra large,3
+6784,small,4
+6785,extra large,2
+6786,medium,5
+6787,extra large,1
+6788,extra large,6
+6789,small,7
+6790,small,6
+6791,medium,1
+6792,extra large,4
+6793,medium,5
+6794,large,6
+6795,extra large,2
+6796,large,7
+6797,extra large,2
+6798,medium,7
+6799,medium,3
+6800,extra large,4
+6801,large,4
+6802,small,4
+6803,large,3
+6804,small,4
+6805,extra large,5
+6806,medium,2
+6807,small,5
+6808,small,6
+6809,small,6
+6810,small,6
+6811,small,6
+6812,small,3
+6813,extra large,2
+6814,medium,2
+6815,small,3
+6816,extra large,1
+6817,extra large,6
+6818,small,6
+6819,large,6
+6820,medium,5
+6821,medium,7
+6822,large,6
+6823,small,5
+6824,extra large,1
+6825,large,3
+6826,small,2
+6827,large,1
+6828,small,1
+6829,small,6
+6830,large,3
+6831,extra large,3
+6832,small,7
+6833,large,2
+6834,medium,5
+6835,medium,3
+6836,large,3
+6837,extra large,6
+6838,extra large,5
+6839,medium,7
+6840,extra large,2
+6841,medium,3
+6842,medium,3
+6843,large,2
+6844,small,6
+6845,medium,1
+6846,extra large,4
+6847,medium,1
+6848,small,3
+6849,medium,6
+6850,extra large,7
+6851,large,3
+6852,extra large,5
+6853,large,6
+6854,medium,3
+6855,extra large,2
+6856,medium,2
+6857,small,7
+6858,small,2
+6859,large,6
+6860,small,6
+6861,small,3
+6862,medium,5
+6863,large,6
+6864,small,6
+6865,large,2
+6866,large,2
+6867,large,7
+6868,large,4
+6869,extra large,3
+6870,small,5
+6871,small,5
+6872,large,1
+6873,extra large,4
+6874,large,1
+6875,medium,4
+6876,extra large,4
+6877,large,2
+6878,extra large,2
+6879,extra large,3
+6880,medium,3
+6881,extra large,6
+6882,small,4
+6883,large,2
+6884,extra large,6
+6885,small,7
+6886,extra large,7
+6887,medium,5
+6888,small,5
+6889,medium,2
+6890,medium,1
+6891,small,5
+6892,extra large,2
+6893,medium,6
+6894,small,5
+6895,extra large,4
+6896,medium,6
+6897,small,4
+6898,large,6
+6899,extra large,5
+6900,small,3
+6901,medium,4
+6902,extra large,6
+6903,extra large,3
+6904,large,6
+6905,extra large,4
+6906,small,1
+6907,large,5
+6908,medium,7
+6909,extra large,4
+6910,small,3
+6911,large,1
+6912,large,7
+6913,small,6
+6914,medium,4
+6915,small,7
+6916,extra large,7
+6917,large,6
+6918,large,3
+6919,extra large,6
+6920,extra large,2
+6921,medium,3
+6922,small,4
+6923,small,3
+6924,medium,4
+6925,extra large,7
+6926,extra large,1
+6927,small,1
+6928,large,7
+6929,medium,7
+6930,small,7
+6931,medium,2
+6932,large,3
+6933,large,6
+6934,medium,7
+6935,extra large,1
+6936,extra large,4
+6937,extra large,5
+6938,extra large,7
+6939,extra large,7
+6940,large,5
+6941,extra large,6
+6942,extra large,5
+6943,extra large,3
+6944,extra large,4
+6945,small,1
+6946,extra large,2
+6947,medium,5
+6948,large,7
+6949,large,2
+6950,large,1
+6951,medium,4
+6952,medium,7
+6953,small,1
+6954,medium,1
+6955,large,3
+6956,large,5
+6957,extra large,6
+6958,large,7
+6959,extra large,3
+6960,small,1
+6961,medium,1
+6962,medium,7
+6963,large,5
+6964,extra large,4
+6965,extra large,6
+6966,large,7
+6967,medium,7
+6968,large,7
+6969,small,1
+6970,medium,7
+6971,large,7
+6972,medium,5
+6973,large,6
+6974,extra large,1
+6975,large,5
+6976,extra large,7
+6977,small,3
+6978,extra large,7
+6979,medium,5
+6980,large,3
+6981,medium,5
+6982,small,1
+6983,large,1
+6984,large,7
+6985,medium,3
+6986,large,6
+6987,large,1
+6988,large,5
+6989,medium,4
+6990,large,4
+6991,extra large,7
+6992,extra large,3
+6993,extra large,5
+6994,small,5
+6995,medium,6
+6996,extra large,7
+6997,large,5
+6998,small,4
+6999,medium,4
+7000,extra large,3
+7001,small,2
+7002,large,5
+7003,large,6
+7004,small,4
+7005,medium,5
+7006,extra large,4
+7007,small,6
+7008,large,1
+7009,medium,5
+7010,small,2
+7011,extra large,1
+7012,extra large,2
+7013,extra large,4
+7014,medium,3
+7015,extra large,4
+7016,large,3
+7017,large,1
+7018,large,4
+7019,large,6
+7020,extra large,6
+7021,extra large,7
+7022,small,3
+7023,large,3
+7024,extra large,6
+7025,small,2
+7026,large,1
+7027,extra large,2
+7028,large,3
+7029,medium,2
+7030,extra large,2
+7031,extra large,3
+7032,small,5
+7033,small,5
+7034,large,6
+7035,small,5
+7036,medium,1
+7037,large,2
+7038,extra large,1
+7039,large,4
+7040,extra large,3
+7041,small,3
+7042,extra large,3
+7043,medium,7
+7044,medium,1
+7045,extra large,7
+7046,extra large,6
+7047,large,7
+7048,large,6
+7049,extra large,1
+7050,medium,1
+7051,large,6
+7052,large,5
+7053,extra large,4
+7054,medium,4
+7055,medium,7
+7056,large,4
+7057,small,7
+7058,medium,6
+7059,small,6
+7060,extra large,3
+7061,small,6
+7062,small,7
+7063,large,5
+7064,medium,1
+7065,small,4
+7066,large,2
+7067,small,3
+7068,small,2
+7069,small,3
+7070,extra large,3
+7071,extra large,2
+7072,large,7
+7073,extra large,7
+7074,small,5
+7075,extra large,7
+7076,medium,3
+7077,large,5
+7078,small,1
+7079,large,1
+7080,large,3
+7081,extra large,7
+7082,small,2
+7083,extra large,7
+7084,medium,4
+7085,medium,6
+7086,extra large,4
+7087,medium,7
+7088,large,6
+7089,large,1
+7090,small,3
+7091,small,7
+7092,medium,4
+7093,medium,3
+7094,extra large,6
+7095,small,5
+7096,extra large,1
+7097,large,7
+7098,small,4
+7099,large,2
+7100,extra large,4
+7101,medium,4
+7102,medium,7
+7103,small,2
+7104,small,3
+7105,medium,7
+7106,large,4
+7107,extra large,7
+7108,small,3
+7109,medium,5
+7110,large,1
+7111,small,1
+7112,extra large,7
+7113,large,5
+7114,large,6
+7115,small,5
+7116,medium,4
+7117,extra large,7
+7118,small,5
+7119,extra large,3
+7120,extra large,7
+7121,small,2
+7122,large,6
+7123,large,6
+7124,extra large,7
+7125,large,4
+7126,large,2
+7127,medium,3
+7128,small,3
+7129,medium,5
+7130,extra large,1
+7131,medium,2
+7132,medium,6
+7133,large,3
+7134,large,7
+7135,large,7
+7136,small,4
+7137,medium,7
+7138,extra large,4
+7139,small,1
+7140,medium,4
+7141,medium,7
+7142,medium,7
+7143,large,6
+7144,medium,2
+7145,large,7
+7146,large,7
+7147,large,2
+7148,medium,6
+7149,small,3
+7150,large,1
+7151,medium,7
+7152,medium,6
+7153,medium,6
+7154,small,3
+7155,extra large,6
+7156,medium,6
+7157,medium,7
+7158,large,3
+7159,large,1
+7160,extra large,4
+7161,large,3
+7162,medium,6
+7163,small,3
+7164,large,4
+7165,small,7
+7166,small,4
+7167,small,6
+7168,large,3
+7169,medium,3
+7170,small,6
+7171,large,3
+7172,extra large,6
+7173,small,3
+7174,medium,5
+7175,extra large,6
+7176,large,1
+7177,extra large,7
+7178,small,1
+7179,extra large,1
+7180,large,1
+7181,large,6
+7182,small,3
+7183,medium,3
+7184,extra large,5
+7185,medium,5
+7186,extra large,4
+7187,small,7
+7188,medium,3
+7189,small,7
+7190,medium,4
+7191,small,6
+7192,extra large,1
+7193,extra large,2
+7194,small,5
+7195,small,4
+7196,small,2
+7197,medium,1
+7198,extra large,5
+7199,small,2
+7200,large,5
+7201,small,5
+7202,large,6
+7203,large,3
+7204,small,1
+7205,large,6
+7206,large,3
+7207,medium,3
+7208,extra large,7
+7209,large,1
+7210,large,3
+7211,small,3
+7212,small,1
+7213,small,2
+7214,medium,2
+7215,large,1
+7216,extra large,7
+7217,medium,5
+7218,small,3
+7219,extra large,2
+7220,small,5
+7221,medium,1
+7222,medium,4
+7223,large,6
+7224,extra large,6
+7225,small,7
+7226,medium,7
+7227,large,4
+7228,large,7
+7229,large,5
+7230,extra large,3
+7231,small,1
+7232,medium,3
+7233,medium,2
+7234,medium,7
+7235,small,7
+7236,large,1
+7237,large,2
+7238,extra large,5
+7239,extra large,5
+7240,large,7
+7241,medium,3
+7242,large,1
+7243,medium,2
+7244,small,6
+7245,small,3
+7246,large,3
+7247,large,5
+7248,extra large,1
+7249,large,1
+7250,large,3
+7251,large,5
+7252,small,4
+7253,small,1
+7254,extra large,1
+7255,large,7
+7256,extra large,3
+7257,medium,1
+7258,extra large,7
+7259,medium,3
+7260,large,6
+7261,extra large,3
+7262,small,7
+7263,small,5
+7264,small,2
+7265,large,7
+7266,large,6
+7267,large,6
+7268,small,7
+7269,large,5
+7270,medium,7
+7271,extra large,7
+7272,medium,2
+7273,large,1
+7274,medium,2
+7275,medium,1
+7276,large,2
+7277,large,2
+7278,small,3
+7279,small,2
+7280,large,1
+7281,small,4
+7282,small,4
+7283,large,7
+7284,medium,2
+7285,small,1
+7286,extra large,5
+7287,medium,1
+7288,small,4
+7289,medium,2
+7290,extra large,2
+7291,large,5
+7292,extra large,7
+7293,medium,6
+7294,large,2
+7295,medium,2
+7296,medium,6
+7297,extra large,4
+7298,large,6
+7299,medium,1
+7300,medium,5
+7301,extra large,3
+7302,medium,4
+7303,large,7
+7304,medium,7
+7305,extra large,3
+7306,small,2
+7307,large,4
+7308,medium,1
+7309,medium,6
+7310,extra large,1
+7311,extra large,4
+7312,medium,3
+7313,large,4
+7314,medium,7
+7315,extra large,1
+7316,extra large,2
+7317,extra large,1
+7318,extra large,7
+7319,medium,3
+7320,large,3
+7321,extra large,6
+7322,medium,3
+7323,large,1
+7324,small,7
+7325,large,5
+7326,large,4
+7327,small,3
+7328,large,6
+7329,medium,2
+7330,large,1
+7331,large,4
+7332,medium,6
+7333,small,5
+7334,medium,5
+7335,small,4
+7336,large,6
+7337,medium,2
+7338,extra large,4
+7339,medium,2
+7340,medium,5
+7341,large,3
+7342,extra large,6
+7343,small,1
+7344,medium,1
+7345,extra large,4
+7346,extra large,2
+7347,medium,1
+7348,extra large,4
+7349,extra large,5
+7350,extra large,3
+7351,small,3
+7352,large,7
+7353,large,4
+7354,medium,4
+7355,small,1
+7356,small,3
+7357,extra large,6
+7358,medium,2
+7359,large,5
+7360,medium,2
+7361,large,4
+7362,large,6
+7363,large,7
+7364,extra large,1
+7365,extra large,7
+7366,large,4
+7367,small,1
+7368,large,1
+7369,small,5
+7370,large,4
+7371,small,4
+7372,medium,6
+7373,extra large,1
+7374,large,4
+7375,extra large,7
+7376,small,5
+7377,small,7
+7378,extra large,4
+7379,extra large,1
+7380,medium,3
+7381,medium,1
+7382,medium,1
+7383,large,5
+7384,extra large,4
+7385,small,2
+7386,small,6
+7387,extra large,7
+7388,small,6
+7389,extra large,1
+7390,small,7
+7391,medium,2
+7392,extra large,4
+7393,large,4
+7394,small,4
+7395,extra large,2
+7396,small,3
+7397,small,6
+7398,large,1
+7399,extra large,4
+7400,medium,7
+7401,large,1
+7402,medium,3
+7403,medium,6
+7404,medium,4
+7405,large,6
+7406,medium,6
+7407,medium,1
+7408,large,4
+7409,extra large,6
+7410,extra large,7
+7411,medium,4
+7412,small,3
+7413,extra large,2
+7414,extra large,2
+7415,medium,7
+7416,medium,4
+7417,small,1
+7418,medium,7
+7419,large,4
+7420,small,4
+7421,extra large,1
+7422,extra large,4
+7423,small,6
+7424,medium,3
+7425,medium,4
+7426,medium,2
+7427,extra large,6
+7428,extra large,5
+7429,extra large,4
+7430,medium,5
+7431,extra large,7
+7432,extra large,5
+7433,small,4
+7434,large,7
+7435,medium,1
+7436,medium,2
+7437,extra large,6
+7438,medium,2
+7439,large,3
+7440,small,4
+7441,medium,6
+7442,small,6
+7443,large,7
+7444,large,3
+7445,large,1
+7446,large,3
+7447,large,5
+7448,extra large,6
+7449,small,4
+7450,small,6
+7451,small,7
+7452,extra large,5
+7453,extra large,3
+7454,large,7
+7455,small,2
+7456,large,2
+7457,medium,7
+7458,extra large,2
+7459,large,5
+7460,large,3
+7461,large,5
+7462,small,2
+7463,medium,2
+7464,medium,4
+7465,extra large,5
+7466,large,6
+7467,large,1
+7468,extra large,1
+7469,medium,7
+7470,extra large,5
+7471,large,3
+7472,extra large,2
+7473,large,5
+7474,medium,2
+7475,extra large,3
+7476,large,3
+7477,large,2
+7478,large,2
+7479,small,5
+7480,medium,6
+7481,small,5
+7482,small,3
+7483,large,7
+7484,extra large,4
+7485,extra large,2
+7486,small,2
+7487,large,3
+7488,extra large,4
+7489,extra large,5
+7490,large,5
+7491,medium,6
+7492,small,7
+7493,medium,7
+7494,extra large,6
+7495,extra large,1
+7496,extra large,6
+7497,medium,5
+7498,extra large,5
+7499,medium,4
+7500,extra large,1
+7501,medium,4
+7502,small,5
+7503,small,6
+7504,large,7
+7505,medium,2
+7506,extra large,1
+7507,extra large,7
+7508,large,6
+7509,medium,1
+7510,large,5
+7511,small,3
+7512,large,7
+7513,large,2
+7514,large,1
+7515,extra large,2
+7516,extra large,7
+7517,small,2
+7518,extra large,1
+7519,extra large,2
+7520,medium,1
+7521,extra large,4
+7522,small,2
+7523,medium,2
+7524,medium,3
+7525,large,5
+7526,extra large,2
+7527,extra large,6
+7528,extra large,5
+7529,medium,6
+7530,extra large,4
+7531,small,7
+7532,small,7
+7533,extra large,4
+7534,small,1
+7535,small,3
+7536,small,1
+7537,small,3
+7538,large,6
+7539,small,3
+7540,extra large,7
+7541,large,6
+7542,medium,2
+7543,large,7
+7544,large,7
+7545,small,4
+7546,large,1
+7547,extra large,6
+7548,medium,2
+7549,large,5
+7550,medium,2
+7551,small,4
+7552,medium,5
+7553,large,7
+7554,medium,6
+7555,large,6
+7556,extra large,5
+7557,medium,5
+7558,small,5
+7559,medium,5
+7560,medium,3
+7561,extra large,4
+7562,extra large,5
+7563,extra large,3
+7564,small,3
+7565,extra large,4
+7566,medium,6
+7567,extra large,2
+7568,medium,6
+7569,extra large,7
+7570,extra large,1
+7571,large,1
+7572,large,3
+7573,medium,2
+7574,small,4
+7575,extra large,1
+7576,extra large,3
+7577,medium,7
+7578,medium,2
+7579,extra large,3
+7580,large,1
+7581,medium,1
+7582,large,6
+7583,medium,4
+7584,medium,6
+7585,large,3
+7586,small,5
+7587,small,5
+7588,extra large,7
+7589,medium,6
+7590,medium,2
+7591,extra large,7
+7592,extra large,5
+7593,large,6
+7594,medium,4
+7595,large,5
+7596,large,5
+7597,extra large,2
+7598,large,2
+7599,small,6
+7600,extra large,1
+7601,extra large,4
+7602,extra large,3
+7603,large,3
+7604,small,2
+7605,large,4
+7606,small,4
+7607,small,4
+7608,large,4
+7609,large,2
+7610,extra large,6
+7611,small,7
+7612,extra large,7
+7613,extra large,7
+7614,medium,6
+7615,large,3
+7616,large,5
+7617,small,5
+7618,extra large,5
+7619,large,3
+7620,extra large,7
+7621,extra large,7
+7622,medium,1
+7623,extra large,1
+7624,small,3
+7625,small,3
+7626,medium,1
+7627,medium,4
+7628,medium,5
+7629,medium,7
+7630,medium,2
+7631,large,4
+7632,extra large,3
+7633,large,3
+7634,medium,3
+7635,large,3
+7636,extra large,2
+7637,medium,5
+7638,small,3
+7639,medium,5
+7640,extra large,4
+7641,small,5
+7642,extra large,4
+7643,large,4
+7644,medium,3
+7645,large,6
+7646,small,3
+7647,extra large,3
+7648,large,3
+7649,medium,1
+7650,large,1
+7651,medium,3
+7652,large,6
+7653,medium,5
+7654,extra large,5
+7655,large,7
+7656,large,1
+7657,extra large,6
+7658,extra large,6
+7659,extra large,3
+7660,medium,2
+7661,small,4
+7662,large,2
+7663,medium,3
+7664,small,1
+7665,large,1
+7666,small,2
+7667,extra large,7
+7668,medium,6
+7669,large,3
+7670,small,2
+7671,medium,2
+7672,medium,6
+7673,large,7
+7674,small,7
+7675,medium,2
+7676,small,3
+7677,medium,1
+7678,small,6
+7679,small,4
+7680,small,4
+7681,large,7
+7682,large,4
+7683,small,7
+7684,medium,3
+7685,extra large,6
+7686,medium,2
+7687,small,6
+7688,extra large,4
+7689,small,4
+7690,small,4
+7691,large,2
+7692,small,6
+7693,small,1
+7694,medium,7
+7695,large,4
+7696,extra large,1
+7697,medium,2
+7698,extra large,1
+7699,medium,5
+7700,extra large,7
+7701,medium,1
+7702,extra large,1
+7703,extra large,1
+7704,large,6
+7705,extra large,5
+7706,extra large,3
+7707,small,7
+7708,extra large,2
+7709,small,4
+7710,medium,1
+7711,medium,2
+7712,medium,3
+7713,small,5
+7714,medium,4
+7715,large,1
+7716,small,3
+7717,large,7
+7718,extra large,1
+7719,large,6
+7720,small,4
+7721,medium,6
+7722,medium,7
+7723,large,1
+7724,small,5
+7725,extra large,6
+7726,small,7
+7727,extra large,6
+7728,extra large,6
+7729,medium,1
+7730,medium,7
+7731,extra large,6
+7732,extra large,7
+7733,large,6
+7734,extra large,7
+7735,large,4
+7736,small,5
+7737,small,7
+7738,small,7
+7739,large,7
+7740,medium,6
+7741,medium,7
+7742,medium,2
+7743,extra large,5
+7744,large,3
+7745,large,6
+7746,small,3
+7747,extra large,2
+7748,large,5
+7749,small,5
+7750,small,4
+7751,medium,3
+7752,large,4
+7753,small,6
+7754,medium,6
+7755,small,7
+7756,large,3
+7757,medium,7
+7758,small,3
+7759,extra large,4
+7760,medium,5
+7761,large,5
+7762,large,5
+7763,extra large,5
+7764,extra large,1
+7765,small,4
+7766,medium,1
+7767,medium,1
+7768,large,6
+7769,extra large,6
+7770,small,7
+7771,small,3
+7772,extra large,1
+7773,medium,3
+7774,small,1
+7775,small,2
+7776,large,1
+7777,large,3
+7778,medium,7
+7779,extra large,5
+7780,small,7
+7781,large,2
+7782,medium,2
+7783,medium,5
+7784,extra large,6
+7785,small,5
+7786,extra large,6
+7787,medium,4
+7788,large,6
+7789,large,6
+7790,extra large,1
+7791,small,4
+7792,small,6
+7793,large,5
+7794,extra large,2
+7795,large,1
+7796,large,4
+7797,medium,5
+7798,small,2
+7799,small,2
+7800,large,6
+7801,extra large,5
+7802,large,6
+7803,extra large,3
+7804,small,1
+7805,extra large,4
+7806,small,6
+7807,extra large,2
+7808,large,3
+7809,extra large,5
+7810,large,5
+7811,extra large,4
+7812,small,4
+7813,extra large,2
+7814,large,5
+7815,medium,7
+7816,small,1
+7817,extra large,6
+7818,extra large,1
+7819,extra large,4
+7820,medium,2
+7821,small,2
+7822,large,3
+7823,extra large,3
+7824,medium,6
+7825,extra large,4
+7826,small,2
+7827,large,3
+7828,small,2
+7829,extra large,5
+7830,small,7
+7831,large,2
+7832,large,7
+7833,small,3
+7834,extra large,5
+7835,small,5
+7836,extra large,5
+7837,small,6
+7838,medium,2
+7839,medium,6
+7840,medium,4
+7841,extra large,5
+7842,extra large,4
+7843,medium,4
+7844,extra large,2
+7845,large,7
+7846,medium,4
+7847,small,1
+7848,medium,7
+7849,large,2
+7850,extra large,2
+7851,small,4
+7852,medium,4
+7853,large,4
+7854,large,3
+7855,extra large,1
+7856,large,4
+7857,extra large,1
+7858,small,1
+7859,large,5
+7860,small,3
+7861,medium,7
+7862,extra large,5
+7863,large,6
+7864,medium,7
+7865,small,2
+7866,small,6
+7867,small,5
+7868,large,7
+7869,small,6
+7870,large,3
+7871,medium,3
+7872,small,3
+7873,small,4
+7874,extra large,6
+7875,small,2
+7876,large,1
+7877,large,6
+7878,medium,6
+7879,medium,6
+7880,medium,7
+7881,large,5
+7882,extra large,4
+7883,large,2
+7884,large,1
+7885,small,5
+7886,small,3
+7887,extra large,2
+7888,medium,2
+7889,medium,5
+7890,extra large,3
+7891,medium,4
+7892,small,3
+7893,extra large,1
+7894,small,5
+7895,medium,7
+7896,extra large,1
+7897,medium,1
+7898,small,4
+7899,large,7
+7900,medium,6
+7901,small,6
+7902,large,5
+7903,extra large,3
+7904,extra large,2
+7905,extra large,4
+7906,medium,6
+7907,extra large,5
+7908,large,6
+7909,medium,4
+7910,small,5
+7911,small,2
+7912,large,1
+7913,extra large,5
+7914,medium,1
+7915,extra large,4
+7916,small,6
+7917,large,2
+7918,medium,7
+7919,extra large,1
+7920,small,2
+7921,small,2
+7922,small,2
+7923,small,5
+7924,small,4
+7925,small,1
+7926,small,3
+7927,medium,4
+7928,medium,4
+7929,small,5
+7930,small,6
+7931,extra large,1
+7932,large,4
+7933,extra large,5
+7934,extra large,6
+7935,extra large,7
+7936,large,1
+7937,medium,5
+7938,large,6
+7939,extra large,2
+7940,extra large,3
+7941,large,2
+7942,medium,1
+7943,extra large,6
+7944,small,3
+7945,small,3
+7946,medium,5
+7947,extra large,7
+7948,medium,4
+7949,large,7
+7950,extra large,5
+7951,large,2
+7952,medium,3
+7953,large,2
+7954,medium,3
+7955,large,4
+7956,medium,6
+7957,large,4
+7958,small,4
+7959,extra large,3
+7960,medium,2
+7961,extra large,2
+7962,medium,5
+7963,medium,6
+7964,medium,3
+7965,medium,3
+7966,large,4
+7967,large,7
+7968,extra large,2
+7969,small,6
+7970,extra large,2
+7971,medium,7
+7972,extra large,3
+7973,large,5
+7974,extra large,6
+7975,extra large,4
+7976,large,3
+7977,large,4
+7978,large,3
+7979,medium,3
+7980,large,1
+7981,large,4
+7982,small,3
+7983,medium,1
+7984,large,2
+7985,small,4
+7986,medium,7
+7987,small,4
+7988,medium,7
+7989,small,4
+7990,extra large,7
+7991,extra large,5
+7992,medium,2
+7993,small,5
+7994,extra large,6
+7995,extra large,5
+7996,medium,5
+7997,small,1
+7998,medium,2
+7999,extra large,2
+8000,large,2
+8001,extra large,3
+8002,extra large,6
+8003,extra large,7
+8004,medium,7
+8005,large,6
+8006,medium,1
+8007,extra large,4
+8008,extra large,5
+8009,medium,1
+8010,small,5
+8011,medium,1
+8012,small,2
+8013,small,5
+8014,small,4
+8015,large,6
+8016,small,2
+8017,large,7
+8018,small,4
+8019,medium,3
+8020,small,1
+8021,extra large,4
+8022,medium,2
+8023,small,7
+8024,medium,6
+8025,medium,2
+8026,large,7
+8027,medium,3
+8028,extra large,2
+8029,medium,7
+8030,large,3
+8031,small,3
+8032,small,5
+8033,extra large,3
+8034,small,1
+8035,medium,4
+8036,small,7
+8037,extra large,3
+8038,large,2
+8039,medium,7
+8040,medium,3
+8041,large,7
+8042,extra large,1
+8043,extra large,1
+8044,medium,2
+8045,large,4
+8046,extra large,2
+8047,extra large,3
+8048,large,5
+8049,small,1
+8050,large,7
+8051,small,3
+8052,medium,7
+8053,large,1
+8054,large,4
+8055,extra large,5
+8056,extra large,4
+8057,medium,3
+8058,large,5
+8059,medium,4
+8060,medium,1
+8061,small,4
+8062,large,3
+8063,large,4
+8064,medium,5
+8065,small,7
+8066,medium,4
+8067,small,3
+8068,small,7
+8069,extra large,3
+8070,small,1
+8071,medium,6
+8072,large,7
+8073,small,3
+8074,extra large,1
+8075,medium,4
+8076,extra large,7
+8077,large,3
+8078,large,4
+8079,large,7
+8080,extra large,7
+8081,medium,3
+8082,medium,6
+8083,extra large,2
+8084,large,2
+8085,medium,5
+8086,extra large,5
+8087,small,6
+8088,small,2
+8089,small,1
+8090,large,5
+8091,small,4
+8092,small,5
+8093,small,6
+8094,small,5
+8095,extra large,5
+8096,extra large,5
+8097,medium,5
+8098,large,4
+8099,medium,4
+8100,extra large,6
+8101,large,2
+8102,extra large,2
+8103,small,7
+8104,medium,5
+8105,large,5
+8106,large,7
+8107,small,1
+8108,small,3
+8109,large,6
+8110,extra large,6
+8111,small,1
+8112,small,4
+8113,extra large,7
+8114,medium,7
+8115,small,4
+8116,large,5
+8117,large,7
+8118,medium,3
+8119,large,2
+8120,medium,4
+8121,large,4
+8122,small,4
+8123,extra large,2
+8124,extra large,3
+8125,large,4
+8126,large,5
+8127,large,4
+8128,medium,2
+8129,small,7
+8130,extra large,5
+8131,extra large,3
+8132,extra large,4
+8133,extra large,3
+8134,extra large,5
+8135,small,5
+8136,extra large,1
+8137,extra large,5
+8138,small,4
+8139,small,4
+8140,extra large,3
+8141,medium,2
+8142,extra large,3
+8143,extra large,4
+8144,medium,7
+8145,large,3
+8146,large,4
+8147,medium,2
+8148,large,2
+8149,extra large,6
+8150,medium,1
+8151,small,3
+8152,extra large,6
+8153,medium,6
+8154,extra large,6
+8155,small,2
+8156,small,1
+8157,extra large,3
+8158,large,6
+8159,extra large,1
+8160,large,2
+8161,large,7
+8162,large,4
+8163,large,2
+8164,large,1
+8165,small,1
+8166,large,4
+8167,small,7
+8168,large,7
+8169,extra large,7
+8170,large,2
+8171,medium,6
+8172,medium,3
+8173,medium,4
+8174,extra large,5
+8175,small,4
+8176,large,3
+8177,medium,1
+8178,extra large,4
+8179,extra large,1
+8180,small,6
+8181,large,7
+8182,extra large,7
+8183,large,3
+8184,extra large,6
+8185,small,2
+8186,medium,5
+8187,large,3
+8188,small,2
+8189,extra large,4
+8190,large,7
+8191,medium,6
+8192,small,3
+8193,medium,3
+8194,extra large,7
+8195,small,2
+8196,medium,7
+8197,large,7
+8198,large,2
+8199,small,6
+8200,large,4
+8201,large,6
+8202,small,6
+8203,extra large,4
+8204,extra large,6
+8205,small,1
+8206,extra large,7
+8207,medium,7
+8208,extra large,3
+8209,extra large,2
+8210,medium,2
+8211,medium,4
+8212,extra large,1
+8213,small,7
+8214,extra large,1
+8215,large,4
+8216,medium,4
+8217,small,7
+8218,large,4
+8219,large,4
+8220,large,4
+8221,extra large,7
+8222,small,2
+8223,extra large,4
+8224,extra large,4
+8225,medium,4
+8226,large,7
+8227,large,7
+8228,small,2
+8229,large,3
+8230,large,1
+8231,extra large,1
+8232,large,2
+8233,medium,5
+8234,large,2
+8235,small,2
+8236,large,7
+8237,small,1
+8238,small,4
+8239,small,2
+8240,medium,7
+8241,small,2
+8242,extra large,2
+8243,large,3
+8244,large,3
+8245,medium,4
+8246,extra large,4
+8247,medium,6
+8248,small,1
+8249,medium,6
+8250,medium,7
+8251,large,2
+8252,extra large,2
+8253,large,4
+8254,small,3
+8255,extra large,6
+8256,large,2
+8257,medium,5
+8258,extra large,3
+8259,small,1
+8260,large,4
+8261,medium,4
+8262,small,4
+8263,small,3
+8264,extra large,1
+8265,large,1
+8266,extra large,5
+8267,medium,6
+8268,large,5
+8269,extra large,2
+8270,medium,1
+8271,extra large,2
+8272,extra large,1
+8273,small,4
+8274,small,3
+8275,small,5
+8276,large,2
+8277,large,3
+8278,extra large,6
+8279,extra large,1
+8280,small,2
+8281,extra large,4
+8282,medium,7
+8283,small,1
+8284,extra large,7
+8285,extra large,4
+8286,medium,2
+8287,large,1
+8288,small,3
+8289,large,5
+8290,small,6
+8291,large,3
+8292,small,1
+8293,medium,5
+8294,large,1
+8295,extra large,5
+8296,small,3
+8297,extra large,6
+8298,extra large,4
+8299,small,6
+8300,small,1
+8301,medium,5
+8302,extra large,2
+8303,small,1
+8304,medium,4
+8305,small,3
+8306,extra large,2
+8307,small,3
+8308,medium,1
+8309,medium,3
+8310,medium,4
+8311,small,5
+8312,extra large,2
+8313,medium,1
+8314,extra large,6
+8315,extra large,4
+8316,extra large,7
+8317,extra large,1
+8318,large,2
+8319,extra large,1
+8320,extra large,4
+8321,medium,7
+8322,extra large,6
+8323,large,2
+8324,extra large,3
+8325,small,7
+8326,small,2
+8327,large,6
+8328,small,6
+8329,small,5
+8330,medium,2
+8331,extra large,7
+8332,medium,1
+8333,extra large,3
+8334,small,7
+8335,small,5
+8336,large,3
+8337,medium,1
+8338,extra large,2
+8339,small,5
+8340,large,6
+8341,large,4
+8342,large,1
+8343,extra large,1
+8344,medium,3
+8345,extra large,4
+8346,medium,4
+8347,small,6
+8348,large,2
+8349,medium,5
+8350,extra large,6
+8351,small,1
+8352,extra large,3
+8353,medium,3
+8354,extra large,5
+8355,large,7
+8356,medium,7
+8357,large,3
+8358,large,4
+8359,large,6
+8360,small,4
+8361,medium,7
+8362,extra large,7
+8363,extra large,2
+8364,small,5
+8365,extra large,2
+8366,extra large,3
+8367,small,1
+8368,large,3
+8369,small,1
+8370,large,6
+8371,medium,1
+8372,extra large,2
+8373,small,5
+8374,small,7
+8375,medium,6
+8376,large,1
+8377,small,5
+8378,small,3
+8379,extra large,1
+8380,small,6
+8381,large,6
+8382,small,5
+8383,medium,5
+8384,medium,3
+8385,medium,7
+8386,extra large,3
+8387,medium,7
+8388,medium,7
+8389,small,1
+8390,extra large,2
+8391,large,3
+8392,extra large,5
+8393,small,2
+8394,extra large,6
+8395,extra large,3
+8396,small,5
+8397,medium,6
+8398,small,6
+8399,small,3
+8400,extra large,4
+8401,small,2
+8402,medium,2
+8403,large,4
+8404,medium,7
+8405,extra large,2
+8406,medium,7
+8407,large,2
+8408,extra large,7
+8409,medium,4
+8410,small,6
+8411,small,2
+8412,extra large,5
+8413,small,2
+8414,extra large,7
+8415,extra large,2
+8416,small,4
+8417,large,1
+8418,small,2
+8419,medium,2
+8420,extra large,1
+8421,extra large,4
+8422,extra large,7
+8423,medium,5
+8424,small,6
+8425,extra large,4
+8426,extra large,4
+8427,large,4
+8428,medium,2
+8429,small,4
+8430,large,6
+8431,large,6
+8432,large,2
+8433,medium,3
+8434,large,6
+8435,small,4
+8436,extra large,1
+8437,extra large,1
+8438,small,3
+8439,small,1
+8440,medium,6
+8441,large,6
+8442,small,7
+8443,medium,2
+8444,medium,4
+8445,extra large,5
+8446,extra large,2
+8447,medium,1
+8448,medium,6
+8449,medium,5
+8450,medium,1
+8451,medium,5
+8452,small,1
+8453,medium,7
+8454,extra large,2
+8455,large,2
+8456,medium,2
+8457,small,4
+8458,extra large,7
+8459,small,4
+8460,extra large,4
+8461,large,3
+8462,small,1
+8463,extra large,5
+8464,medium,3
+8465,extra large,2
+8466,large,6
+8467,extra large,4
+8468,medium,6
+8469,large,2
+8470,small,6
+8471,medium,1
+8472,small,1
+8473,extra large,3
+8474,extra large,7
+8475,medium,3
+8476,medium,6
+8477,extra large,1
+8478,large,4
+8479,extra large,3
+8480,large,3
+8481,small,7
+8482,small,6
+8483,extra large,3
+8484,small,1
+8485,large,4
+8486,large,1
+8487,extra large,3
+8488,extra large,1
+8489,small,2
+8490,extra large,1
+8491,medium,2
+8492,extra large,7
+8493,extra large,7
+8494,medium,4
+8495,large,3
+8496,small,6
+8497,small,2
+8498,medium,7
+8499,medium,1
+8500,small,2
+8501,medium,3
+8502,extra large,2
+8503,medium,4
+8504,large,6
+8505,large,7
+8506,medium,3
+8507,medium,1
+8508,medium,2
+8509,medium,7
+8510,medium,2
+8511,small,5
+8512,medium,2
+8513,small,2
+8514,small,1
+8515,large,5
+8516,small,6
+8517,small,1
+8518,extra large,2
+8519,extra large,3
+8520,medium,2
+8521,medium,5
+8522,small,2
+8523,medium,4
+8524,medium,6
+8525,medium,5
+8526,medium,7
+8527,large,5
+8528,medium,2
+8529,large,3
+8530,large,2
+8531,extra large,6
+8532,medium,2
+8533,extra large,6
+8534,medium,5
+8535,small,1
+8536,small,4
+8537,large,5
+8538,small,4
+8539,extra large,3
+8540,medium,7
+8541,medium,7
+8542,medium,7
+8543,extra large,4
+8544,small,2
+8545,extra large,5
+8546,large,3
+8547,extra large,3
+8548,extra large,6
+8549,extra large,2
+8550,large,1
+8551,extra large,4
+8552,extra large,3
+8553,small,2
+8554,large,4
+8555,extra large,5
+8556,small,3
+8557,medium,3
+8558,extra large,1
+8559,large,2
+8560,extra large,4
+8561,small,5
+8562,small,5
+8563,medium,2
+8564,small,3
+8565,medium,4
+8566,large,5
+8567,extra large,4
+8568,medium,6
+8569,small,3
+8570,large,2
+8571,extra large,3
+8572,large,1
+8573,large,3
+8574,medium,5
+8575,large,6
+8576,large,3
+8577,extra large,1
+8578,small,7
+8579,large,1
+8580,medium,4
+8581,large,1
+8582,medium,6
+8583,small,2
+8584,extra large,6
+8585,large,1
+8586,medium,2
+8587,medium,2
+8588,large,6
+8589,large,7
+8590,large,5
+8591,medium,6
+8592,extra large,4
+8593,small,5
+8594,medium,6
+8595,large,5
+8596,large,2
+8597,large,2
+8598,small,7
+8599,extra large,3
+8600,extra large,3
+8601,medium,6
+8602,extra large,3
+8603,extra large,2
+8604,large,2
+8605,extra large,6
+8606,small,3
+8607,large,1
+8608,small,6
+8609,small,5
+8610,large,5
+8611,extra large,7
+8612,extra large,1
+8613,medium,6
+8614,extra large,7
+8615,extra large,5
+8616,extra large,7
+8617,large,2
+8618,small,7
+8619,extra large,4
+8620,extra large,6
+8621,small,3
+8622,small,1
+8623,extra large,1
+8624,small,5
+8625,medium,3
+8626,small,7
+8627,medium,3
+8628,small,2
+8629,small,1
+8630,large,2
+8631,medium,5
+8632,extra large,3
+8633,small,5
+8634,medium,6
+8635,medium,3
+8636,medium,5
+8637,extra large,6
+8638,small,6
+8639,large,2
+8640,extra large,5
+8641,large,5
+8642,extra large,6
+8643,small,4
+8644,small,6
+8645,large,6
+8646,small,5
+8647,large,6
+8648,small,1
+8649,extra large,5
+8650,medium,2
+8651,large,3
+8652,extra large,3
+8653,extra large,5
+8654,large,7
+8655,medium,7
+8656,extra large,6
+8657,medium,6
+8658,small,6
+8659,large,3
+8660,large,3
+8661,small,2
+8662,large,7
+8663,small,1
+8664,large,3
+8665,extra large,1
+8666,extra large,4
+8667,small,6
+8668,small,7
+8669,medium,1
+8670,extra large,5
+8671,small,4
+8672,small,3
+8673,large,5
+8674,small,7
+8675,extra large,4
+8676,large,2
+8677,extra large,2
+8678,small,5
+8679,large,6
+8680,large,4
+8681,extra large,1
+8682,extra large,5
+8683,extra large,3
+8684,large,6
+8685,small,5
+8686,large,2
+8687,small,5
+8688,small,6
+8689,medium,2
+8690,large,2
+8691,large,7
+8692,medium,3
+8693,small,2
+8694,extra large,7
+8695,small,1
+8696,extra large,2
+8697,large,4
+8698,large,1
+8699,medium,7
+8700,extra large,6
+8701,large,5
+8702,large,1
+8703,medium,5
+8704,small,1
+8705,extra large,1
+8706,medium,1
+8707,small,2
+8708,medium,6
+8709,medium,4
+8710,extra large,1
+8711,medium,3
+8712,extra large,7
+8713,large,4
+8714,large,2
+8715,small,1
+8716,medium,5
+8717,large,1
+8718,medium,5
+8719,extra large,3
+8720,medium,3
+8721,medium,6
+8722,small,4
+8723,large,2
+8724,large,7
+8725,small,4
+8726,small,4
+8727,large,2
+8728,medium,3
+8729,small,1
+8730,small,3
+8731,medium,3
+8732,small,6
+8733,small,3
+8734,medium,7
+8735,large,6
+8736,extra large,2
+8737,extra large,6
+8738,small,4
+8739,small,6
+8740,small,2
+8741,large,7
+8742,medium,4
+8743,small,3
+8744,medium,3
+8745,large,6
+8746,extra large,6
+8747,medium,3
+8748,extra large,5
+8749,small,1
+8750,extra large,4
+8751,extra large,6
+8752,medium,6
+8753,extra large,5
+8754,medium,1
+8755,medium,7
+8756,large,7
+8757,small,6
+8758,small,6
+8759,large,3
+8760,extra large,6
+8761,large,7
+8762,extra large,4
+8763,medium,3
+8764,extra large,1
+8765,extra large,2
+8766,extra large,5
+8767,large,5
+8768,medium,1
+8769,small,6
+8770,medium,5
+8771,large,7
+8772,extra large,5
+8773,small,5
+8774,extra large,4
+8775,medium,3
+8776,extra large,1
+8777,extra large,7
+8778,extra large,4
+8779,small,1
+8780,small,7
+8781,medium,7
+8782,small,7
+8783,extra large,7
+8784,small,2
+8785,extra large,7
+8786,large,1
+8787,extra large,5
+8788,extra large,4
+8789,extra large,3
+8790,small,4
+8791,extra large,2
+8792,medium,6
+8793,small,6
+8794,small,6
+8795,medium,4
+8796,large,4
+8797,small,5
+8798,large,1
+8799,large,1
+8800,extra large,1
+8801,extra large,4
+8802,large,7
+8803,medium,6
+8804,small,2
+8805,small,4
+8806,large,5
+8807,extra large,7
+8808,small,3
+8809,small,7
+8810,small,5
+8811,large,2
+8812,extra large,6
+8813,large,5
+8814,extra large,1
+8815,large,6
+8816,extra large,5
+8817,small,4
+8818,medium,3
+8819,small,3
+8820,medium,2
+8821,large,7
+8822,small,2
+8823,extra large,1
+8824,small,4
+8825,large,2
+8826,extra large,5
+8827,large,7
+8828,medium,6
+8829,medium,6
+8830,extra large,2
+8831,medium,1
+8832,large,7
+8833,medium,4
+8834,large,5
+8835,large,2
+8836,medium,5
+8837,small,7
+8838,small,1
+8839,extra large,2
+8840,small,5
+8841,large,1
+8842,extra large,6
+8843,large,2
+8844,large,2
+8845,small,6
+8846,medium,4
+8847,small,3
+8848,large,7
+8849,extra large,4
+8850,medium,4
+8851,small,5
+8852,large,2
+8853,medium,1
+8854,medium,1
+8855,small,3
+8856,extra large,3
+8857,large,6
+8858,small,4
+8859,small,7
+8860,extra large,4
+8861,medium,5
+8862,large,4
+8863,large,5
+8864,small,5
+8865,large,5
+8866,large,7
+8867,large,3
+8868,medium,6
+8869,small,6
+8870,small,3
+8871,large,4
+8872,extra large,7
+8873,small,2
+8874,small,2
+8875,extra large,3
+8876,large,3
+8877,small,7
+8878,small,1
+8879,small,2
+8880,medium,1
+8881,small,7
+8882,small,5
+8883,large,4
+8884,large,2
+8885,medium,4
+8886,small,5
+8887,extra large,1
+8888,large,5
+8889,medium,6
+8890,small,2
+8891,large,7
+8892,extra large,7
+8893,medium,6
+8894,small,1
+8895,large,5
+8896,extra large,2
+8897,extra large,7
+8898,small,6
+8899,large,2
+8900,medium,1
+8901,large,6
+8902,small,6
+8903,extra large,6
+8904,large,1
+8905,large,5
+8906,small,4
+8907,medium,2
+8908,small,7
+8909,medium,1
+8910,extra large,4
+8911,medium,6
+8912,medium,4
+8913,extra large,6
+8914,small,1
+8915,extra large,4
+8916,small,4
+8917,extra large,5
+8918,medium,4
+8919,extra large,6
+8920,small,6
+8921,medium,4
+8922,small,6
+8923,small,3
+8924,small,1
+8925,medium,5
+8926,extra large,5
+8927,large,7
+8928,extra large,3
+8929,medium,1
+8930,large,5
+8931,small,1
+8932,large,1
+8933,medium,7
+8934,medium,5
+8935,extra large,3
+8936,large,5
+8937,large,2
+8938,small,4
+8939,medium,6
+8940,medium,1
+8941,medium,3
+8942,small,2
+8943,medium,5
+8944,small,5
+8945,extra large,7
+8946,extra large,6
+8947,large,5
+8948,medium,6
+8949,large,5
+8950,extra large,5
+8951,small,6
+8952,extra large,7
+8953,small,4
+8954,medium,1
+8955,medium,3
+8956,extra large,5
+8957,large,4
+8958,small,3
+8959,large,7
+8960,medium,4
+8961,medium,7
+8962,medium,1
+8963,large,2
+8964,large,1
+8965,large,2
+8966,medium,7
+8967,small,2
+8968,large,7
+8969,medium,5
+8970,large,5
+8971,medium,7
+8972,large,6
+8973,extra large,6
+8974,medium,1
+8975,extra large,3
+8976,medium,1
+8977,extra large,6
+8978,extra large,6
+8979,small,2
+8980,extra large,7
+8981,large,6
+8982,medium,2
+8983,large,7
+8984,small,3
+8985,small,1
+8986,extra large,2
+8987,extra large,4
+8988,medium,6
+8989,large,4
+8990,extra large,6
+8991,medium,2
+8992,small,4
+8993,extra large,6
+8994,small,3
+8995,medium,7
+8996,small,2
+8997,small,7
+8998,extra large,1
+8999,extra large,5
+9000,medium,6
+9001,small,1
+9002,large,1
+9003,large,4
+9004,extra large,5
+9005,medium,6
+9006,large,4
+9007,medium,3
+9008,small,6
+9009,large,1
+9010,small,6
+9011,small,3
+9012,medium,5
+9013,small,5
+9014,extra large,4
+9015,small,7
+9016,large,2
+9017,small,2
+9018,small,1
+9019,medium,7
+9020,medium,1
+9021,extra large,3
+9022,extra large,7
+9023,medium,6
+9024,extra large,4
+9025,small,6
+9026,large,3
+9027,small,4
+9028,extra large,4
+9029,large,1
+9030,medium,6
+9031,medium,4
+9032,extra large,3
+9033,medium,5
+9034,extra large,5
+9035,large,7
+9036,medium,1
+9037,small,4
+9038,small,3
+9039,large,1
+9040,small,4
+9041,extra large,5
+9042,extra large,7
+9043,large,7
+9044,extra large,7
+9045,medium,3
+9046,extra large,2
+9047,extra large,5
+9048,extra large,7
+9049,extra large,5
+9050,small,2
+9051,small,5
+9052,medium,2
+9053,extra large,6
+9054,small,3
+9055,large,3
+9056,medium,6
+9057,medium,7
+9058,large,2
+9059,small,6
+9060,extra large,3
+9061,small,4
+9062,large,3
+9063,medium,5
+9064,large,2
+9065,large,3
+9066,small,6
+9067,extra large,4
+9068,medium,7
+9069,extra large,7
+9070,medium,5
+9071,large,4
+9072,medium,2
+9073,large,1
+9074,medium,3
+9075,extra large,5
+9076,small,1
+9077,small,2
+9078,small,2
+9079,medium,6
+9080,extra large,4
+9081,extra large,2
+9082,small,2
+9083,large,2
+9084,medium,1
+9085,medium,2
+9086,extra large,2
+9087,medium,3
+9088,medium,4
+9089,medium,3
+9090,large,1
+9091,large,6
+9092,extra large,3
+9093,medium,1
+9094,extra large,3
+9095,small,4
+9096,medium,7
+9097,small,5
+9098,small,1
+9099,small,2
+9100,extra large,7
+9101,small,4
+9102,small,2
+9103,medium,5
+9104,medium,5
+9105,extra large,1
+9106,medium,1
+9107,medium,4
+9108,small,3
+9109,large,5
+9110,medium,2
+9111,large,6
+9112,extra large,1
+9113,small,5
+9114,small,7
+9115,extra large,6
+9116,large,1
+9117,extra large,3
+9118,medium,1
+9119,large,7
+9120,extra large,6
+9121,small,1
+9122,small,7
+9123,small,3
+9124,extra large,3
+9125,large,3
+9126,large,7
+9127,small,6
+9128,medium,4
+9129,extra large,4
+9130,small,7
+9131,small,3
+9132,small,5
+9133,small,4
+9134,extra large,1
+9135,large,5
+9136,large,5
+9137,small,4
+9138,large,3
+9139,medium,2
+9140,medium,5
+9141,large,3
+9142,large,7
+9143,medium,5
+9144,extra large,3
+9145,large,6
+9146,medium,3
+9147,extra large,7
+9148,extra large,7
+9149,small,2
+9150,large,1
+9151,extra large,5
+9152,medium,1
+9153,extra large,5
+9154,medium,7
+9155,medium,1
+9156,small,7
+9157,medium,4
+9158,small,2
+9159,large,1
+9160,medium,2
+9161,small,3
+9162,large,2
+9163,large,4
+9164,small,7
+9165,medium,4
+9166,extra large,4
+9167,small,6
+9168,large,6
+9169,large,6
+9170,medium,6
+9171,small,2
+9172,medium,5
+9173,medium,3
+9174,large,5
+9175,medium,5
+9176,small,3
+9177,medium,4
+9178,large,6
+9179,extra large,4
+9180,extra large,4
+9181,extra large,4
+9182,large,3
+9183,small,7
+9184,medium,7
+9185,large,6
+9186,medium,1
+9187,medium,6
+9188,small,1
+9189,medium,6
+9190,medium,5
+9191,medium,1
+9192,extra large,4
+9193,large,5
+9194,medium,6
+9195,extra large,4
+9196,small,6
+9197,medium,6
+9198,small,7
+9199,medium,4
+9200,small,5
+9201,medium,6
+9202,extra large,6
+9203,extra large,1
+9204,extra large,4
+9205,extra large,1
+9206,medium,3
+9207,extra large,2
+9208,large,3
+9209,extra large,3
+9210,small,7
+9211,small,2
+9212,medium,2
+9213,extra large,1
+9214,extra large,5
+9215,medium,6
+9216,small,1
+9217,medium,1
+9218,medium,5
+9219,large,1
+9220,large,4
+9221,large,4
+9222,extra large,6
+9223,medium,5
+9224,medium,7
+9225,small,5
+9226,large,4
+9227,small,2
+9228,extra large,7
+9229,extra large,7
+9230,small,5
+9231,medium,1
+9232,small,1
+9233,extra large,4
+9234,medium,7
+9235,large,2
+9236,extra large,3
+9237,small,2
+9238,medium,7
+9239,small,4
+9240,extra large,3
+9241,extra large,4
+9242,large,4
+9243,extra large,3
+9244,medium,5
+9245,extra large,3
+9246,medium,4
+9247,large,1
+9248,medium,1
+9249,medium,4
+9250,medium,4
+9251,large,4
+9252,small,1
+9253,medium,6
+9254,extra large,3
+9255,small,7
+9256,small,5
+9257,small,1
+9258,large,6
+9259,small,2
+9260,small,2
+9261,large,3
+9262,small,6
+9263,medium,3
+9264,small,6
+9265,small,5
+9266,small,4
+9267,small,7
+9268,small,7
+9269,large,6
+9270,small,7
+9271,extra large,7
+9272,extra large,2
+9273,small,6
+9274,medium,6
+9275,large,7
+9276,extra large,6
+9277,extra large,5
+9278,extra large,7
+9279,large,5
+9280,medium,1
+9281,extra large,7
+9282,small,7
+9283,extra large,4
+9284,extra large,7
+9285,extra large,2
+9286,medium,2
+9287,extra large,2
+9288,extra large,7
+9289,large,6
+9290,medium,5
+9291,small,1
+9292,small,5
+9293,small,5
+9294,extra large,1
+9295,medium,5
+9296,medium,2
+9297,extra large,6
+9298,small,6
+9299,large,3
+9300,large,5
+9301,extra large,4
+9302,extra large,4
+9303,large,3
+9304,medium,3
+9305,large,5
+9306,extra large,7
+9307,medium,6
+9308,large,4
+9309,large,2
+9310,small,1
+9311,large,3
+9312,small,4
+9313,small,7
+9314,extra large,1
+9315,small,1
+9316,small,3
+9317,large,3
+9318,large,4
+9319,small,2
+9320,medium,7
+9321,medium,5
+9322,medium,7
+9323,medium,7
+9324,large,1
+9325,medium,5
+9326,small,4
+9327,medium,1
+9328,extra large,1
+9329,medium,2
+9330,medium,5
+9331,large,4
+9332,small,7
+9333,extra large,4
+9334,large,3
+9335,medium,2
+9336,large,3
+9337,extra large,3
+9338,small,2
+9339,extra large,4
+9340,extra large,5
+9341,small,2
+9342,large,5
+9343,large,2
+9344,large,5
+9345,large,1
+9346,large,6
+9347,small,7
+9348,small,1
+9349,small,4
+9350,medium,4
+9351,small,4
+9352,medium,5
+9353,small,2
+9354,medium,6
+9355,large,5
+9356,extra large,3
+9357,medium,3
+9358,large,5
+9359,small,5
+9360,medium,1
+9361,large,4
+9362,large,4
+9363,extra large,4
+9364,small,2
+9365,small,3
+9366,large,7
+9367,extra large,1
+9368,large,7
+9369,medium,5
+9370,small,7
+9371,large,5
+9372,small,4
+9373,small,2
+9374,extra large,4
+9375,large,2
+9376,extra large,5
+9377,small,3
+9378,small,5
+9379,small,2
+9380,small,5
+9381,large,3
+9382,large,3
+9383,extra large,4
+9384,extra large,6
+9385,medium,7
+9386,medium,2
+9387,medium,3
+9388,extra large,1
+9389,large,2
+9390,small,4
+9391,extra large,3
+9392,medium,1
+9393,extra large,4
+9394,small,1
+9395,extra large,7
+9396,large,1
+9397,medium,5
+9398,extra large,2
+9399,large,6
+9400,small,3
+9401,large,6
+9402,extra large,2
+9403,small,1
+9404,extra large,6
+9405,extra large,4
+9406,small,1
+9407,small,3
+9408,extra large,6
+9409,small,2
+9410,extra large,7
+9411,extra large,6
+9412,small,6
+9413,small,7
+9414,extra large,1
+9415,medium,6
+9416,extra large,1
+9417,medium,7
+9418,extra large,3
+9419,medium,7
+9420,small,1
+9421,medium,2
+9422,small,7
+9423,small,4
+9424,medium,4
+9425,small,2
+9426,extra large,5
+9427,small,4
+9428,extra large,3
+9429,small,7
+9430,extra large,7
+9431,large,5
+9432,medium,5
+9433,small,4
+9434,extra large,5
+9435,large,7
+9436,extra large,7
+9437,small,3
+9438,extra large,3
+9439,small,3
+9440,small,1
+9441,medium,7
+9442,extra large,2
+9443,medium,2
+9444,extra large,2
+9445,extra large,4
+9446,small,3
+9447,large,5
+9448,small,6
+9449,medium,4
+9450,medium,2
+9451,medium,2
+9452,extra large,2
+9453,medium,7
+9454,small,1
+9455,extra large,2
+9456,large,1
+9457,large,5
+9458,large,2
+9459,small,7
+9460,large,6
+9461,large,6
+9462,extra large,5
+9463,medium,7
+9464,medium,2
+9465,large,5
+9466,small,7
+9467,small,1
+9468,medium,4
+9469,extra large,5
+9470,small,3
+9471,small,7
+9472,extra large,6
+9473,small,4
+9474,large,7
+9475,small,4
+9476,extra large,6
+9477,medium,7
+9478,small,2
+9479,large,6
+9480,medium,5
+9481,medium,1
+9482,extra large,2
+9483,medium,1
+9484,extra large,7
+9485,medium,4
+9486,medium,6
+9487,extra large,2
+9488,large,2
+9489,small,2
+9490,extra large,3
+9491,small,1
+9492,large,1
+9493,extra large,3
+9494,extra large,3
+9495,large,7
+9496,extra large,5
+9497,small,6
+9498,medium,7
+9499,extra large,2
+9500,extra large,4
+9501,medium,1
+9502,large,2
+9503,small,4
+9504,extra large,5
+9505,extra large,4
+9506,medium,7
+9507,medium,1
+9508,small,2
+9509,extra large,2
+9510,small,2
+9511,small,3
+9512,large,7
+9513,small,3
+9514,large,4
+9515,extra large,3
+9516,large,2
+9517,large,4
+9518,small,4
+9519,large,1
+9520,medium,5
+9521,medium,6
+9522,extra large,1
+9523,large,4
+9524,small,4
+9525,extra large,3
+9526,medium,5
+9527,small,5
+9528,medium,2
+9529,medium,3
+9530,small,5
+9531,extra large,4
+9532,large,5
+9533,small,6
+9534,extra large,1
+9535,small,7
+9536,large,5
+9537,large,4
+9538,large,2
+9539,medium,1
+9540,large,5
+9541,extra large,4
+9542,medium,4
+9543,small,7
+9544,large,2
+9545,small,3
+9546,small,4
+9547,small,7
+9548,medium,2
+9549,large,6
+9550,large,5
+9551,extra large,2
+9552,small,6
+9553,medium,3
+9554,large,4
+9555,small,1
+9556,extra large,3
+9557,small,5
+9558,large,1
+9559,extra large,4
+9560,extra large,2
+9561,small,7
+9562,extra large,4
+9563,large,7
+9564,medium,5
+9565,medium,5
+9566,medium,4
+9567,medium,3
+9568,extra large,5
+9569,small,1
+9570,large,3
+9571,medium,7
+9572,small,6
+9573,small,2
+9574,extra large,7
+9575,small,3
+9576,extra large,2
+9577,medium,4
+9578,medium,6
+9579,extra large,4
+9580,large,2
+9581,small,3
+9582,medium,7
+9583,medium,5
+9584,small,6
+9585,extra large,1
+9586,large,3
+9587,medium,3
+9588,extra large,5
+9589,large,4
+9590,small,7
+9591,small,6
+9592,small,4
+9593,large,7
+9594,large,5
+9595,large,1
+9596,large,5
+9597,small,4
+9598,large,6
+9599,small,6
+9600,extra large,6
+9601,medium,2
+9602,extra large,1
+9603,large,3
+9604,medium,7
+9605,small,7
+9606,large,6
+9607,small,1
+9608,large,4
+9609,large,1
+9610,extra large,1
+9611,extra large,1
+9612,extra large,7
+9613,extra large,5
+9614,medium,4
+9615,extra large,6
+9616,medium,7
+9617,small,3
+9618,small,1
+9619,large,3
+9620,small,4
+9621,medium,4
+9622,extra large,6
+9623,medium,6
+9624,small,4
+9625,extra large,4
+9626,large,2
+9627,extra large,6
+9628,large,4
+9629,large,3
+9630,medium,2
+9631,small,3
+9632,small,7
+9633,medium,6
+9634,large,7
+9635,small,4
+9636,small,3
+9637,extra large,1
+9638,large,4
+9639,extra large,1
+9640,small,6
+9641,large,3
+9642,medium,4
+9643,medium,3
+9644,extra large,7
+9645,small,1
+9646,extra large,3
+9647,medium,1
+9648,medium,7
+9649,extra large,6
+9650,large,7
+9651,large,1
+9652,large,7
+9653,small,2
+9654,extra large,5
+9655,large,5
+9656,medium,7
+9657,medium,7
+9658,medium,6
+9659,medium,6
+9660,large,5
+9661,large,4
+9662,small,1
+9663,extra large,7
+9664,extra large,7
+9665,small,6
+9666,medium,4
+9667,medium,7
+9668,medium,4
+9669,large,2
+9670,small,3
+9671,extra large,6
+9672,small,5
+9673,small,3
+9674,large,2
+9675,small,6
+9676,large,5
+9677,small,7
+9678,large,3
+9679,medium,7
+9680,extra large,6
+9681,small,7
+9682,small,2
+9683,medium,2
+9684,extra large,6
+9685,large,1
+9686,small,6
+9687,large,6
+9688,small,7
+9689,small,6
+9690,extra large,3
+9691,small,1
+9692,medium,3
+9693,medium,1
+9694,large,1
+9695,small,4
+9696,large,3
+9697,extra large,6
+9698,large,2
+9699,large,5
+9700,extra large,3
+9701,extra large,4
+9702,medium,2
+9703,small,7
+9704,medium,1
+9705,small,3
+9706,large,5
+9707,small,6
+9708,medium,1
+9709,small,2
+9710,extra large,7
+9711,small,7
+9712,large,6
+9713,large,1
+9714,extra large,1
+9715,medium,6
+9716,small,3
+9717,medium,4
+9718,extra large,6
+9719,extra large,7
+9720,extra large,5
+9721,extra large,3
+9722,small,2
+9723,medium,4
+9724,extra large,2
+9725,medium,7
+9726,small,1
+9727,extra large,3
+9728,small,2
+9729,medium,5
+9730,small,2
+9731,small,7
+9732,small,2
+9733,medium,2
+9734,large,5
+9735,large,2
+9736,medium,4
+9737,medium,7
+9738,large,6
+9739,extra large,7
+9740,large,5
+9741,large,4
+9742,small,5
+9743,medium,1
+9744,small,2
+9745,large,4
+9746,extra large,1
+9747,large,6
+9748,large,2
+9749,small,2
+9750,large,6
+9751,medium,7
+9752,extra large,7
+9753,extra large,2
+9754,medium,1
+9755,extra large,3
+9756,large,2
+9757,medium,3
+9758,large,4
+9759,medium,4
+9760,small,3
+9761,medium,4
+9762,large,5
+9763,small,3
+9764,small,2
+9765,small,1
+9766,large,3
+9767,small,5
+9768,extra large,1
+9769,extra large,6
+9770,large,2
+9771,small,7
+9772,medium,5
+9773,small,3
+9774,small,6
+9775,small,3
+9776,small,4
+9777,medium,1
+9778,extra large,3
+9779,medium,1
+9780,extra large,5
+9781,large,4
+9782,extra large,7
+9783,medium,2
+9784,small,1
+9785,extra large,7
+9786,small,5
+9787,medium,1
+9788,medium,1
+9789,medium,3
+9790,extra large,2
+9791,medium,7
+9792,extra large,7
+9793,large,1
+9794,medium,5
+9795,extra large,2
+9796,small,3
+9797,large,5
+9798,medium,2
+9799,large,1
+9800,large,2
+9801,large,1
+9802,extra large,6
+9803,medium,6
+9804,large,1
+9805,small,1
+9806,small,5
+9807,small,7
+9808,small,1
+9809,medium,5
+9810,extra large,6
+9811,large,5
+9812,medium,5
+9813,large,2
+9814,large,1
+9815,large,1
+9816,medium,3
+9817,small,2
+9818,large,4
+9819,medium,3
+9820,extra large,5
+9821,small,5
+9822,extra large,3
+9823,small,5
+9824,medium,2
+9825,large,7
+9826,small,4
+9827,medium,7
+9828,medium,5
+9829,medium,7
+9830,large,7
+9831,large,3
+9832,large,4
+9833,small,5
+9834,medium,2
+9835,extra large,4
+9836,small,4
+9837,small,4
+9838,small,5
+9839,medium,7
+9840,medium,5
+9841,small,4
+9842,medium,2
+9843,small,3
+9844,large,4
+9845,small,1
+9846,small,2
+9847,small,2
+9848,extra large,6
+9849,medium,7
+9850,extra large,2
+9851,small,6
+9852,small,1
+9853,extra large,4
+9854,medium,4
+9855,extra large,7
+9856,extra large,6
+9857,medium,2
+9858,extra large,1
+9859,large,7
+9860,small,2
+9861,medium,3
+9862,small,4
+9863,small,6
+9864,extra large,5
+9865,extra large,6
+9866,extra large,3
+9867,small,5
+9868,extra large,5
+9869,extra large,3
+9870,large,1
+9871,small,4
+9872,extra large,2
+9873,medium,2
+9874,medium,1
+9875,large,1
+9876,large,3
+9877,extra large,5
+9878,small,7
+9879,extra large,2
+9880,small,1
+9881,medium,3
+9882,extra large,5
+9883,small,2
+9884,extra large,3
+9885,large,6
+9886,small,7
+9887,small,5
+9888,small,7
+9889,small,3
+9890,medium,1
+9891,medium,5
+9892,extra large,7
+9893,extra large,4
+9894,extra large,1
+9895,small,5
+9896,small,4
+9897,extra large,3
+9898,large,4
+9899,extra large,3
+9900,small,6
+9901,large,6
+9902,extra large,5
+9903,medium,2
+9904,medium,6
+9905,large,7
+9906,extra large,1
+9907,large,4
+9908,extra large,1
+9909,medium,5
+9910,large,7
+9911,small,2
+9912,small,6
+9913,small,2
+9914,extra large,5
+9915,small,5
+9916,large,1
+9917,large,1
+9918,large,6
+9919,small,1
+9920,large,5
+9921,large,6
+9922,medium,3
+9923,extra large,5
+9924,medium,6
+9925,large,6
+9926,extra large,2
+9927,small,2
+9928,extra large,3
+9929,small,6
+9930,small,5
+9931,extra large,1
+9932,small,4
+9933,medium,5
+9934,extra large,6
+9935,extra large,6
+9936,small,7
+9937,small,2
+9938,small,3
+9939,extra large,7
+9940,medium,6
+9941,medium,1
+9942,large,2
+9943,large,7
+9944,extra large,6
+9945,small,7
+9946,medium,2
+9947,small,4
+9948,medium,1
+9949,small,3
+9950,medium,6
+9951,large,7
+9952,small,7
+9953,extra large,2
+9954,extra large,3
+9955,extra large,1
+9956,large,6
+9957,large,3
+9958,small,1
+9959,medium,2
+9960,extra large,1
+9961,large,2
+9962,small,1
+9963,large,3
+9964,large,2
+9965,medium,6
+9966,extra large,7
+9967,large,5
+9968,large,5
+9969,small,1
+9970,medium,4
+9971,medium,7
+9972,extra large,1
+9973,large,6
+9974,large,1
+9975,extra large,2
+9976,large,3
+9977,medium,4
+9978,extra large,1
+9979,extra large,4
+9980,small,1
+9981,large,7
+9982,large,7
+9983,extra large,7
+9984,extra large,3
+9985,medium,6
+9986,medium,3
+9987,small,4
+9988,medium,1
+9989,medium,4
+9990,large,7
+9991,small,3
+9992,extra large,5
+9993,large,4
+9994,extra large,4
+9995,medium,4
+9996,medium,2
+9997,large,7
+9998,medium,2
+9999,medium,5
+10000,medium,4
+10001,small,3
+10002,medium,7
+10003,large,2
+10004,extra large,7
+10005,extra large,2
+10006,small,3
+10007,large,2
+10008,small,7
+10009,extra large,2
+10010,large,3
+10011,medium,1
+10012,large,1
+10013,medium,7
+10014,medium,1
+10015,small,6
+10016,small,3
+10017,large,2
+10018,medium,1
+10019,small,3
+10020,medium,1
+10021,extra large,4
+10022,medium,1
+10023,medium,4
+10024,small,1
+10025,extra large,5
+10026,small,7
+10027,extra large,6
+10028,extra large,4
+10029,medium,6
+10030,large,6
+10031,small,1
+10032,large,4
+10033,large,7
+10034,extra large,3
+10035,extra large,2
+10036,large,5
+10037,medium,3
+10038,large,7
+10039,small,1
+10040,small,7
+10041,large,5
+10042,medium,7
+10043,extra large,4
+10044,small,6
+10045,large,1
+10046,small,4
+10047,small,6
+10048,medium,7
+10049,extra large,4
+10050,large,6
+10051,extra large,4
+10052,medium,2
+10053,large,7
+10054,large,3
+10055,large,2
+10056,small,3
+10057,medium,7
+10058,large,1
+10059,extra large,6
+10060,small,7
+10061,small,7
+10062,small,1
+10063,extra large,3
+10064,extra large,4
+10065,medium,4
+10066,small,5
+10067,large,6
+10068,small,7
+10069,extra large,6
+10070,extra large,4
+10071,large,6
+10072,medium,3
+10073,extra large,3
+10074,large,4
+10075,extra large,2
+10076,extra large,3
+10077,extra large,6
+10078,small,3
+10079,small,7
+10080,large,6
+10081,large,5
+10082,large,4
+10083,extra large,2
+10084,large,1
+10085,large,7
+10086,small,7
+10087,extra large,1
+10088,medium,3
+10089,small,2
+10090,extra large,6
+10091,large,6
+10092,small,3
+10093,medium,5
+10094,small,1
+10095,medium,5
+10096,small,7
+10097,small,6
+10098,large,1
+10099,medium,3
+10100,medium,2
+10101,large,2
+10102,small,7
+10103,extra large,3
+10104,small,7
+10105,small,7
+10106,large,3
+10107,large,4
+10108,large,4
+10109,extra large,2
+10110,extra large,3
+10111,small,2
+10112,small,5
+10113,medium,4
+10114,small,7
+10115,small,4
+10116,small,3
+10117,extra large,1
+10118,extra large,5
+10119,large,7
+10120,small,4
+10121,small,6
+10122,small,4
+10123,medium,4
+10124,extra large,3
+10125,large,1
+10126,medium,3
+10127,small,6
+10128,extra large,5
+10129,medium,5
+10130,medium,5
+10131,small,2
+10132,medium,7
+10133,medium,5
+10134,extra large,7
+10135,small,3
+10136,large,3
+10137,medium,5
+10138,medium,4
+10139,medium,3
+10140,extra large,7
+10141,extra large,2
+10142,extra large,1
+10143,large,1
+10144,small,6
+10145,medium,3
+10146,large,4
+10147,small,6
+10148,medium,3
+10149,medium,6
+10150,extra large,7
+10151,small,3
+10152,extra large,7
+10153,small,6
+10154,extra large,6
+10155,large,3
+10156,medium,3
+10157,small,4
+10158,extra large,5
+10159,large,5
+10160,extra large,4
+10161,large,7
+10162,medium,4
+10163,extra large,7
+10164,medium,5
+10165,large,1
+10166,large,3
+10167,small,3
+10168,small,5
+10169,small,3
+10170,large,6
+10171,extra large,5
+10172,small,4
+10173,large,3
+10174,extra large,7
+10175,large,4
+10176,medium,5
+10177,small,1
+10178,medium,4
+10179,small,7
+10180,medium,7
+10181,extra large,4
+10182,large,4
+10183,small,4
+10184,large,7
+10185,medium,4
+10186,extra large,7
+10187,extra large,5
+10188,small,3
+10189,medium,3
+10190,medium,7
+10191,medium,2
+10192,large,3
+10193,medium,3
+10194,large,5
+10195,medium,5
+10196,extra large,3
+10197,extra large,5
+10198,medium,5
+10199,small,4
+10200,large,1
