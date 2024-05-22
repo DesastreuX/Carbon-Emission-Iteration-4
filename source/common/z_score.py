@@ -35,8 +35,12 @@ def z_score(df: DataFrame, columns: list[str]) -> DataFrame:
 
         # Calculate the z-score for the current column
         z_score_df = z_score_df.withColumn(
-            f"{column}", (df[column] - stats["mean"]) / stats["stddev"]
+            column, (df[column] - stats["mean"]) / stats["stddev"]
         )
+
+    # Add the id column if it exists
+    if "id" in df.columns:
+        columns.append("id")
 
     # Select only the specified columns from the z-scored DataFrame
     return z_score_df.select(columns)

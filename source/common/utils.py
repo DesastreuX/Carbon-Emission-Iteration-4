@@ -5,7 +5,7 @@ import seaborn as sns
 from common.z_score import abs_z_score
 from pyspark.sql import DataFrame, SparkSession
 from pyspark.sql.functions import sum
-from pyspark.sql.types import IntegerType, NumericType, StringType
+from pyspark.sql.types import ArrayType, IntegerType, NumericType, StringType
 
 
 def describe_dataframe_details(spark: SparkSession, df: DataFrame) -> DataFrame:
@@ -104,6 +104,31 @@ def detect_string_variables(df: DataFrame) -> list[str]:
             string_columns.append(column_name)
 
     return string_columns
+
+
+def detect_array_variables(df: DataFrame) -> list[str]:
+    """
+    Detects array variables in a DataFrame.
+
+    Args:
+        df (DataFrame): The input DataFrame.
+
+    Returns:
+        list[str]: A list of column names that are array variables.
+    """
+    array_columns = []
+
+    # Iterate over each column in the DataFrame
+    for column_name in df.columns:
+        # Get the data type of the column
+        dtype = df.schema[column_name].dataType
+
+        # Check if the data type is ArrayType
+        if isinstance(dtype, ArrayType):
+            # If it is, add the column name to the list of array columns
+            array_columns.append(column_name)
+
+    return array_columns
 
 
 def change_case(string: str):
@@ -251,5 +276,4 @@ def plot_column_value_count(df: DataFrame, column_name: str):
     plt.title(f"Count of Value in {column_name} plot", y=1.05)
 
     # Add a legend to the plot
-    plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
-    
+    plt.legend(bbox_to_anchor=(1.02, 1), loc="upper left", borderaxespad=0)
