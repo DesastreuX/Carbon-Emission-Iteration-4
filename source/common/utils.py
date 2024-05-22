@@ -1,8 +1,11 @@
 from functools import reduce
 
+import matplotlib.pyplot as plt
+import seaborn as sns
 from common.z_score import abs_z_score
 from pyspark.sql import DataFrame, SparkSession
-from pyspark.sql.types import IntegerType, NumericType
+from pyspark.sql.functions import sum
+from pyspark.sql.types import IntegerType, NumericType, StringType
 
 
 def describe_dataframe_details(spark: SparkSession, df: DataFrame) -> DataFrame:
@@ -78,6 +81,31 @@ def detect_continuous_variables(df: DataFrame) -> list[str]:
     return continuous_columns
 
 
+def detect_string_variables(df: DataFrame) -> list[str]:
+    """
+    Detects string variables in a DataFrame.
+
+    Args:
+        df (DataFrame): The input DataFrame.
+
+    Returns:
+        list[str]: A list of column names that are string variables.
+    """
+    string_columns = []
+
+    # Iterate over each column in the DataFrame
+    for column_name in df.columns:
+        # Get the data type of the column
+        dtype = df.schema[column_name].dataType
+
+        # Check if the data type is StringType
+        if isinstance(dtype, StringType):
+            # If it is, add the column name to the list of string columns
+            string_columns.append(column_name)
+
+    return string_columns
+
+
 def change_case(string: str):
     """
     Changes the case of a given string to snake case by replacing spaces with underscores and upper case to lower case.
@@ -96,11 +124,132 @@ def change_case(string: str):
     return final_string
 
 
-def rename_columns(df: DataFrame)->DataFrame:
+def rename_columns(df: DataFrame) -> DataFrame:
+    """
+    Renames the columns of a DataFrame by converting them to snake case.
+
+    Args:
+        df (DataFrame): The input DataFrame.
+
+    Returns:
+        DataFrame: The DataFrame with renamed columns.
+    """
+    # Create a dictionary mapping the old column names to the new column names in snake case
     rename_mapping = {
-        column_name: change_case(string=column_name) for column_name in df.columns
+        column_name: change_case(
+            string=column_name
+        )  # Convert column name to snake case
+        for column_name in df.columns
     }
-    for k, v in rename_mapping.items():
-        if k != v:
-            df = df.withColumnRenamed(k, v)
+
+    # Rename the columns in the DataFrame
+    for old_name, new_name in rename_mapping.items():
+        if (
+            old_name != new_name
+        ):  # Only rename if the new name is different from the old name
+            df = df.withColumnRenamed(old_name, new_name)
+
     return df
+
+
+def plt_group_by_2_columns_and_sum(df: DataFrame, group_by: list[str], sum_column: str):
+    """
+    Plot a bar plot with group by columns and sum of a specific column.
+
+    Args:
+        df (DataFrame): The input DataFrame.
+        group_by (list[str]): The list of columns to group by.
+        sum_column (str): The column to calculate the sum of.
+
+    Returns:
+        None
+    """
+    # Calculate the sum of the sum_column for group_by columns
+    df_grouped = (
+        df.groupBy(group_by)
+        .agg(sum(sum_column).alias(f"sum_{sum_column}"))
+        .sort(group_by)
+    )
+
+    # Convert the grouped DataFrame to a Pandas DataFrame
+    plot_df = df_grouped.toPandas()
+
+    # Set the seaborn theme
+    sns.set_theme(context="talk")
+
+    # Create a figure with the specified size
+    plt.figure(figsize=(11, 8))
+
+    # Plot the bar plot with the x-axis as the first group_by column,
+    # the y-axis as the sum of the sum_column, and the hue as the second group_by column
+    sns.barplot(x=group_by[0], y=f"sum_{sum_column}", hue=group_by[1], data=plot_df)
+
+    # Set the title of the plot
+    plt.title(f"{' and '.join(group_by)} with sum_{sum_column} plot", y=1.05)
+
+    # Add a legend to the plot
+    plt.legend(loc="upper right")
+
+
+def scatter_plot(df: DataFrame, x: str, y: str, hue: str):
+    """
+    Plot a scatter plot with the specified x, y, and hue variables.
+
+    Args:
+        df (DataFrame): The input DataFrame.
+        x (str): The name of the x-axis variable.
+        y (str): The name of the y-axis variable.
+        hue (str): The name of the hue variable.
+
+    Returns:
+        None
+    """
+    # Convert the DataFrame to a Pandas DataFrame
+    plot_df = df.toPandas()
+
+    # Set the seaborn theme
+    sns.set_theme(context="talk")
+
+    # Create a figure with the specified size
+    plt.figure(figsize=(11, 8))
+
+    # Plot the scatter plot with the specified x, y, and hue variables
+    sns.scatterplot(x=x, y=y, hue=hue, data=plot_df)
+
+    # Set the title of the plot
+    plt.title(f"{x} and {y} plot", y=1.05)
+
+    # Add a legend to the plot
+    plt.legend(loc="upper right")
+
+
+def plot_column_value_count(df: DataFrame, column_name: str):
+    """
+    Plot a bar plot with the count of values in a given column.
+
+    Args:
+        df (DataFrame): The input DataFrame.
+        column_name (str): The name of the column to count values of.
+
+    Returns:
+        None
+    """
+    # Group the DataFrame by the specified column and count the number of occurrences of each value
+    plot_df = df.groupBy(column_name).count().toPandas()
+
+    # Set the seaborn theme
+    sns.set_theme(context="talk")
+
+    # Create a figure with the specified size
+    plt.figure(figsize=(11, 8))
+
+    # Plot a bar plot with the x-axis as the values of the specified column,
+    # the y-axis as the count of occurrences, and the hue as the values of the specified column
+    sns.barplot(y=column_name, x="count", hue=column_name, data=plot_df)
+
+    # Set the title of the plot
+    plt.title(f"Count of Value in {column_name} plot", y=1.05)
+
+    # Add a legend to the plot
+    plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
+    
